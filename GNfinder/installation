@@ -1,0 +1,11 @@
+Installed as a command line app in windows, with commands:
+
+mkdir C:\bin
+copy path_to\gnfinder.exe C:\bin
+last step: adding C:\bin directory to PATH environment variable.
+
+When you run gnfinder command for the first time, it will create a gnfinder.yml configuration file. 
+
+Command: gnfinder test.txt -f tsv, runs gnfinder for test.txt with a tsv output.
+Starting as a web-application and an API server on port 8080:
+gnfinder -p 8080
