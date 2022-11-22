@@ -1,0 +1,54 @@
+spacy/model-best/config.cfg
+spacy/model-best/meta.json
+spacy/model-best/tokenizer
+spacy/model-best/ner/cfg
+spacy/model-best/ner/model
+spacy/model-best/ner/moves
+spacy/model-best/tok2vec/cfg
+spacy/model-best/tok2vec/model
+spacy/model-best/vocab/key2row
+spacy/model-best/vocab/lookups.bin
+spacy/model-best/vocab/strings.json
+spacy/model-best/vocab/vectors
+spacy/model-best/vocab/vectors.cfg
+spacy/model-last/config.cfg
+spacy/model-last/meta.json
+spacy/model-last/tokenizer
+spacy/model-last/ner/cfg
+spacy/model-last/ner/model
+spacy/model-last/ner/moves
+spacy/model-last/tok2vec/cfg
+spacy/model-last/tok2vec/model
+spacy/model-last/vocab/key2row
+spacy/model-last/vocab/lookups.bin
+spacy/model-last/vocab/strings.json
+spacy/model-last/vocab/vectors
+spacy/model-last/vocab/vectors.cfg
+spacy/model-last - Copy/config.cfg
+spacy/model-last - Copy/meta.json
+spacy/model-last - Copy/tokenizer
+spacy/model-last - Copy/ner/cfg
+spacy/model-last - Copy/ner/model
+spacy/model-last - Copy/ner/moves
+spacy/model-last - Copy/tok2vec/cfg
+spacy/model-last - Copy/tok2vec/model
+spacy/model-last - Copy/vocab/key2row
+spacy/model-last - Copy/vocab/lookups.bin
+spacy/model-last - Copy/vocab/strings.json
+spacy/model-last - Copy/vocab/vectors
+spacy/model-last - Copy/vocab/vectors.cfg
+spacy/ner_corpus+paper1/config.cfg
+spacy/ner_corpus+paper1/meta.json
+spacy/ner_corpus+paper1/tokenizer
+spacy/ner_corpus+paper1/ner/cfg
+spacy/ner_corpus+paper1/ner/model
+spacy/ner_corpus+paper1/ner/moves
+spacy/ner_corpus+paper1/tok2vec/cfg
+spacy/ner_corpus+paper1/tok2vec/model
+spacy/ner_corpus+paper1/vocab/key2row
+spacy/ner_corpus+paper1/vocab/lookups.bin
+spacy/ner_corpus+paper1/vocab/strings.json
+spacy/ner_corpus+paper1/vocab/vectors
+spacy/ner_corpus+paper1/vocab/vectors.cfg
+spacy/train_corpus.spacy
+spacy/train_corpus+paper1.spacy
