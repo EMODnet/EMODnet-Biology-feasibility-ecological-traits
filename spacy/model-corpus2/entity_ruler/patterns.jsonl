@@ -1,0 +1,297 @@
+{"label":"Distribution Descriptor","pattern":"Abyssobenthic","id":"https://www.marinespecies.org/traits/wiki/Traits:Abyssobenthic"}
+{"label":"Distribution Descriptor","pattern":"Abyssal","id":"https://www.marinespecies.org/traits/wiki/Traits:Abyssobenthic"}
+{"label":"Distribution Descriptor","pattern":"Abyssopelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Abyssopelagic"}
+{"label":"Distribution Descriptor","pattern":"Alpha Mesohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaMesohaline"}
+{"label":"Distribution Descriptor","pattern":"Alpha-Mesohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaMesohaline"}
+{"label":"Distribution Descriptor","pattern":"Alpha Oligohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaOligohaline"}
+{"label":"Distribution Descriptor","pattern":"Alpha-Oligohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaOligohaline"}
+{"label":"Distribution Descriptor","pattern":"Alpja Polyhaline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaPolyhaline"}
+{"label":"Distribution Descriptor","pattern":"Alpha-Polyhaline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaPolyhaline"}
+{"label":"Distribution Descriptor","pattern":"Alpha Haline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaHaline"}
+{"label":"Distribution Descriptor","pattern":"Alpha-haline","id":"https://www.marinespecies.org/traits/wiki/Traits:AlphaHaline"}
+{"label":"Distribution Descriptor","pattern":"Anchialine caves","id":"https://www.marinespecies.org/traits/wiki/Traits:AnchialineCaves"}
+{"label":"Distribution Descriptor","pattern":"Anchialine caves","id":"https://www.marinespecies.org/traits/wiki/Traits:AnchialineCaves"}
+{"label":"Distribution Descriptor","pattern":"Artificial","id":"https://www.marinespecies.org/traits/wiki/Traits:Artificial"}
+{"label":"Distribution Descriptor","pattern":"Artificial (man-made)","id":"https://www.marinespecies.org/traits/wiki/Traits:Artificial"}
+{"label":"Distribution Descriptor","pattern":"Bathybenthic","id":"https://www.marinespecies.org/traits/wiki/Traits:Bathybenthic"}
+{"label":"Distribution Descriptor","pattern":"Bathybenthic (Bathyal)","id":"https://www.marinespecies.org/traits/wiki/Traits:Bathybenthic"}
+{"label":"Distribution Descriptor","pattern":"Bathylpelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Bathylpelagic"}
+{"label":"Distribution Descriptor","pattern":"Bathypelagic (1000-2500m)","id":"https://www.marinespecies.org/traits/wiki/Traits:Bathylpelagic"}
+{"label":"Distribution Descriptor","pattern":"Bedrock","id":"https://www.marinespecies.org/traits/wiki/Traits:Bedrock"}
+{"label":"Distribution Descriptor","pattern":"Benthic","id":"https://www.marinespecies.org/traits/wiki/Traits:Benthic"}
+{"label":"Distribution Descriptor","pattern":"Benthopelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Benthopelagic"}
+{"label":"Distribution Descriptor","pattern":"Beta Haline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaHaline"}
+{"label":"Distribution Descriptor","pattern":"Beta-Haline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaHaline"}
+{"label":"Distribution Descriptor","pattern":"Beta Mesohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaMesohaline"}
+{"label":"Distribution Descriptor","pattern":"Beta-Mesohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaMesohaline"}
+{"label":"Distribution Descriptor","pattern":"Beta Oligohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaOligohaline"}
+{"label":"Distribution Descriptor","pattern":"Beta-Oligohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaOligohaline"}
+{"label":"Distribution Descriptor","pattern":"Beta Polyhaline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaPolyhaline"}
+{"label":"Distribution Descriptor","pattern":"Beta-Polyhaline","id":"https://www.marinespecies.org/traits/wiki/Traits:BetaPolyhaline"}
+{"label":"Distribution Descriptor","pattern":"Biogenic reef","id":"https://www.marinespecies.org/traits/wiki/Traits:BiogenicReef"}
+{"label":"Distribution Descriptor","pattern":"Biogenic reef","id":"https://www.marinespecies.org/traits/wiki/Traits:BiogenicReef"}
+{"label":"Distribution Descriptor","pattern":"Brackish","id":"https://www.marinespecies.org/traits/wiki/Traits:Brackish"}
+{"label":"Distribution Descriptor","pattern":"Brackish Salinity","id":"https://www.marinespecies.org/traits/wiki/Traits:BrackishSalinity"}
+{"label":"Distribution Descriptor","pattern":"Burrow Dweller","id":"https://www.marinespecies.org/traits/wiki/Traits:BurrowDweller"}
+{"label":"Distribution Descriptor","pattern":"Burrow Dweller","id":"https://www.marinespecies.org/traits/wiki/Traits:BurrowDweller"}
+{"label":"Distribution Descriptor","pattern":"Cave","id":"https://www.marinespecies.org/traits/wiki/Traits:Cave"}
+{"label":"Distribution Descriptor","pattern":"Circalittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Circalittoral"}
+{"label":"Distribution Descriptor","pattern":"Circalittora lOffshore","id":"https://www.marinespecies.org/traits/wiki/Traits:CircalittoralOffshore"}
+{"label":"Distribution Descriptor","pattern":"Circalittoral offshore","id":"https://www.marinespecies.org/traits/wiki/Traits:CircalittoralOffshore"}
+{"label":"Distribution Descriptor","pattern":"Clay","id":"https://www.marinespecies.org/traits/wiki/Traits:Clay"}
+{"label":"Distribution Descriptor","pattern":"Coarse Clean sand","id":"https://www.marinespecies.org/traits/wiki/Traits:CoarseCleanSand"}
+{"label":"Distribution Descriptor","pattern":"Coarse Clean sand","id":"https://www.marinespecies.org/traits/wiki/Traits:CoarseCleanSand"}
+{"label":"Distribution Descriptor","pattern":"Coarse sediments","id":"https://www.marinespecies.org/traits/wiki/Traits:CoarseSediments"}
+{"label":"Distribution Descriptor","pattern":"Coarse sediments","id":"https://www.marinespecies.org/traits/wiki/Traits:CoarseSediments"}
+{"label":"Distribution Descriptor","pattern":"Cobbles","id":"https://www.marinespecies.org/traits/wiki/Traits:Cobbles"}
+{"label":"Distribution Descriptor","pattern":"Crevices Fissures","id":"https://www.marinespecies.org/traits/wiki/Traits:CrevicesFissures"}
+{"label":"Distribution Descriptor","pattern":"Crevices and fissures","id":"https://www.marinespecies.org/traits/wiki/Traits:CrevicesFissures"}
+{"label":"Distribution Descriptor","pattern":"Demersal","id":"https://www.marinespecies.org/traits/wiki/Traits:Demersal"}
+{"label":"Distribution Descriptor","pattern":"Depth","id":"https://www.marinespecies.org/traits/wiki/Traits:Depth"}
+{"label":"Distribution Descriptor","pattern":"Depth Substratum","id":"https://www.marinespecies.org/traits/wiki/Traits:DepthSubstratum"}
+{"label":"Distribution Descriptor","pattern":"Depth in substratum","id":"https://www.marinespecies.org/traits/wiki/Traits:DepthSubstratum"}
+{"label":"Distribution Descriptor","pattern":"Depth range","id":"https://www.marinespecies.org/traits/wiki/Traits:DepthRange"}
+{"label":"Distribution Descriptor","pattern":"Depth range","id":"https://www.marinespecies.org/traits/wiki/Traits:DepthRange"}
+{"label":"Distribution Descriptor","pattern":"Elevation","id":"https://www.marinespecies.org/traits/wiki/Traits:Elevation"}
+{"label":"Distribution Descriptor","pattern":"Enclosed Coast","id":"https://www.marinespecies.org/traits/wiki/Traits:EnclosedCoast"}
+{"label":"Distribution Descriptor","pattern":"Enclosed coast or embayment","id":"https://www.marinespecies.org/traits/wiki/Traits:EnclosedCoast"}
+{"label":"Distribution Descriptor","pattern":"Endophytic","id":"https://www.marinespecies.org/traits/wiki/Traits:Endophytic"}
+{"label":"Distribution Descriptor","pattern":"Endozoic","id":"https://www.marinespecies.org/traits/wiki/Traits:Endozoic"}
+{"label":"Distribution Descriptor","pattern":"Environment","id":"https://www.marinespecies.org/traits/wiki/Traits:Environment"}
+{"label":"Distribution Descriptor","pattern":"Environmental Position","id":"https://www.marinespecies.org/traits/wiki/Traits:EnvironmentalPosition"}
+{"label":"Distribution Descriptor","pattern":"Epibenthic","id":"https://www.marinespecies.org/traits/wiki/Traits:Epibenthic"}
+{"label":"Distribution Descriptor","pattern":"Epifaunal","id":"https://www.marinespecies.org/traits/wiki/Traits:Epifaunal"}
+{"label":"Distribution Descriptor","pattern":"Epifloral","id":"https://www.marinespecies.org/traits/wiki/Traits:Epifloral"}
+{"label":"Distribution Descriptor","pattern":"Epilithic","id":"https://www.marinespecies.org/traits/wiki/Traits:Epilithic"}
+{"label":"Distribution Descriptor","pattern":"Epipelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Epipelagic"}
+{"label":"Distribution Descriptor","pattern":"Epipelagic (0-2000m)","id":"https://www.marinespecies.org/traits/wiki/Traits:Epipelagic"}
+{"label":"Distribution Descriptor","pattern":"Epipelic","id":"https://www.marinespecies.org/traits/wiki/Traits:Epipelic"}
+{"label":"Distribution Descriptor","pattern":"Epiphytic","id":"https://www.marinespecies.org/traits/wiki/Traits:Epiphytic"}
+{"label":"Distribution Descriptor","pattern":"Epizooic","id":"https://www.marinespecies.org/traits/wiki/Traits:Epizooic"}
+{"label":"Distribution Descriptor","pattern":"Estuary","id":"https://www.marinespecies.org/traits/wiki/Traits:Estuary"}
+{"label":"Distribution Descriptor","pattern":"Exposed","id":"https://www.marinespecies.org/traits/wiki/Traits:Exposed"}
+{"label":"Distribution Descriptor","pattern":"Extremely Exposed","id":"https://www.marinespecies.org/traits/wiki/Traits:ExtremelyExposed"}
+{"label":"Distribution Descriptor","pattern":"Extremely Sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:ExtremelySheltered"}
+{"label":"Distribution Descriptor","pattern":"Features Other","id":"https://www.marinespecies.org/traits/wiki/Traits:FeaturesOther"}
+{"label":"Distribution Descriptor","pattern":"Features or other substratum","id":"https://www.marinespecies.org/traits/wiki/Traits:FeaturesOther"}
+{"label":"Distribution Descriptor","pattern":"Fine Clean sand","id":"https://www.marinespecies.org/traits/wiki/Traits:FineCleanSand"}
+{"label":"Distribution Descriptor","pattern":"Fine Clean sand","id":"https://www.marinespecies.org/traits/wiki/Traits:FineCleanSand"}
+{"label":"Distribution Descriptor","pattern":"Freshwater Salinity","id":"https://www.marinespecies.org/traits/wiki/Traits:FreshwaterSalinity"}
+{"label":"Distribution Descriptor","pattern":"Freshwater","id":"https://www.marinespecies.org/traits/wiki/Traits:FreshwaterSalinity"}
+{"label":"Distribution Descriptor","pattern":"Gravel Shingle","id":"https://www.marinespecies.org/traits/wiki/Traits:GravelShingle"}
+{"label":"Distribution Descriptor","pattern":"Gravel or shingle","id":"https://www.marinespecies.org/traits/wiki/Traits:GravelShingle"}
+{"label":"Distribution Descriptor","pattern":"Gravelly Mud","id":"https://www.marinespecies.org/traits/wiki/Traits:GravellyMud"}
+{"label":"Distribution Descriptor","pattern":"Gravelly Muddy sand","id":"https://www.marinespecies.org/traits/wiki/GravellyMuddySand"}
+{"label":"Distribution Descriptor","pattern":"Gravelly Sand","id":"https://www.marinespecies.org/traits/wiki/Traits:GravellySand"}
+{"label":"Distribution Descriptor","pattern":"Habitat","id":"https://www.marinespecies.org/traits/wiki/Traits:Habitat"}
+{"label":"Distribution Descriptor","pattern":"Habitat Preferences","id":"https://www.marinespecies.org/traits/wiki/Traits:HabitatPreferences"}
+{"label":"Distribution Descriptor","pattern":"Hadobenthic","id":"https://www.marinespecies.org/traits/wiki/Traits:Hadobenthic"}
+{"label":"Distribution Descriptor","pattern":"Hadobenthic (Hadal) ","id":"https://www.marinespecies.org/traits/wiki/Traits:Hadobenthic"}
+{"label":"Distribution Descriptor","pattern":"Hadopelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Hadopelagic"}
+{"label":"Distribution Descriptor","pattern":"Hadopelagic (>6000 m) ","id":"https://www.marinespecies.org/traits/wiki/Traits:Hadopelagic"}
+{"label":"Distribution Descriptor","pattern":"Hard","id":"https://www.marinespecies.org/traits/wiki/Traits:Hard"}
+{"label":"Distribution Descriptor","pattern":"Hyper Saline","id":"https://www.marinespecies.org/traits/wiki/Traits:HyperSaline"}
+{"label":"Distribution Descriptor","pattern":"Hyper-saline ","id":"https://www.marinespecies.org/traits/wiki/Traits:HyperSaline"}
+{"label":"Distribution Descriptor","pattern":"Hyper Benthic","id":"https://www.marinespecies.org/traits/wiki/Traits:Hyperbenthic"}
+{"label":"Distribution Descriptor","pattern":"Ice Associated","id":"https://www.marinespecies.org/traits/wiki/Traits:IceAssociated"}
+{"label":"Distribution Descriptor","pattern":"Ice-Associated ","id":"https://www.marinespecies.org/traits/wiki/Traits:IceAssociated"}
+{"label":"Distribution Descriptor","pattern":"Hard Immobile","id":"https://www.marinespecies.org/traits/wiki/Traits:HardImmobile"}
+{"label":"Distribution Descriptor","pattern":"Immobile hard ","id":"https://www.marinespecies.org/traits/wiki/Traits:HardImmobile"}
+{"label":"Distribution Descriptor","pattern":"Infaunal","id":"https://www.marinespecies.org/traits/wiki/Traits:Infaunal"}
+{"label":"Distribution Descriptor","pattern":"Infralittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Infralittoral"}
+{"label":"Distribution Descriptor","pattern":"Interstitial","id":"https://www.marinespecies.org/traits/wiki/Traits:Interstitial"}
+{"label":"Distribution Descriptor","pattern":"Lagoon","id":"https://www.marinespecies.org/traits/wiki/Traits:Lagoon"}
+{"label":"Distribution Descriptor","pattern":"Isolated saline water (lagoon) ","id":"https://www.marinespecies.org/traits/wiki/Traits:Lagoon"}
+{"label":"Distribution Descriptor","pattern":"Large Boulders","id":"https://www.marinespecies.org/traits/wiki/Traits:LargeBoulders"}
+{"label":"Distribution Descriptor","pattern":"Large or very large boulders","id":"https://www.marinespecies.org/traits/wiki/Traits:LargeBoulders"}
+{"label":"Distribution Descriptor","pattern":"Lithotomous","id":"https://www.marinespecies.org/traits/wiki/Traits:Lithotomous"}
+{"label":"Distribution Descriptor","pattern":"Eulittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Eulittoral"}
+{"label":"Distribution Descriptor","pattern":"Littoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Eulittoral"}
+{"label":"Distribution Descriptor","pattern":"Lower circalittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerCircalittoral"}
+{"label":"Distribution Descriptor","pattern":"Lower circalittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerCircalittoral"}
+{"label":"Distribution Descriptor","pattern":"Lower Infralittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerInfralittoral"}
+{"label":"Distribution Descriptor","pattern":"Lower littoral","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerLittoral"}
+{"label":"Distribution Descriptor","pattern":"Lower littoral","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerLittoral"}
+{"label":"Distribution Descriptor","pattern":"Lower littoral fringe","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerLittoralFringe"}
+{"label":"Distribution Descriptor","pattern":"Lower littoral fringe","id":"https://www.marinespecies.org/traits/wiki/Traits:LowerLittoralFringe"}
+{"label":"Distribution Descriptor","pattern":"Macroalgae","id":"https://www.marinespecies.org/traits/wiki/Traits:Macroalgae"}
+{"label":"Distribution Descriptor","pattern":"Maerl","id":"https://www.marinespecies.org/traits/wiki/Traits:Maerl"}
+{"label":"Distribution Descriptor","pattern":"Marine","id":"https://www.marinespecies.org/traits/wiki/Traits:Marine"}
+{"label":"Distribution Descriptor","pattern":"Marine Salinity","id":"https://www.marinespecies.org/traits/wiki/Traits:MarineSalinity"}
+{"label":"Distribution Descriptor","pattern":"Medium Clean Sand","id":"https://www.marinespecies.org/traits/wiki/Traits:MediumCleanSand"}
+{"label":"Distribution Descriptor","pattern":"Mesohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:Mesohaline"}
+{"label":"Distribution Descriptor","pattern":"Mesopelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Mesopelagic"}
+{"label":"Distribution Descriptor","pattern":"Mesopelagic (200-1000m)","id":"https://www.marinespecies.org/traits/wiki/Traits:Mesopelagic"}
+{"label":"Distribution Descriptor","pattern":"Mid Eulittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:MidEulittoral"}
+{"label":"Distribution Descriptor","pattern":"Mid littoral","id":"https://www.marinespecies.org/traits/wiki/Traits:MidEulittoral"}
+{"label":"Distribution Descriptor","pattern":"Mixed","id":"https://www.marinespecies.org/traits/wiki/Traits:Mixed"}
+{"label":"Distribution Descriptor","pattern":"Hard Mobile","id":"https://www.marinespecies.org/traits/wiki/Traits:HardMobile"}
+{"label":"Distribution Descriptor","pattern":"Mobile hard","id":"https://www.marinespecies.org/traits/wiki/Traits:HardMobile"}
+{"label":"Distribution Descriptor","pattern":"Moderately Exposed","id":"https://www.marinespecies.org/traits/wiki/Traits:ModeratelyExposed"}
+{"label":"Distribution Descriptor","pattern":"Moderately Strong","id":"https://www.marinespecies.org/traits/wiki/Traits:ModeratelyStrong"}
+{"label":"Distribution Descriptor","pattern":"Mud","id":"https://www.marinespecies.org/traits/wiki/Traits:Mud"}
+{"label":"Distribution Descriptor","pattern":"Mud Sandy Mud","id":"https://www.marinespecies.org/traits/wiki/Traits:MudSandyMud"}
+{"label":"Distribution Descriptor","pattern":"Mud and sandy Mud","id":"https://www.marinespecies.org/traits/wiki/Traits:MudSandyMud"}
+{"label":"Distribution Descriptor","pattern":"Muddy Gravel","id":"https://www.marinespecies.org/traits/wiki/Traits:MuddyGravel"}
+{"label":"Distribution Descriptor","pattern":"MuddySand","id":"https://www.marinespecies.org/traits/wiki/Traits:MuddySand"}
+{"label":"Distribution Descriptor","pattern":"Muddy Sandy Gravel","id":"https://www.marinespecies.org/traits/wiki/Traits:MuddySandyGravel"}
+{"label":"Distribution Descriptor","pattern":"Nekton","id":"https://www.marinespecies.org/traits/wiki/Traits:Nekton"}
+{"label":"Distribution Descriptor","pattern":"Nektonic","id":"https://www.marinespecies.org/traits/wiki/Traits:Nekton"}
+{"label":"Distribution Descriptor","pattern":"Neritic","id":"https://www.marinespecies.org/traits/wiki/Traits:Neritic"}
+{"label":"Distribution Descriptor","pattern":"Neustonic","id":"https://www.marinespecies.org/traits/wiki/Traits:Neustonic"}
+{"label":"Distribution Descriptor","pattern":"Oceanic","id":"https://www.marinespecies.org/traits/wiki/Traits:Oceanic"}
+{"label":"Distribution Descriptor","pattern":"Offshore seabed","id":"https://www.marinespecies.org/traits/wiki/Traits:OffshoreSeabed"}
+{"label":"Distribution Descriptor","pattern":"Offshore seabed","id":"https://www.marinespecies.org/traits/wiki/Traits:OffshoreSeabed"}
+{"label":"Distribution Descriptor","pattern":"Oligohaline","id":"https://www.marinespecies.org/traits/wiki/Traits:Oligohaline"}
+{"label":"Distribution Descriptor","pattern":"Open Coast","id":"https://www.marinespecies.org/traits/wiki/Traits:OpenCoast"}
+{"label":"Distribution Descriptor","pattern":"Other Species","id":"https://www.marinespecies.org/traits/wiki/Traits:OtherSpecies"}
+{"label":"Distribution Descriptor","pattern":"Overhang","id":"https://www.marinespecies.org/traits/wiki/Traits:Overhangs"}
+{"label":"Distribution Descriptor","pattern":"Pebbles","id":"https://www.marinespecies.org/traits/wiki/Traits:Pebbles"}
+{"label":"Distribution Descriptor","pattern":"Pelagic","id":"https://www.marinespecies.org/traits/wiki/Traits:Pelagic"}
+{"label":"Distribution Descriptor","pattern":"Physiography","id":"https://www.marinespecies.org/traits/wiki/Traits:Physiography"}
+{"label":"Distribution Descriptor","pattern":"Plankton","id":"https://www.marinespecies.org/traits/wiki/Traits:Plankton"}
+{"label":"Distribution Descriptor","pattern":"Planktonic","id":"https://www.marinespecies.org/traits/wiki/Traits:Plankton"}
+{"label":"Distribution Descriptor","pattern":"Pleustonic","id":"https://www.marinespecies.org/traits/wiki/Traits:Pleustonic"}
+{"label":"Distribution Descriptor","pattern":"Polyhaline","id":"https://www.marinespecies.org/traits/wiki/Traits:Polyhaline"}
+{"label":"Distribution Descriptor","pattern":"Province","id":"https://www.marinespecies.org/traits/wiki/Traits:Province"}
+{"label":"Distribution Descriptor","pattern":"Ria "}
+{"label":"Distribution Descriptor","pattern":"Voe"}
+{"label":"Distribution Descriptor","pattern":"Tubiculous "}
+{"label":"Distribution Descriptor","pattern":"Free living"}
+{"label":"Distribution Descriptor","pattern":"Erect"}
+{"label":"Distribution Descriptor","pattern":"Attached "}
+{"label":"Distribution Descriptor","pattern":"Burrow dwelling"}
+{"label":"Distribution Descriptor","pattern":"Algae"}
+{"label":"Distribution Descriptor","pattern":"Ria Voe","id":"https://www.marinespecies.org/traits/wiki/Traits:RiaVoe"}
+{"label":"Distribution Descriptor","pattern":"Ria or Voe","id":"https://www.marinespecies.org/traits/wiki/Traits:RiaVoe"}
+{"label":"Distribution Descriptor","pattern":"Rockpools","id":"https://www.marinespecies.org/traits/wiki/Traits:Rockpools"}
+{"label":"Distribution Descriptor","pattern":"Rockpool","id":"https://www.marinespecies.org/traits/wiki/Traits:Rockpools"}
+{"label":"Distribution Descriptor","pattern":"Salinity","id":"https://www.marinespecies.org/traits/wiki/Traits:Salinity"}
+{"label":"Distribution Descriptor","pattern":"Salinity","id":"https://www.marinespecies.org/traits/wiki/Traits:Salinity"}
+{"label":"Distribution Descriptor","pattern":"salt marsh","id":"https://www.marinespecies.org/traits/wiki/Traits:Saltmarsh"}
+{"label":"Distribution Descriptor","pattern":"Sand","id":"https://www.marinespecies.org/traits/wiki/Traits:Sand"}
+{"label":"Distribution Descriptor","pattern":"Sand Muddy Sand","id":"https://www.marinespecies.org/traits/wiki/Traits:SandMuddySand"}
+{"label":"Distribution Descriptor","pattern":"sand and muddy sand","id":"https://www.marinespecies.org/traits/wiki/Traits:SandMuddySand"}
+{"label":"Distribution Descriptor","pattern":"sandy gravel","id":"https://www.marinespecies.org/traits/wiki/Traits:SandyGravel"}
+{"label":"Distribution Descriptor","pattern":"sandy gravel","id":"https://www.marinespecies.org/traits/wiki/Traits:SandyGravel"}
+{"label":"Distribution Descriptor","pattern":"sandy mud","id":"https://www.marinespecies.org/traits/wiki/Traits:SandyMud"}
+{"label":"Distribution Descriptor","pattern":"sandy mud","id":"https://www.marinespecies.org/traits/wiki/Traits:SandyMud"}
+{"label":"Distribution Descriptor","pattern":"sea ice","id":"https://www.marinespecies.org/traits/wiki/Traits:SeaIce"}
+{"label":"Distribution Descriptor","pattern":"sea ice","id":"https://www.marinespecies.org/traits/wiki/Traits:SeaIce"}
+{"label":"Distribution Descriptor","pattern":"Sea Loch","id":"https://www.marinespecies.org/traits/wiki/Traits:SeaLoch"}
+{"label":"Distribution Descriptor","pattern":"sea loch (scotland)","id":"https://www.marinespecies.org/traits/wiki/Traits:SeaLoch"}
+{"label":"Distribution Descriptor","pattern":"sea lough (Ireland)","id":"https://www.marinespecies.org/traits/wiki/Traits:SeaLoch"}
+{"label":"Distribution Descriptor","pattern":"Seagrass","id":"https://www.marinespecies.org/traits/wiki/Traits:Seagrass"}
+{"label":"Distribution Descriptor","pattern":"Sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:Sheltered"}
+{"label":"Distribution Descriptor","pattern":"small boulders","id":"https://www.marinespecies.org/traits/wiki/Traits:SmallBoulders"}
+{"label":"Distribution Descriptor","pattern":"small boulders","id":"https://www.marinespecies.org/traits/wiki/Traits:SmallBoulders"}
+{"label":"Distribution Descriptor","pattern":"Sediment Soft","id":"https://www.marinespecies.org/traits/wiki/Traits:SedimentSoft"}
+{"label":"Distribution Descriptor","pattern":"soft (sediment)","id":"https://www.marinespecies.org/traits/wiki/Traits:SedimentSoft"}
+{"label":"Distribution Descriptor","pattern":"splash zone","id":"https://www.marinespecies.org/traits/wiki/Traits:SplashZone"}
+{"label":"Distribution Descriptor","pattern":"splash zone","id":"https://www.marinespecies.org/traits/wiki/Traits:SplashZone"}
+{"label":"Distribution Descriptor","pattern":"spray zone","id":"https://www.marinespecies.org/traits/wiki/Traits:SprayZone"}
+{"label":"Distribution Descriptor","pattern":"spray zone","id":"https://www.marinespecies.org/traits/wiki/Traits:SprayZone"}
+{"label":"Distribution Descriptor","pattern":"Strait Sound","id":"https://www.marinespecies.org/traits/wiki/Traits:StraitSound"}
+{"label":"Distribution Descriptor","pattern":"strait or sound","id":"https://www.marinespecies.org/traits/wiki/Traits:StraitSound"}
+{"label":"Distribution Descriptor","pattern":"Strand line","id":"https://www.marinespecies.org/traits/wiki/Traits:Strandline"}
+{"label":"Distribution Descriptor","pattern":"Strand-line","id":"https://www.marinespecies.org/traits/wiki/Traits:Strandline"}
+{"label":"Distribution Descriptor","pattern":"Strong","id":"https://www.marinespecies.org/traits/wiki/Traits:Strong"}
+{"label":"Distribution Descriptor","pattern":"Strong Sublittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Sublittoral"}
+{"label":"Distribution Descriptor","pattern":"Sublittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Sublittoral"}
+{"label":"Distribution Descriptor","pattern":"sublittoral fringe","id":"https://www.marinespecies.org/traits/wiki/Traits:SublittoralFringe"}
+{"label":"Distribution Descriptor","pattern":"sublittoral fringe","id":"https://www.marinespecies.org/traits/wiki/Traits:SublittoralFringe"}
+{"label":"Distribution Descriptor","pattern":"Substratum Habitat","id":"https://www.marinespecies.org/traits/wiki/Traits:SubstratumHabitat"}
+{"label":"Distribution Descriptor","pattern":"Substratum","id":"https://www.marinespecies.org/traits/wiki/Traits:SubstratumHabitat"}
+{"label":"Distribution Descriptor","pattern":"Supralittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:Supralittoral"}
+{"label":"Distribution Descriptor","pattern":"Terrestrial","id":"https://www.marinespecies.org/traits/wiki/Traits:Terrestrial"}
+{"label":"Distribution Descriptor","pattern":"Tidal Strength","id":"https://www.marinespecies.org/traits/wiki/Traits:TidalStrength"}
+{"label":"Distribution Descriptor","pattern":"tidal streams and water flow (range)","id":"https://www.marinespecies.org/traits/wiki/Traits:TidalStrength"}
+{"label":"Distribution Descriptor","pattern":"Tolerance","id":"https://www.marinespecies.org/traits/wiki/Traits:Tolerance"}
+{"label":"Distribution Descriptor","pattern":"Type I","id":"https://www.marinespecies.org/traits/wiki/Traits:TypeI"}
+{"label":"Distribution Descriptor","pattern":"Type II","id":"https://www.marinespecies.org/traits/wiki/Traits:TypeII"}
+{"label":"Distribution Descriptor","pattern":"Type III","id":"https://www.marinespecies.org/traits/wiki/Traits:TypeIII"}
+{"label":"Distribution Descriptor","pattern":"Type IV","id":"https://www.marinespecies.org/traits/wiki/Traits:TypeIV"}
+{"label":"Distribution Descriptor","pattern":"Type V","id":"https://www.marinespecies.org/traits/wiki/Traits:TypeV"}
+{"label":"Distribution Descriptor","pattern":"ultra sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:UltraSheltered"}
+{"label":"Distribution Descriptor","pattern":"ultra sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:UltraSheltered"}
+{"label":"Distribution Descriptor","pattern":"under boulders","id":"https://www.marinespecies.org/traits/wiki/Traits:UnderBoulders"}
+{"label":"Distribution Descriptor","pattern":"under boulders","id":"https://www.marinespecies.org/traits/wiki/Traits:UnderBoulders"}
+{"label":"Distribution Descriptor","pattern":"under ice","id":"https://www.marinespecies.org/traits/wiki/Traits:UnderIce"}
+{"label":"Distribution Descriptor","pattern":"under ice","id":"https://www.marinespecies.org/traits/wiki/Traits:UnderIce"}
+{"label":"Distribution Descriptor","pattern":"Upper Circalittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:UpperCircalittoral"}
+{"label":"Distribution Descriptor","pattern":"Upper Infralittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:UpperInfralittoral"}
+{"label":"Distribution Descriptor","pattern":"Upper Eulittoral","id":"https://www.marinespecies.org/traits/wiki/Traits:UpperEulittoral"}
+{"label":"Distribution Descriptor","pattern":"Upper littoral","id":"https://www.marinespecies.org/traits/wiki/Traits:UpperEulittoral"}
+{"label":"Distribution Descriptor","pattern":"Upper Littoral Fringe","id":"https://www.marinespecies.org/traits/wiki/Traits:UpperLittoralFringe"}
+{"label":"Distribution Descriptor","pattern":"Vertical Bioogical Zone","id":"https://www.marinespecies.org/traits/wiki/Traits:VerticalBiologicalZone"}
+{"label":"Distribution Descriptor","pattern":"vertical biological zone","id":"https://www.marinespecies.org/traits/wiki/Traits:VerticalBiologicalZone"}
+{"label":"Distribution Descriptor","pattern":"very exposed","id":"https://www.marinespecies.org/traits/wiki/Traits:VeryExposed"}
+{"label":"Distribution Descriptor","pattern":"very exposed","id":"https://www.marinespecies.org/traits/wiki/Traits:VeryExposed"}
+{"label":"Distribution Descriptor","pattern":"very sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:VerySheltered"}
+{"label":"Distribution Descriptor","pattern":"very sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:VerySheltered"}
+{"label":"Distribution Descriptor","pattern":"very strong","id":"https://www.marinespecies.org/traits/wiki/Traits:VeryStrong"}
+{"label":"Distribution Descriptor","pattern":"very strong","id":"https://www.marinespecies.org/traits/wiki/Traits:VeryStrong"}
+{"label":"Distribution Descriptor","pattern":"very weak","id":"https://www.marinespecies.org/traits/wiki/Traits:VeryWeak"}
+{"label":"Distribution Descriptor","pattern":"very weak","id":"https://www.marinespecies.org/traits/wiki/Traits:VeryWeak"}
+{"label":"Distribution Descriptor","pattern":"wave exposed","id":"https://www.marinespecies.org/traits/wiki/Traits:WaveExposed"}
+{"label":"Distribution Descriptor","pattern":"wave exposure","id":"https://www.marinespecies.org/traits/wiki/Traits:WaveExposure"}
+{"label":"Distribution Descriptor","pattern":"wave sheltered","id":"https://www.marinespecies.org/traits/wiki/Traits:WaveSheltered"}
+{"label":"Distribution Descriptor","pattern":"Weak","id":"https://www.marinespecies.org/traits/wiki/Traits:Weak"}
+{"label":"Life Stage","pattern":"Adult","id":"http:/www.marinespecies.org/traits/wiki/traits:Adult"}
+{"label":"Life Stage","pattern":"Instar","id":"http:/www.marinespecies.org/traits/wiki/traits:Instar"}
+{"label":"Life Stage","pattern":"Juvenile","id":"http:/www.marinespecies.org/traits/wiki/traits:Juvenile"}
+{"label":"Life Stage","pattern":"Larva","id":"http:/www.marinespecies.org/traits/wiki/traits:Larva"}
+{"label":"Life Stage","pattern":"Actinula","id":"http:/www.marinespecies.org/traits/wiki/traits:Actinula"}
+{"label":"Life Stage","pattern":"Amphiblastula","id":"http:/www.marinespecies.org/traits/wiki/traits:Amphiblastula"}
+{"label":"Life Stage","pattern":"Ascidian tadpole","id":"http:/www.marinespecies.org/traits/wiki/traits:Ascidian tadpole"}
+{"label":"Life Stage","pattern":"Auricularia","id":"http:/www.marinespecies.org/traits/wiki/traits:Auricularia"}
+{"label":"Life Stage","pattern":"Bipinnaria","id":"http:/www.marinespecies.org/traits/wiki/traits:Bipinnaria"}
+{"label":"Life Stage","pattern":"Brachiolaria","id":"http:/www.marinespecies.org/traits/wiki/traits:Brachiolaria"}
+{"label":"Life Stage","pattern":"Conaria","id":"http:/www.marinespecies.org/traits/wiki/traits:Conaria"}
+{"label":"Life Stage","pattern":"Copepodid (copepodite)","id":"http:/www.marinespecies.org/traits/wiki/traits:Copepodid (copepodite)"}
+{"label":"Life Stage","pattern":"Coronate","id":"http:/www.marinespecies.org/traits/wiki/traits:Coronate"}
+{"label":"Life Stage","pattern":"Cydippid","id":"http:/www.marinespecies.org/traits/wiki/traits:Cydippid"}
+{"label":"Life Stage","pattern":"Cyphonautes","id":"http:/www.marinespecies.org/traits/wiki/traits:Cyphonautes"}
+{"label":"Life Stage","pattern":"Cyprid (cypris)","id":"http:/www.marinespecies.org/traits/wiki/traits:Cyprid (cypris)"}
+{"label":"Life Stage","pattern":"Doliolaria","id":"http:/www.marinespecies.org/traits/wiki/traits:Doliolaria"}
+{"label":"Life Stage","pattern":"Echinopluteus","id":"http:/www.marinespecies.org/traits/wiki/traits:Echinopluteus"}
+{"label":"Life Stage","pattern":"Ephyra","id":"http:/www.marinespecies.org/traits/wiki/traits:Ephyra"}
+{"label":"Life Stage","pattern":"Glochidium","id":"http:/www.marinespecies.org/traits/wiki/traits:Glochidium"}
+{"label":"Life Stage","pattern":"Goette's larva","id":"http:/www.marinespecies.org/traits/wiki/traits:Goette's larva"}
+{"label":"Life Stage","pattern":"Megalopa","id":"http:/www.marinespecies.org/traits/wiki/traits:Megalopa"}
+{"label":"Life Stage","pattern":"Metanauplius","id":"http:/www.marinespecies.org/traits/wiki/traits:Metanauplius"}
+{"label":"Life Stage","pattern":"Mitraria","id":"http:/www.marinespecies.org/traits/wiki/traits:Mitraria"}
+{"label":"Life Stage","pattern":"Muller's larva","id":"http:/www.marinespecies.org/traits/wiki/traits:Muller's larva"}
+{"label":"Life Stage","pattern":"Nauplius","id":"http:/www.marinespecies.org/traits/wiki/traits:Nauplius"}
+{"label":"Life Stage","pattern":"Nectochaeta","id":"http:/www.marinespecies.org/traits/wiki/traits:Nectochaeta"}
+{"label":"Life Stage","pattern":"Ophiopluteus","id":"http:/www.marinespecies.org/traits/wiki/traits:Ophiopluteus"}
+{"label":"Life Stage","pattern":"Parenchymella","id":"http:/www.marinespecies.org/traits/wiki/traits:Parenchymella"}
+{"label":"Life Stage","pattern":"Pediveliger","id":"http:/www.marinespecies.org/traits/wiki/traits:Pediveliger"}
+{"label":"Life Stage","pattern":"Pelagosphaera","id":"http:/www.marinespecies.org/traits/wiki/traits:Pelagosphaera"}
+{"label":"Life Stage","pattern":"Pilidium","id":"http:/www.marinespecies.org/traits/wiki/traits:Pilidium"}
+{"label":"Life Stage","pattern":"Planula","id":"http:/www.marinespecies.org/traits/wiki/traits:Planula"}
+{"label":"Life Stage","pattern":"Protonymphon","id":"http:/www.marinespecies.org/traits/wiki/traits:Protonymphon"}
+{"label":"Life Stage","pattern":"Protozoea","id":"http:/www.marinespecies.org/traits/wiki/traits:Protozoea"}
+{"label":"Life Stage","pattern":"Rataria","id":"http:/www.marinespecies.org/traits/wiki/traits:Rataria"}
+{"label":"Life Stage","pattern":"Veliger","id":"http:/www.marinespecies.org/traits/wiki/traits:Veliger"}
+{"label":"Life Stage","pattern":"Zoea","id":"http:/www.marinespecies.org/traits/wiki/traits:Zoea"}
+{"label":"Body Size","pattern":"Qualitative body size","id":"https://www.marinespecies.org/traits/wiki/Traits:QualitativeBodySize"}
+{"label":"Body Size","pattern":"Macrobiota","id":"https://www.marinespecies.org/traits/wiki/Traits:QualitativeBodySize"}
+{"label":"Body Size","pattern":"Macrobiota ","id":"https://www.marinespecies.org/traits/wiki/Traits:Macrobiota"}
+{"label":"Body Size","pattern":"Megabiota","id":"https://www.marinespecies.org/traits/wiki/Traits:Megabiota"}
+{"label":"Body Size","pattern":"Meiobiota ","id":"https://www.marinespecies.org/traits/wiki/Traits:Meiobiota"}
+{"label":"Body Size","pattern":"Meiobiota","id":"https://www.marinespecies.org/traits/wiki/Traits:Meiobiota"}
+{"label":"Body Size","pattern":"Microbiota ","id":"https://www.marinespecies.org/traits/wiki/Traits:Microbiota"}
+{"label":"Body Size","pattern":"Quantitative body size","id":"https://www.marinespecies.org/traits/wiki/Traits:QuantitativeBodySize"}
+{"label":"Body Size","pattern":"Body length","id":"https://www.marinespecies.org/traits/wiki/Traits:Bodylength"}
+{"label":"Body Size","pattern":"Taxon specific body size","id":"https://www.marinespecies.org/traits/wiki/Traits:TaxonSpecificBodySize"}
+{"label":"Body Size","pattern":"Taxon specific body size","id":"https://www.marinespecies.org/traits/wiki/Traits:TaxonSpecificBodySize"}
+{"label":"Body Size","pattern":"Diameter","id":"https://www.marinespecies.org/traits/wiki/Traits:Diameter"}
+{"label":"Body Size","pattern":"Taxon specific body size: Fish","id":"https://www.marinespecies.org/traits/wiki/Traits:TaxonSpecificBodySizeFish"}
+{"label":"Body Size","pattern":"Fork length (FL)","id":"https://www.marinespecies.org/traits/wiki/Traits:ForkLength"}
+{"label":"Body Size","pattern":"Standard length (SL)","id":"https://www.marinespecies.org/traits/wiki/Traits:StandardLength"}
+{"label":"Body Size","pattern":"Total length (TL)","id":"https://www.marinespecies.org/traits/wiki/Traits:TotalLength"}
+{"label":"Body Size","pattern":"Width of disc (WD)","id":"https://www.marinespecies.org/traits/wiki/Traits:WidthOfDisc"}
+{"label":"Body Size","pattern":"Macroalgae","id":"https://www.marinespecies.org/traits/wiki/Traits:MacroAlgae"}
+{"label":"Body Size","pattern":"Width","id":"https://www.marinespecies.org/traits/wiki/Traits:Width"}
+{"label":"Body Size","pattern":"Wingspan","id":"https://www.marinespecies.org/traits/wiki/Traits:Wingspan"}
