@@ -146,3 +146,4 @@ spacy/model-corpus2_dev_ruler/vocab/vectors.cfg
 spacy/model-corpus2/entity_ruler/patterns.jsonl
 spacy/model-corpus2/entity_ruler/patterns.jsonl
 notes_questions.odt
+spacy/model-corpus2/entity_ruler/patterns.jsonl
