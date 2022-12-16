@@ -175,3 +175,36 @@ spacy/model-corpusIOB_dev/vocab/lookups.bin
 spacy/model-corpusIOB_dev/vocab/strings.json
 spacy/model-corpusIOB_dev/vocab/vectors
 spacy/model-corpusIOB_dev/vocab/vectors.cfg
+spacy/NER_BERT
+NER_BERT/BERT - Copy.ipynb
+NER_BERT/BERT.ipynb
+NER_BERT/corpus2_IOB.tsv
+NER_BERT/development_IOB.tsv
+NER_BERT/evaluation_IOB.tsv
+NER_BERT/NER_with_BERT.ipynb
+NER_BERT/.ipynb_checkpoints/NER_with_BERT-checkpoint.ipynb
+NER_BERT/ner.csv
+NER_BERT/per_sentence/dev.tsv
+NER_BERT/per_sentence/dev.csv
+NER_BERT/per_sentence/eval.csv
+NER_BERT/per_sentence/train.tsv
+NER_BERT/per_sentence/train.csv
+NER_BERT/per_sentence/eval.tsv
+NER_BERT/BERT - biobert.ipynb
+spacy/model-roberta_dev_ruler/config.cfg
+spacy/model-roberta_dev_ruler/meta.json
+.gitignore
+.gitignore
+spacy/model-roberta_dev_ruler/tokenizer
+spacy/model-roberta_dev_ruler/entity_ruler/cfg
+spacy/model-roberta_dev_ruler/entity_ruler/patterns.jsonl
+spacy/model-roberta_dev_ruler/ner/cfg
+spacy/model-roberta_dev_ruler/ner/model
+spacy/model-roberta_dev_ruler/ner/moves
+spacy/model-roberta_dev_ruler/transformer/cfg
+spacy/model-roberta_dev_ruler/transformer/model
+spacy/model-roberta_dev_ruler/vocab/key2row
+spacy/model-roberta_dev_ruler/vocab/lookups.bin
+spacy/model-roberta_dev_ruler/vocab/strings.json
+spacy/model-roberta_dev_ruler/vocab/vectors
+spacy/model-roberta_dev_ruler/vocab/vectors.cfg
