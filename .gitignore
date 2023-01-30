@@ -271,14 +271,11 @@ spacy/combined_IOBspacy_roberta_dev_ruler/ner_roberta/moves
 spacy/combined_IOBspacy_roberta_dev_ruler/ner_roberta/model
 spacy/combined_IOBspacy_roberta_dev_ruler/ner_roberta/cfg
 spacy/dataset18.py
-spacy/development_IOBall.tsv
 spacy/emodnet-spacy.ipynb
 spacy/ecology_evolution.py
-spacy/evaluation_IOBall.tsv
 spacy/train_dev_full.spacy
 spacy/train_eval_full.spacy
 spacy/train_train_full.spacy
-spacy/training_IOBall.tsv
 spacy/__pycache__/dataset18.cpython-39.pyc
 spacy/__pycache__/ecology_evolution.cpython-39.pyc
 spacy/model-best_fulldev-eval/config.cfg
