@@ -1,4 +1,3 @@
-text	labels
 EGYPTIAN	O
 JOURNAL	O
 OF	O
@@ -15,13 +14,11 @@ NO	O
 185	O
 -	O
 201	O
-	
 ISSN	O
 :	O
 1687	O
 -	O
 4285	O
-	
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -46,13 +43,11 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	O
-	
 Faiza	O
 A.	O
 Abd	O
 -	O
 Elnaby	O
-	
 National	O
 Institute	O
 of	O
@@ -64,7 +59,6 @@ Alexandria	O
 ,	O
 Egypt	O
 .	O
-	
 Key	O
 words	O
 :	O
@@ -78,9 +72,7 @@ Hesionidae	O
 ,	O
 Saccocirridae	O
 .	O
-	
 ABSTRACT	O
-	
 In	O
 the	O
 present	O
@@ -251,11 +243,9 @@ species	O
 was	O
 discussed	O
 .	O
-	
 1	O
 .	O
 INTRODUCTION	O
-	
 Polychaete	O
 worms	O
 represent	O
@@ -293,7 +283,6 @@ Silva	O
 2000	O
 )	O
 .	O
-	
 The	O
 organisms	O
 show	O
@@ -322,7 +311,6 @@ Jumars	O
 1979	O
 )	O
 .	O
-	
 Orbiniids	O
 and	O
 Paraonids	O
@@ -394,7 +382,6 @@ in	O
 many	O
 habitats	B-DISTRIBUTION_DESCRIPTOR
 feeding	O
-	
 on	O
 Foraminifera	O
 ,	O
@@ -407,7 +394,6 @@ Jumars	O
 1979	O
 )	O
 .	O
-	
 Hesionids	O
 are	O
 active	O
@@ -486,7 +472,6 @@ copepods	O
 and	O
 foraminiferans	O
 .	O
-	
 Saccocirrids	O
 are	O
 small	O
@@ -520,7 +505,6 @@ from	O
 shell	B-DISTRIBUTION_DESCRIPTOR
 gravel	I-DISTRIBUTION_DESCRIPTOR
 .	O
-	
 The	O
 polychaete	O
 fauna	B-DISTRIBUTION_DESCRIPTOR
@@ -554,7 +538,6 @@ and	O
 )	O
 ,	O
 Selim	O
-	
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -569,7 +552,6 @@ HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
 ,	O
-	
 EGYPT	O
 ,	O
 WITH	O
@@ -580,7 +562,6 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-	
 et	O
 aí	O
 .	O
@@ -599,7 +580,6 @@ and	O
 2005	O
 )	O
 .	O
-	
 This	O
 study	O
 has	O
@@ -689,13 +669,11 @@ of	O
 Egyptian	O
 polychaetes	O
 .	O
-	
 2	O
 .	O
 MATERIALS	O
 AND	O
 METHODS	O
-	
 Sampling	O
 of	O
 polychaete	O
@@ -732,7 +710,6 @@ Alexandria	I-DISTRIBUTION_DESCRIPTOR
 E.H.	O
 )	O
 .	O
-	
 Sediment	B-DISTRIBUTION_DESCRIPTOR
 samples	O
 were	O
@@ -802,7 +779,6 @@ broken	B-DISTRIBUTION_DESCRIPTOR
 tube	I-DISTRIBUTION_DESCRIPTOR
 worms	I-DISTRIBUTION_DESCRIPTOR
 .	O
-	
 The	O
 sediment	B-DISTRIBUTION_DESCRIPTOR
 was	O
@@ -902,17 +878,13 @@ Johnson	O
 ,	O
 1984	O
 .	O
-	
 29	O
 °	O
 53	O
-"	O
-
+""""	O
 VIJ	O
-
 250	O
 m.	O
-
 Figi	O
 (	O
 1	O
@@ -926,13 +898,10 @@ Position	O
 of	O
 sampling	O
 sites	O
-
 186	O
-
 3	O
 .	O
 RESULTS	O
-
 The	O
 harvest	O
 of	O
@@ -1069,7 +1038,6 @@ of	O
 each	O
 species	O
 .	O
-
 Family	O
 Orbiniidae	O
 Hartman	O
@@ -1083,7 +1051,6 @@ Leodamas	O
 kinberg	O
 ,	O
 1866	O
-
 1-	O
 Scoloplos	O
 (	O
@@ -1095,7 +1062,6 @@ Webster	O
 ,	O
 1879	O
 )	O
-
 (	O
 Fig.2	O
 a-	O
@@ -1107,7 +1073,6 @@ PL1	O
 -	O
 3	O
 )	O
-
 Scoloplos	O
 rubra	O
 Uebelacker	O
@@ -1129,7 +1094,6 @@ figs	O
 a	O
 -	O
 f	O
-
 Scoloplos	O
 (	O
 Leodamas	O
@@ -1161,7 +1125,6 @@ Rodriguez	O
 p.	O
 137	O
 .	O
-
 Description	O
 :	O
 Two	O
@@ -1225,7 +1188,6 @@ segments	O
 .	O
 They	O
 are	O
-
 simple	O
 ,	O
 small	O
@@ -1242,7 +1204,6 @@ Fig	O
 -	O
 a	O
 )	O
-
 Thoracic	O
 region	O
 consisting	O
@@ -1350,7 +1311,6 @@ or	O
 less	O
 abrupt	O
 .	O
-
 Abdominal	O
 parapodia	O
 have	O
@@ -1427,7 +1387,6 @@ with	O
 four	O
 cirri	O
 .	O
-
 Remarks	O
 :	O
 The	O
@@ -1487,7 +1446,6 @@ of	O
 the	O
 worm	O
 .	O
-
 Habitat	O
 :	O
 Scoloplos	O
@@ -1511,7 +1469,6 @@ site	O
 VI	O
 )	O
 .	O
-
 Distribution	O
 :	O
 Eastern	B-DISTRIBUTION_DESCRIPTOR
@@ -1546,7 +1503,7 @@ peninsula	I-DISTRIBUTION_DESCRIPTOR
 ,	O
 Mexico	B-DISTRIBUTION_DESCRIPTOR
 (	O
-Leo""n-	O
+"Leo""""n-"	O
 Conzalez	O
 and	O
 Rodriguez	O
@@ -1554,7 +1511,6 @@ Rodriguez	O
 1996	O
 )	O
 .	O
-
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -1569,7 +1525,6 @@ HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
 ,	O
-
 EGYPT	O
 ,	O
 WITH	O
@@ -1580,23 +1535,16 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 a	O
-
 0,01	O
 mm	O
-
 0.1	O
 mm	O
-
 0.01	O
 mm	O
-
 0,01	O
 mm	O
-
 c	O
-
 Fig.(2	O
 ):	O
 Scoloplos	O
@@ -1640,13 +1588,11 @@ g	O
 ,	O
 acicula	O
 .	O
-
 Faiza	O
 A.	O
 Abd	O
 -	O
 Elnaby	O
-
 2-	O
 Scoloplos	O
 (	O
@@ -1666,7 +1612,6 @@ Pl.l	O
 ,	O
 4	O
 )	O
-
 Scoloplos	O
 (	O
 Scoloplos	O
@@ -1675,7 +1620,6 @@ cylindrifer	O
 Ehlers	O
 ,	O
 1904	O
-
 Scoloplos	O
 {	O
 Leodamas	O
@@ -1696,7 +1640,6 @@ Figs	O
 plate	O
 33	O
 .	O
-
 Description	O
 :	O
 One	O
@@ -1854,7 +1797,6 @@ Fig	O
 d	O
 )	O
 .	O
-
 Thoracic	B-DISTRIBUTION_DESCRIPTOR
 notopodium	I-DISTRIBUTION_DESCRIPTOR
 long	I-DISTRIBUTION_DESCRIPTOR
@@ -1917,12 +1859,10 @@ Fig	O
 e	O
 )	O
 .	O
-
 Abdominal	O
 parapodia	O
 have	O
 longer	O
-
 postsetal	O
 lobes	O
 ,	O
@@ -1984,7 +1924,6 @@ its	O
 distal	O
 end	O
 .	O
-
 Remarks	O
 :	O
 The	O
@@ -2007,7 +1946,6 @@ reported	O
 -	O
 18	O
 thoracic	O
-
 segments	O
 ,	O
 furcated	O
@@ -2023,14 +1961,12 @@ with	O
 terminal	O
 filaments	O
 .	O
-
 Habitat	O
 :	O
 Scoloplos	O
 {	O
 Leodamas	O
 )	O
-
 dendrobranchus	O
 was	O
 found	O
@@ -2052,7 +1988,6 @@ site	O
 III	O
 )	O
 .	O
-
 Distribution	O
 :	O
 New	B-DISTRIBUTION_DESCRIPTOR
@@ -2079,13 +2014,11 @@ Murray	O
 1984	O
 )	O
 .	O
-
 Genus	O
 Scolaricia	O
 Eisig	O
 ,	O
 1914	O
-
 3-	O
 Scolaricia	O
 typica	O
@@ -2102,7 +2035,6 @@ PI	O
 .	O
 i;5	O
 )	O
-
 Scolaricia	O
 typica	O
 Fauvel	O
@@ -2132,7 +2064,6 @@ Hartman	O
 :	O
 259	O
 .	O
-
 Description	O
 :	O
 This	O
@@ -2165,7 +2096,6 @@ typical	O
 pointed	O
 setae	O
 .	O
-
 Five	O
 specimens	O
 were	O
@@ -2206,7 +2136,6 @@ segment	O
 and	O
 continue	O
 .	O
-
 Thoracic	O
 region	O
 consisting	O
@@ -2317,7 +2246,6 @@ its	O
 distal	O
 end	O
 .	O
-
 Remarks	O
 :	O
 This	O
@@ -2345,7 +2273,6 @@ segments	O
 20	O
 )	O
 .	O
-
 Habitat	B-DISTRIBUTION_DESCRIPTOR
 :	O
 This	O
@@ -2369,7 +2296,6 @@ and	O
 VI	O
 )	O
 .	O
-
 Distribution	B-DISTRIBUTION_DESCRIPTOR
 :	O
 Western	B-DISTRIBUTION_DESCRIPTOR
@@ -2421,7 +2347,6 @@ EASTERN	I-DISTRIBUTION_DESCRIPTOR
 HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
-
 EGYPT	O
 ,	O
 WITH	O
@@ -2432,27 +2357,19 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 \V.	O
-
 0.01	O
 mm	O
-
 0.01	O
 mm	O
-
 0.01	O
 mm	O
-
 0,01	O
 mm	O
-
 i-----------—.	O
 —	O
-
 0.01	O
 mm	O
-
 Fig	O
 .	O
 (	O
@@ -2513,7 +2430,6 @@ k	O
 capillary	O
 setae	O
 .	O
-
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -2528,7 +2444,6 @@ HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
 ,	O
-
 EGYPT	O
 ,	O
 WITH'SPECIAL	O
@@ -2538,7 +2453,6 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 Family	O
 Paraonidae	O
 Cerruti	O
@@ -2550,14 +2464,12 @@ Cerruti	O
 ,	O
 1909	O
 ,	O
-
 (	O
 .Paradoneis	O
 Southern	O
 ,	O
 1914	O
 )	O
-
 4-	O
 Paradoneis	O
 lyra	O
@@ -2566,7 +2478,6 @@ Southern	O
 ,	O
 1914	O
 )	O
-
 (	O
 Fig	O
 .	O
@@ -2581,7 +2492,6 @@ PL2	O
 -	O
 7	O
 )	O
-
 Paraonis	O
 (	O
 Paraonides	O
@@ -2608,7 +2518,6 @@ Hartman	O
 :	O
 334	O
 .	O
-
 .	O
 Paraonides	O
 lyra	O
@@ -2625,7 +2534,6 @@ figs	O
 c	O
 -	O
 g	O
-
 Paradoneis	O
 lyra	O
 Dauvin	O
@@ -2653,13 +2561,11 @@ Snelgrove	O
 -	O
 136	O
 .	O
-
 Description	O
 :	O
 Nine	O
 specimens	O
 were	O
-
 collected	O
 from	O
 two	O
@@ -2751,7 +2657,6 @@ c	O
 d	O
 )	O
 .	O
-
 Both	O
 rami	O
 of	O
@@ -2828,7 +2733,6 @@ pl.2	O
 7	O
 )	O
 .	O
-
 Remarks	O
 :	O
 The	O
@@ -2869,7 +2773,6 @@ from	O
 South	O
 Africa	O
 .	O
-
 Habitat	B-DISTRIBUTION_DESCRIPTOR
 :	O
 Paradoneis	O
@@ -2885,10 +2788,8 @@ VI	O
 and	O
 IV	O
 .	O
-
 Distribution	B-DISTRIBUTION_DESCRIPTOR
 :	O
-
 France	B-DISTRIBUTION_DESCRIPTOR
 (	O
 Fauvel	O
@@ -2937,14 +2838,12 @@ Snelgrove	O
 2005	O
 )	O
 .	O
-
 Family	O
 Hesionidae	O
 Sars	O
 ,	O
 1862	O
 .	O
-
 Genus	O
 Ophiodromus	O
 Sars	O
@@ -2956,7 +2855,6 @@ Ehler	O
 1864	O
 )	O
 .	O
-
 5-	O
 Ophiodromus	O
 pallidus	O
@@ -2979,7 +2877,6 @@ PI	O
 -	O
 9	O
 )	O
-
 Podarke	O
 pallida	O
 Fauvel	O
@@ -2995,7 +2892,6 @@ fig	O
 a	O
 -	O
 d	O
-
 Ophiodromus	O
 pallidus	O
 '	O
@@ -3008,13 +2904,11 @@ Nicolaidou	O
 p.	O
 91	O
 .	O
-
 Description	O
 :	O
 Five	O
 specimens	O
 were	O
-
 collected	O
 from	O
 two	O
@@ -3114,7 +3008,6 @@ greenish	O
 to	O
 brown	O
 .	O
-
 Parapodia	O
 subbiramous	O
 ,	O
@@ -3204,7 +3097,6 @@ pi	O
 10	O
 )	O
 .	O
-
 Remarks	O
 :	O
 The	O
@@ -3220,7 +3112,6 @@ Fauvel	O
 1923	O
 )	O
 .	O
-
 Habitat	B-DISTRIBUTION_DESCRIPTOR
 :	O
 This	O
@@ -3237,7 +3128,6 @@ and	O
 VII	O
 )	O
 .	O
-
 Distribution	O
 :	O
 France	B-DISTRIBUTION_DESCRIPTOR
@@ -3245,7 +3135,6 @@ France	B-DISTRIBUTION_DESCRIPTOR
 Italy	B-DISTRIBUTION_DESCRIPTOR
 ,	O
 Greece	B-DISTRIBUTION_DESCRIPTOR
-
 (	O
 Fauvel	O
 ,	O
@@ -3265,7 +3154,6 @@ Zenetos	O
 respectively	O
 )	O
 .	O
-
 Family	O
 Saccocirridae	O
 (	O
@@ -3279,14 +3167,12 @@ Saccocirrus	O
 Bobretzky	O
 ,	O
 1872	O
-
 6-	O
 Saccocirrus	O
 papillocercus	O
 Bobretzky	O
 ,	O
 1872	O
-
 (	O
 Fig	O
 .	O
@@ -3299,7 +3185,6 @@ pi	O
 .	O
 2,11	O
 )	O
-
 Saccocirrus	O
 papillocercus	O
 Fauvel	O
@@ -3324,13 +3209,11 @@ Fauchald	O
 :	O
 155	O
 .	O
-
 Description	O
 :	O
 Three	O
 specimens	O
 were	O
-
 collected	O
 .	O
 The	O
@@ -3341,7 +3224,6 @@ in	O
 colour	O
 ,	O
 small	B-BODY_SIZE
-
 3	I-BODY_SIZE
 -	I-BODY_SIZE
 5	I-BODY_SIZE
@@ -3370,7 +3252,6 @@ six	O
 ,	O
 well	O
 developed	O
-
 nuchal	O
 organs	O
 consisting	O
@@ -3406,7 +3287,6 @@ pi	O
 11	O
 )	O
 .	O
-
 Setae	O
 in	O
 bundle	O
@@ -3453,7 +3333,6 @@ Pygidium	O
 with	O
 two	O
 lobes	O
-
 strongly	O
 recurved	O
 dorsally	O
@@ -3461,7 +3340,6 @@ dorsally	O
 with	O
 5	O
 big	O
-
 papillae	O
 present	O
 in	O
@@ -3482,7 +3360,6 @@ pi	O
 11	O
 )	O
 .	O
-
 Remarks	O
 :	O
 This	O
@@ -3496,7 +3373,6 @@ specimens	O
 1927	O
 )	O
 .	O
-
 Habitat	B-DISTRIBUTION_DESCRIPTOR
 :	O
 Saccocirrus	O
@@ -3511,7 +3387,6 @@ site	O
 VII	O
 )	O
 .	O
-
 Distribution	B-DISTRIBUTION_DESCRIPTOR
 :	O
 France	B-DISTRIBUTION_DESCRIPTOR
@@ -3531,7 +3406,6 @@ Daydoff	O
 1952	O
 )	O
 and	O
-
 California	B-DISTRIBUTION_DESCRIPTOR
 ,	I-DISTRIBUTION_DESCRIPTOR
 USA	I-DISTRIBUTION_DESCRIPTOR
@@ -3541,7 +3415,6 @@ Hartman	O
 1955	O
 )	O
 .	O
-
 Fig*(4	O
 ):	O
 Parudomùs	O
@@ -3580,7 +3453,6 @@ notopodiai	O
 capillnics	O
 seta	O
 .	O
-
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -3594,7 +3466,6 @@ EASTERN	I-DISTRIBUTION_DESCRIPTOR
 HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
-
 EGYPT	I-DISTRIBUTION_DESCRIPTOR
 .	O
 WITH	O
@@ -3605,26 +3476,20 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 U	O
 ,	O
 ]	O
 lini	O
 )	O
-
 \	O
-
 ft	O
 .	O
 OI	O
 mm	O
-
 0.01	O
 nun	O
-
 Fig,(5	O
 ):	O
-
 Fig,(5	O
 ):	O
 Ophiodromus	O
@@ -3661,7 +3526,6 @@ f	O
 ;	O
 setae	O
 .	O
-
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -3676,7 +3540,6 @@ HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
 ,	O
-
 EGYPT	O
 ,	O
 WITH	O
@@ -3687,11 +3550,9 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 4	O
 .	O
 DISCUSSION	O
-
 During	O
 this	O
 study	O
@@ -3745,7 +3606,6 @@ and	O
 Saccocirrus	O
 papillocercus	O
 .	O
-
 The	O
 habitat	B-DISTRIBUTION_DESCRIPTOR
 of	O
@@ -3782,7 +3642,6 @@ the	O
 burrowing	O
 activity	O
 .	O
-
 Fauchald	O
 :	O
 and	O
@@ -3856,7 +3715,6 @@ mud	B-DISTRIBUTION_DESCRIPTOR
 or	I-DISTRIBUTION_DESCRIPTOR
 sand	I-DISTRIBUTION_DESCRIPTOR
 .	O
-
 Orbiniids	O
 are	O
 non	O
@@ -3881,7 +3739,6 @@ to	I-DISTRIBUTION_DESCRIPTOR
 abyssal	I-DISTRIBUTION_DESCRIPTOR
 depths	I-DISTRIBUTION_DESCRIPTOR
 .	O
-
 While	O
 Paraonids	O
 use	O
@@ -4012,7 +3869,6 @@ used	O
 to	O
 prevent	O
 back	O
-
 word	O
 slip	O
 during	O
@@ -4058,7 +3914,6 @@ sandy-	B-DISTRIBUTION_DESCRIPTOR
 mud	I-DISTRIBUTION_DESCRIPTOR
 bottom	I-DISTRIBUTION_DESCRIPTOR
 .	O
-
 Gills	O
 used	O
 in	O
@@ -4114,7 +3969,6 @@ in	O
 muddy	B-DISTRIBUTION_DESCRIPTOR
 bottom	I-DISTRIBUTION_DESCRIPTOR
 .	O
-
 Westheide	O
 (	O
 1982	O
@@ -4230,7 +4084,6 @@ caves	B-DISTRIBUTION_DESCRIPTOR
 and	O
 harbours	B-DISTRIBUTION_DESCRIPTOR
 .	O
-
 The	O
 role	O
 of	O
@@ -4353,15 +4206,12 @@ also	O
 be	O
 applied	O
 on	O
-
 196	O
-
 Faiza	O
 a.	O
 abd	O
 -	O
 Elnaby	O
-
 Ophiodromus	O
 pallidus	O
 which	O
@@ -4371,7 +4221,6 @@ prefer	O
 sand	B-DISTRIBUTION_DESCRIPTOR
 habitats	I-DISTRIBUTION_DESCRIPTOR
 .	O
-
 On	O
 the	O
 other	O
@@ -4487,7 +4336,6 @@ movement	O
 and	O
 others	O
 .	O
-
 The	O
 geographic	B-DISTRIBUTION_DESCRIPTOR
 distribution	I-DISTRIBUTION_DESCRIPTOR
@@ -4563,9 +4411,7 @@ Fauvel	O
 in	O
 Alexandria	B-DISTRIBUTION_DESCRIPTOR
 .	O
-
 REFERENCES	O
-
 Abd-	O
 Elnaby	O
 ,	O
@@ -4604,7 +4450,6 @@ Univ	O
 .	O
 272pp	O
 .	O
-
 Abd-	O
 Elnaby	O
 ,	O
@@ -4685,7 +4530,6 @@ Sei	O
 -	O
 112	O
 .	O
-
 Brown	O
 ,	O
 R.	O
@@ -4713,7 +4557,6 @@ Res	O
 -	O
 456	O
 .	O
-
 Daniel	O
 ,	O
 M.	O
@@ -4741,7 +4584,6 @@ defaunation	O
 species	O
 equilibrium	O
 .	O
-
 Oecologia	O
 .	O
 22	O
@@ -4752,7 +4594,6 @@ Oecologia	O
 -	O
 117	O
 .	O
-
 Dauvin	O
 ,	O
 J.	O
@@ -4777,7 +4618,6 @@ Roscoff	O
 Amphipod	O
 {	O
 Siphonoecetes	O
-
 striatus	O
 )	O
 and	O
@@ -4794,7 +4634,6 @@ pennatifidum	O
 Cahiers	O
 de	O
 biologie	O
-
 marine	O
 .	O
 Paris	O
@@ -4807,7 +4646,6 @@ Paris	O
 -	O
 219	O
 .	O
-
 Day	O
 ,	O
 J.	O
@@ -4852,7 +4690,6 @@ and	O
 878	O
 pp	O
 .	O
-
 Day	O
 ,	O
 J.	O
@@ -4909,7 +4746,6 @@ press	O
 604	O
 pp	O
 .	O
-
 Daydoff	O
 ,	O
 C.	O
@@ -4929,12 +4765,10 @@ Sei	O
 .	O
 235	O
 ,	O
-
 5	O
 -	O
 7	O
 .	O
-
 Dewarumez	O
 ,	O
 J.	O
@@ -4983,7 +4817,6 @@ Mar.	O
 -	O
 93	O
 .	O
-
 Dorgan	O
 ,	O
 K.	O
@@ -5015,7 +4848,6 @@ Nature	O
 -	O
 475	O
 .	O
-
 Dorgan	O
 ,	O
 K.	O
@@ -5058,7 +4890,6 @@ draft	O
 1-	O
 35	O
 .	O
-
 Fauchald	O
 ,	O
 K.	O
@@ -5095,7 +4926,6 @@ series	O
 -	O
 190	O
 .	O
-
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -5110,7 +4940,6 @@ HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
 ,	O
-
 EGYPT	O
 ,	O
 WITH	O
@@ -5121,7 +4950,6 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 Fauchald	O
 ,	O
 K.	O
@@ -5156,7 +4984,6 @@ Rev.	O
 -	O
 284	O
 .	O
-
 Fauvel	O
 ,	O
 P.	O
@@ -5181,7 +5008,6 @@ en	O
 181	O
 figures	O
 .	O
-
 Fauvel	O
 ,	O
 P.	O
@@ -5198,7 +5024,6 @@ France	O
 :	O
 494pp	O
 .	O
-
 Fauvel	O
 ,	O
 P.	O
@@ -5234,7 +5059,6 @@ Cairo	O
 1-	O
 60	O
 .	O
-
 Gambi	O
 ,	O
 M.	O
@@ -5254,7 +5078,6 @@ S.	O
 Polychaete	O
 distribution	O
 ,	O
-
 diversity	O
 and	O
 seasonality	O
@@ -5288,7 +5111,6 @@ Mar.	O
 -	O
 17	O
 .	O
-
 Hartman	O
 ,	O
 0	O
@@ -5318,7 +5140,6 @@ pp.1	O
 -	O
 183	O
 .	O
-
 Hartman	O
 ,	O
 O.	O
@@ -5327,7 +5148,6 @@ O.	O
 ,	O
 Orbiniidae	O
 ,	O
-
 Apistobranchidae	O
 ,	O
 '	O
@@ -5347,7 +5167,6 @@ Exped	O
 -	O
 393	O
 .	O
-
 Hartman	O
 ,	O
 O.	O
@@ -5357,7 +5176,6 @@ O.	O
 Catalogue	O
 of	O
 the	O
-
 polychaetous	O
 Annelids	O
 of	O
@@ -5375,7 +5193,6 @@ Paper	O
 -	O
 628	O
 .	O
-
 Hatchings	O
 ,	O
 P.	O
@@ -5410,7 +5227,6 @@ Supplement	O
 -	O
 118	O
 .	O
-
 Hourdez	O
 ,	O
 S.	O
@@ -5458,7 +5274,6 @@ Zoomorphology	O
 -	O
 233	O
 .	O
-
 Hourdez	O
 ,	O
 S.	O
@@ -5508,7 +5323,6 @@ and	O
 hemoglobin	O
 structure	O
 function	O
-
 relationships	O
 .	O
 J.	O
@@ -5521,7 +5335,6 @@ Biol	O
 1669-	O
 1681	O
 .	O
-
 Lardicci	O
 ,	O
 C.	O
@@ -5580,7 +5393,6 @@ Ecol	O
 -	O
 52	O
 .	O
-
 Leo'n-	O
 conza'lez	O
 ,	O
@@ -5625,7 +5437,6 @@ Science	O
 -	O
 174	O
 .	O
-
 Merz	O
 ,	O
 R.	O
@@ -5674,7 +5485,6 @@ pp	O
 -	O
 290	O
 .	O
-
 Quijon	O
 ,	O
 P.	O
@@ -5713,7 +5523,6 @@ Sub	O
 -	O
 Arctic	O
 of	O
-
 lord;Oecologia	O
 ,	O
 144	O
@@ -5724,7 +5533,6 @@ lord;Oecologia	O
 -	O
 136	O
 .	O
-
 Selim	O
 ,	O
 S.	O
@@ -5735,7 +5543,6 @@ H.	O
 ,	O
 Systematic	O
 and	O
-
 distributional	O
 studies	O
 of	O
@@ -5757,14 +5564,12 @@ of	O
 Science	O
 ,	O
 Alexandria	O
-
 University	O
 ,	O
 Egypt	O
 ,	O
 402pp	O
 .	O
-
 Selim	O
 ,	O
 S.	O
@@ -5775,7 +5580,6 @@ H.	O
 ,	O
 Description	O
 and	O
-
 remarks	O
 on	O
 Suez	B-DISTRIBUTION_DESCRIPTOR
@@ -5809,7 +5613,6 @@ Parasitology	O
 -	O
 110	O
 .	O
-
 Selim	O
 ,	O
 S.	O
@@ -5870,7 +5673,6 @@ Issue	O
 210-	O
 227	O
 .	O
-
 Selim	O
 ,	O
 S.	O
@@ -5930,7 +5732,6 @@ Issue	O
 -	O
 241	O
 .	O
-
 Simboura	O
 ,	O
 N.	O
@@ -5955,15 +5756,12 @@ checklist	O
 ,	O
 Distribution	O
 and	O
-
 198	O
-
 Faiza	O
 A.	O
 Abd	O
 -	O
 Elnaby	O
-
 ecological	O
 characteristics	O
 ,	O
@@ -5977,7 +5775,6 @@ No	O
 ,	O
 19pp	O
 .	O
-
 Simboura	O
 ,	O
 N.	O
@@ -6020,7 +5817,6 @@ Vol	O
 -	O
 111	O
 .	O
-
 Taylor	O
 ,	O
 J.	O
@@ -6050,7 +5846,6 @@ Sei	O
 -	O
 26	O
 .	O
-
 Uebelacker	O
 ,	O
 J.	O
@@ -6083,7 +5878,6 @@ contract	O
 14	O
 -	O
 12-	O
-
 001	O
 -	O
 29091	O
@@ -6110,7 +5904,6 @@ land	O
 -	O
 1	O
 .	O
-
 Westheide	O
 ,	O
 W.	O
@@ -6155,7 +5948,6 @@ Ser	O
 -	O
 126	O
 .	O
-
 SOME	O
 POLYCHAETE	O
 SPECIES	O
@@ -6169,7 +5961,6 @@ EASTERN	I-DISTRIBUTION_DESCRIPTOR
 HARBOUR	I-DISTRIBUTION_DESCRIPTOR
 OF	I-DISTRIBUTION_DESCRIPTOR
 ALEXANDRIA	I-DISTRIBUTION_DESCRIPTOR
-
 EGYPT	I-DISTRIBUTION_DESCRIPTOR
 ,	O
 WITH	O
@@ -6180,43 +5971,36 @@ ORBINIIDS	O
 AND	O
 PARAONIDS	O
 HABITATS	B-DISTRIBUTION_DESCRIPTOR
-
 Plate	O
 (	O
 1	O
 )	O
-
 Scoloplos	O
 (	O
 Leodamas	O
 )	O
 rubra	O
-
 1	O
 -	O
 Anterior	O
 end	O
 .	O
 10x10	O
-
 2	O
 -	O
 Anterior	O
 parapodium	O
 .	O
 10x10	O
-
 3-	O
 Acicula	O
 .	O
 10x40	O
-
 Scoloplos	O
 (	O
 Leodamas	O
 )	O
 dendrobranchus	O
-
 4-	O
 Anterior	O
 end	O
@@ -6224,7 +6008,6 @@ end	O
 10x10	O
 Scolaricia	O
 typical	O
-
 5-	O
 Capillary	O
 setae	O
@@ -6234,22 +6017,18 @@ setae	O
 )	O
 .	O
 10x40	O
-
 Plate	O
 (	O
 2	O
 )	O
-
 Paradoneis	O
 lyra	O
-
 6	O
 -	O
 Lyre	O
 seta	O
 .	O
 10x40	O
-
 7-	O
 The	O
 end	O
@@ -6260,7 +6039,6 @@ body	O
 10x10	O
 Ophiodromus	O
 pallidus	O
-
 8-	O
 Anterior	O
 end	O
@@ -6269,7 +6047,6 @@ view	O
 .	O
 lOx	O
 10	O
-
 9-	O
 Anterior	O
 end	O
@@ -6280,7 +6057,6 @@ eversible	O
 proboscis	O
 .	O
 10x10	O
-
 10	O
 -	O
 Setae	O
@@ -6288,7 +6064,6 @@ Setae	O
 10x40	O
 Saccocirrus	O
 papillocercus	O
-
 11-	O
 The	O
 end	O
@@ -6297,9 +6072,7 @@ the	O
 body	O
 .	O
 10x10	O
-
 200	O
-
 EGYPTIAN	O
 JOURNAL	O
 OF	O
@@ -6314,11 +6087,9 @@ NO	O
 ,	O
 2007	O
 *	O
-
 ISSN	O
 :	O
 16874285-	O
-
 0U4JI	O
 (	O
 jk	O
@@ -6335,7 +6106,6 @@ y	O
 £	O
 l	O
 jjÎ	O
-
 OJA	O
 úilkf^l	O
 SjUÄV	O
@@ -6346,17 +6116,14 @@ b	O
 li	O
 <	O
 >	O
-
 íiAc-	O
 Ldll	O
-
 dae	O
 .	O
 ^	O
 ôjjlâ	O
-
 jm04	O
--""^jilLuíVt	O
+"-""""^jilLuíVt"	O
 “	O
 JuUoaJIj	O
 jUjJI	O
@@ -6364,7 +6131,6 @@ jUjJI	O
 ^jídt	O
 J^xaII	O
 .	O
-
 ^t	O
 -	O
 lü	O
@@ -6381,7 +6147,6 @@ Ajlamija	O
 Cl\\\C	O
 *	O
 ^	O
-
 ^Uil	O
 ^	O
 Inxjj	O
@@ -6391,7 +6156,6 @@ c^2006	O
 sjiiil	O
 ^it^jSUSS	O
 !	O
-
 4	O
 -	O
 UjUI	O
@@ -6416,7 +6180,6 @@ j	O
 ^C	O
 -	O
 USl	O
-
 ¡	O
 j	O
 >	O
@@ -6440,10 +6203,8 @@ C	O
 úlAVt	O
 óJüJIC	O
 .	O
-
 .	O
 i“1	O
-
 IgJu	O
 ^l_yjl	O
 <	O
@@ -6465,7 +6226,6 @@ Aiai	O
 -	O
 aJ	O
 ^	O
-
 Scoloplos	O
 (	O
 Leodamas	O
@@ -6495,7 +6255,6 @@ and	O
 Saccocirrus	O
 papillocercus	O
 .	O
-
 .	O
 ajj^UujVU	O
 ¡	O
@@ -6520,12 +6279,10 @@ Ale	O
 ÁjujI	O
 ^1	O
 i¿A	O
-
 Hesionidae	O
 and	O
 Saccocirridae	O
 .	O
-
 JjSI	O
 ¿	O
 pLsujü	O
@@ -6537,14 +6294,12 @@ Saccocirridae	O
 J	O
 SjUVI	O
 j^j	O
-
 •<Üjj	O
 -	O
 aJI	O
 SUJü	O
 S	O
 ja	O
-
 ¡	O
 Jasa	O
 ¡	O
@@ -6564,7 +6319,6 @@ j	O
 -	O
 iá	O
 ÁJiálLi	O
-
 .	O
 Ig'n.liM	O
 -ÜLijJaj^áJI	O
@@ -6577,7 +6331,6 @@ jjjUl	O
 jlJIj	O
 ^piujjVI	O
 ^Ijjl	O
-
 The	O
 basic	O
 procedure	O
@@ -6935,7 +6688,6 @@ factors	I-DISTRIBUTION_DESCRIPTOR
 e.g.	O
 wind	B-DISTRIBUTION_DESCRIPTOR
 and	O
-
 runoff	B-DISTRIBUTION_DESCRIPTOR
 )	O
 and	O
@@ -6995,7 +6747,6 @@ events	O
 closed	B-DISTRIBUTION_DESCRIPTOR
 bar	I-DISTRIBUTION_DESCRIPTOR
 )	O
-
 and	O
 light	O
 onshore	B-DISTRIBUTION_DESCRIPTOR
@@ -7141,7 +6892,6 @@ of	O
 the	O
 effect	O
 of	O
-
 species	O
 loss	O
 on	O
@@ -7702,7 +7452,6 @@ in	O
 R.	O
 whero	O
 was	O
-
 a	O
 subset	O
 of	O
@@ -7718,7 +7467,6 @@ mating	I-DISTRIBUTION_DESCRIPTOR
 behaviour	O
 was	O
 observed	O
-
 in	O
 heterospecific	O
 trials	O
@@ -7805,7 +7553,6 @@ is	O
 reviewed	O
 .	O
 Three	O
-
 species	O
 are	O
 recognised	O
@@ -7922,7 +7669,6 @@ the	O
 basis	O
 of	O
 dorsal	O
-
 fin	O
 height	O
 and	O
@@ -7937,14 +7683,12 @@ in	O
 P.	O
 muelleri	O
 .	O
-
 Brief	O
 Review	O
 of	O
 the	O
 Genera	O
 Hemilepidotus	O
-
 and	O
 Melletes	O
 (	O
@@ -7956,7 +7700,6 @@ Traits	O
 of	O
 the	O
 Biology	O
-
 of	O
 a	O
 New	O
@@ -7967,16 +7710,13 @@ Hemilepidotus	O
 zapus	O
 from	O
 Pacific	O
-
 Waters	O
 of	O
 the	O
 Northern	O
 Kurils	O
-
 Abstract	O
 —	O
-
 The	O
 Comparative	O
 morphological	O
@@ -8008,7 +7748,6 @@ over	O
 28	O
 external	O
 morphological	O
-
 features	O
 for	O
 the	O
@@ -8040,7 +7779,6 @@ used	O
 in	O
 identification	O
 is	O
-
 revealed	O
 .	O
 Additional	O
@@ -8059,7 +7797,6 @@ features	O
 ,	O
 they	O
 are	O
-
 used	O
 in	O
 the	O
@@ -8100,7 +7837,6 @@ Commander	B-DISTRIBUTION_DESCRIPTOR
 Islands	I-DISTRIBUTION_DESCRIPTOR
 and	O
 the	O
-
 Northern	B-DISTRIBUTION_DESCRIPTOR
 Kurils	I-DISTRIBUTION_DESCRIPTOR
 from	O
@@ -8120,7 +7856,6 @@ of	O
 -	O
 2001	O
 ,	O
-
 the	O
 spatial	B-DISTRIBUTION_DESCRIPTOR
 -	I-DISTRIBUTION_DESCRIPTOR
@@ -8321,9 +8056,6 @@ Decapoda	O
 )	O
 and	O
 Polychaeta	O
-
-
-
 MINISTRY	O
 OF	O
 FINANCE,	O
@@ -8346,7 +8078,7 @@ Fish	O
 Eggs	B-LIFE_STAGE
 and	O
 Larvae	B-LIFE_STAGE
-T"	O
+"T"""	O
 The	O
 post-larval	B-LIFE_STAGE
 stages	I-LIFE_STAGE
@@ -8381,7 +8113,7 @@ may	O
 not	O
 always	O
 be	O
-"attained."""	O
+"""attained."""""""	O
 The	O
 larvae	B-LIFE_STAGE
 must	O
@@ -9524,7 +9256,7 @@ cirrhosa	O
 he	O
 states	O
 :	O
-"Les	O
+"""Les"	O
 oeufs	O
 murs,	O
 tirés	O
@@ -9538,7 +9270,7 @@ presentaient	O
 les	O
 dimensions	O
 qui	O
-suivent :	O
+suivent:	O
 Diametre	O
 de	O
 l'oeuf	O
@@ -9552,7 +9284,7 @@ la	O
 gouttelette	O
 huileuse	O
 .20	O
-millimètres."	O
+"millimètres."""	O
 Now	O
 my	O
 experience	O
@@ -9596,7 +9328,7 @@ fact	O
 Holt	O
 adds	O
 :	O
-"	O
+""""	O
 Il	O
 est	O
 probable	O
@@ -9613,7 +9345,7 @@ la	O
 formation	O
 de	O
 l'espace	O
-périvitellin."	O
+"périvitellin."""	O
 The	O
 eggs	B-LIFE_STAGE
 found	O
@@ -9769,7 +9501,7 @@ his	O
 description	O
 Fage	O
 says	O
-"In	O
+"""In"	O
 the	O
 5	B-BODY_SIZE
 millimetres	I-BODY_SIZE
@@ -9924,7 +9656,7 @@ ventrals.	O
 1	O
 on	O
 the	O
-""limb"	O
+"""""limb"""	O
 of	O
 the	O
 caudal.	O
@@ -9949,7 +9681,7 @@ are	O
 all	O
 speckled	O
 with	O
-"black."""	O
+"""black."""""""	O
 Mr.	O
 Russell's	O
 is	O
@@ -10099,8 +9831,8 @@ collecting	O
 stations	O
 of	O
 the	O
-"	O
-Thor"	O
+""""	O
+"Thor"""	O
 included	O
 spots	O
 off	O
@@ -10141,7 +9873,7 @@ labelled	O
 Type	O
 XXI	O
 4/6/23	O
-"	O
+""""	O
 is	O
 undoubtedly	O
 Paracentropristis	O
@@ -10799,7 +10531,7 @@ of	O
 his	O
 Clupea	O
 species	O
-B"	O
+"B"""	O
 and	O
 it	O
 has	O
@@ -10880,10 +10612,10 @@ him	O
 under	O
 the	O
 heading	O
-"	O
+""""	O
 Sardinella	O
 aurita	O
-?"	O
+"?"""	O
 I	O
 would	O
 prefer,	O
@@ -11013,9 +10745,9 @@ very	O
 closely	O
 with	O
 Raffaele's	O
-"	O
+""""	O
 Species	O
-B."	O
+"B."""	O
 It	O
 is	O
 clearly	O
@@ -11076,7 +10808,7 @@ Pigmentation	O
 reseinbles	O
 that	O
 of	O
-"	O
+""""	O
 Species	O
 B	O
 and	O
@@ -11675,7 +11407,7 @@ and	O
 labelled	O
 Clupea	O
 pilchardus	O
-?"	O
+"?"""	O
 Though	O
 it	O
 is	O
@@ -12338,9 +12070,9 @@ I	O
 Same	O
 as	O
 Raffaele's	O
-"	O
+""""	O
 Species	O
-B."	O
+"B."""	O
 (Russell's	O
 Collection)	O
 station	O
@@ -12801,7 +12533,7 @@ specimen	O
 is	O
 labelled	O
 Anchovy	O
-"	O
+""""	O
 and	O
 was	O
 killed	O
@@ -13867,12 +13599,12 @@ specimen	O
 corresponds	O
 to	O
 Raffaele`s	O
-"	O
+""""	O
 Species	O
 1	O
 (?	O
 Solea)	O
-"	O
+""""	O
 which	O
 it	O
 resembled	O
@@ -13957,7 +13689,7 @@ type	O
 of	O
 egg	B-LIFE_STAGE
 of	O
-Solea."	O
+"Solea."""	O
 It	O
 was	O
 also	O
@@ -14027,7 +13759,7 @@ was	O
 2.04	B-BODY_SIZE
 millimetre	I-BODY_SIZE
 in	I-BODY_SIZE
-diameter ;	I-BODY_SIZE
+diameter;	I-BODY_SIZE
 the	O
 larva	B-LIFE_STAGE
 was	O
@@ -14255,7 +13987,7 @@ stage.	O
 Schmidt	O
 concluded	O
 that	O
-"	O
+""""	O
 the	O
 occurrence	O
 of	O
@@ -14313,7 +14045,7 @@ forms	O
 the	O
 Mediter-	B-DISTRIBUTION_DESCRIPTOR
 ranean	I-DISTRIBUTION_DESCRIPTOR
-Sea."	I-DISTRIBUTION_DESCRIPTOR
+"Sea."""	I-DISTRIBUTION_DESCRIPTOR
 He	O
 concludes	O
 that	O
@@ -14669,7 +14401,6 @@ Govt.	O
 Press	O
 11,444-1932-300	O
 ex.	O
-	
 Bleheratherina	O
 pierucciae	O
 is	O
@@ -15110,7 +14841,6 @@ of	O
 adults	B-LIFE_STAGE
 ,	O
 eggs	B-LIFE_STAGE
-	
 and	O
 young	B-LIFE_STAGE
 increased	O
