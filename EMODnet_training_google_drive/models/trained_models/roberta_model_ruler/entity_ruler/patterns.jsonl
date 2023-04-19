@@ -1,0 +1,395 @@
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"abyssobenthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"abyssal"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"abyssopelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpha mesohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpha"},{"IS_PUNCT":true},{"LOWER":"mesohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpha oligohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpha"},{"IS_PUNCT":true},{"LOWER":"oligohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpja polyhaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpja"},{"IS_PUNCT":true},{"LOWER":"polyhaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpha haline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"alpha"},{"IS_PUNCT":true},{"LOWER":"haline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"anchialine caves"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"anchialine"},{"IS_PUNCT":true},{"LOWER":"caves"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"artificial"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"bathybenthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"bathypelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"bedrock"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"benthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"benthopelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta haline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta"},{"IS_PUNCT":true},{"LOWER":"haline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta mesohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta"},{"IS_PUNCT":true},{"LOWER":"mesohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta oligohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta"},{"IS_PUNCT":true},{"LOWER":"oligohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta polyhaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"beta"},{"IS_PUNCT":true},{"LOWER":"polyhaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"biogenic reef"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"biogenic"},{"IS_PUNCT":true},{"LOWER":"reef"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"brackish"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"brackish salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"brackish"},{"IS_PUNCT":true},{"LOWER":"salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"burrow dweller"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"burrow"},{"IS_PUNCT":true},{"LOWER":"dweller"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"cave"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"circalittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"circalittoral offshore"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"circalittoral"},{"IS_PUNCT":true},{"LOWER":"offshore"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"clay"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"coarse clean sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"coarse sediments"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"coarse"},{"IS_PUNCT":true},{"LOWER":"sediments"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"cobbles"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"crevices fissures"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"crevices"},{"IS_PUNCT":true},{"LOWER":"fissures"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"crevices and fissures"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"demersal"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth substratum"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth"},{"IS_PUNCT":true},{"LOWER":"substratum"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth in substratum"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth range"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth"},{"IS_PUNCT":true},{"LOWER":"range"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth range"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"depth"},{"IS_PUNCT":true},{"LOWER":"range"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"elevation"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"enclosed coast"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"enclosed"},{"IS_PUNCT":true},{"LOWER":"coast"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"enclosed coast or embayment"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"endophytic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"endozoic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"environment"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"environmental position"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"environmental"},{"IS_PUNCT":true},{"LOWER":"position"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epibenthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epifaunal"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epifloral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epilithic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epipelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"circalittora loffshore"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"circalittora"},{"IS_PUNCT":true},{"LOWER":"loffshore"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epipelic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epiphytic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"epizooic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"estuary"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"extremely exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"extremely"},{"IS_PUNCT":true},{"LOWER":"exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"extremely sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"extremely"},{"IS_PUNCT":true},{"LOWER":"sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"features other"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"features"},{"IS_PUNCT":true},{"LOWER":"other"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"features or other substratum"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"fine clean sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"freshwater salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"freshwater"},{"IS_PUNCT":true},{"LOWER":"salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"freshwater"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravel shingle"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravel"},{"IS_PUNCT":true},{"LOWER":"shingle"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravel or shingle"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravelly mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravelly"},{"IS_PUNCT":true},{"LOWER":"mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravelly muddy sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravelly sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"gravelly"},{"IS_PUNCT":true},{"LOWER":"sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"habitat"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"habitat preferences"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"habitat"},{"IS_PUNCT":true},{"LOWER":"preferences"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hadobenthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hadopelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hard"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hyper saline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hyper"},{"IS_PUNCT":true},{"LOWER":"saline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hyper benthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hyper"},{"IS_PUNCT":true},{"LOWER":"benthic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ice associated"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ice"},{"IS_PUNCT":true},{"LOWER":"associated"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hard immobile"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hard"},{"IS_PUNCT":true},{"LOWER":"immobile"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"immobile hard "}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"immobile"},{"IS_PUNCT":true},{"LOWER":"hard"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"infaunal"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"infralittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"interstitial"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lagoon"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"isolated saline water "}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"large boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"large"},{"IS_PUNCT":true},{"LOWER":"boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very large boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lithotomous"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"eulittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower circalittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower"},{"IS_PUNCT":true},{"LOWER":"circalittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower infralittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower"},{"IS_PUNCT":true},{"LOWER":"infralittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower"},{"IS_PUNCT":true},{"LOWER":"littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"lower littoral fringe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"macroalgae"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"maerl"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"marine"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"marine salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"marine"},{"IS_PUNCT":true},{"LOWER":"salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"medium clean sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mesohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mesopelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mid eulittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mid"},{"IS_PUNCT":true},{"LOWER":"eulittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mid littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mid"},{"IS_PUNCT":true},{"LOWER":"littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mixed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hard mobile"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"hard"},{"IS_PUNCT":true},{"LOWER":"mobile"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mobile hard"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mobile"},{"IS_PUNCT":true},{"LOWER":"hard"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"moderately exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"moderately"},{"IS_PUNCT":true},{"LOWER":"exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"moderately strong"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"moderately"},{"IS_PUNCT":true},{"LOWER":"strong"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mud sandy mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"mud and sandy mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"muddy gravel"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"muddy"},{"IS_PUNCT":true},{"LOWER":"gravel"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"muddysand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"muddy sandy gravel"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"nekton"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"nektonic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"neritic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"neustonic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"oceanic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"offshore seabed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"offshore"},{"IS_PUNCT":true},{"LOWER":"seabed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"oligohaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"open coast"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"open"},{"IS_PUNCT":true},{"LOWER":"coast"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"other species"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"other"},{"IS_PUNCT":true},{"LOWER":"species"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"overhang"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"pebbles"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"pelagic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"physiography"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"plankton"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"planktonic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"pleustonic"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"polyhaline"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"province"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ria "}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"voe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ria voe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ria"},{"IS_PUNCT":true},{"LOWER":"voe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ria or voe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"rockpools"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"rockpool"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"salinity"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"salt marsh"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"salt"},{"IS_PUNCT":true},{"LOWER":"marsh"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sand muddy sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sand and muddy sand"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sandy gravel"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sandy"},{"IS_PUNCT":true},{"LOWER":"gravel"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sandy mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sandy"},{"IS_PUNCT":true},{"LOWER":"mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sandy mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sandy"},{"IS_PUNCT":true},{"LOWER":"mud"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sea ice"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sea"},{"IS_PUNCT":true},{"LOWER":"ice"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sea loch"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sea"},{"IS_PUNCT":true},{"LOWER":"loch"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sea lough"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sea"},{"IS_PUNCT":true},{"LOWER":"lough"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"seagrass"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"small boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"small"},{"IS_PUNCT":true},{"LOWER":"boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sediment soft"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sediment"},{"IS_PUNCT":true},{"LOWER":"soft"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"soft (sediment)"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"splash zone"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"splash"},{"IS_PUNCT":true},{"LOWER":"zone"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"spray zone"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"spray"},{"IS_PUNCT":true},{"LOWER":"zone"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strait sound"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strait"},{"IS_PUNCT":true},{"LOWER":"sound"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strait or sound"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strand line"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strand"},{"IS_PUNCT":true},{"LOWER":"line"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strong"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strong sublittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"strong"},{"IS_PUNCT":true},{"LOWER":"sublittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sublittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sublittoral fringe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"sublittoral"},{"IS_PUNCT":true},{"LOWER":"fringe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"substratum habitat"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"substratum"},{"IS_PUNCT":true},{"LOWER":"habitat"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"substratum"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"supralittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"terrestrial"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"tidal strength"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"tidal"},{"IS_PUNCT":true},{"LOWER":"strength"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"tidal streams and water flow (range)"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"tolerance"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type i"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type"},{"IS_PUNCT":true},{"LOWER":"i"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type ii"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type"},{"IS_PUNCT":true},{"LOWER":"ii"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type iii"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type"},{"IS_PUNCT":true},{"LOWER":"iii"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type iv"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type"},{"IS_PUNCT":true},{"LOWER":"iv"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type v"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"type"},{"IS_PUNCT":true},{"LOWER":"v"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ultra sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"ultra"},{"IS_PUNCT":true},{"LOWER":"sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"under boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"under"},{"IS_PUNCT":true},{"LOWER":"boulders"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"under ice"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"under"},{"IS_PUNCT":true},{"LOWER":"ice"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper circalittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper"},{"IS_PUNCT":true},{"LOWER":"circalittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper infralittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper"},{"IS_PUNCT":true},{"LOWER":"infralittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper eulittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper"},{"IS_PUNCT":true},{"LOWER":"eulittoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper"},{"IS_PUNCT":true},{"LOWER":"littoral"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"upper littoral fringe"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"vertical biological zone"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very"},{"IS_PUNCT":true},{"LOWER":"exposed"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very"},{"IS_PUNCT":true},{"LOWER":"sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very strong"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very"},{"IS_PUNCT":true},{"LOWER":"strong"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very weak"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"very"},{"IS_PUNCT":true},{"LOWER":"weak"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"wave exposure"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"wave"},{"IS_PUNCT":true},{"LOWER":"exposure"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"wave sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"wave"},{"IS_PUNCT":true},{"LOWER":"sheltered"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"weak"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"tubiculous "}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"free living"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"free"},{"IS_PUNCT":true},{"LOWER":"living"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"erect"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"attached "}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"burrow dwelling"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"burrow"},{"IS_PUNCT":true},{"LOWER":"dwelling"}]}
+{"label":"DISTRIBUTION_DESCRIPTOR","pattern":[{"LOWER":"algae"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"adult"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"instar"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"juvenile"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"larva"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"actinula"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"amphiblastula"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"ascidian tadpole"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"ascidian"},{"IS_PUNCT":true},{"LOWER":"tadpole"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"auricularia"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"bipinnaria"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"brachiolaria"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"conaria"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"copepodid"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"coronate"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"cydippid"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"cyphonautes"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"cyprid"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"doliolaria"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"echinopluteus"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"ephyra"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"glochidium"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"goette's larva"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"megalopa"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"metanauplius"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"mitraria"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"muller's larva"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"nauplius"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"nectochaeta"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"ophiopluteus"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"parenchymella"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"pediveliger"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"pelagosphaera"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"pilidium"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"planula"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"protonymphon"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"protozoea"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"rataria"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"veliger"}]}
+{"label":"LIFE_STAGE","pattern":[{"LOWER":"zoea"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"qualitative body size"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"macrobiota "}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"megabiota"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"meiobiota "}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"microbiota "}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"quantitative body size"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"body length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"body"},{"IS_PUNCT":true},{"LOWER":"length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"taxon specific body size"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"diameter"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"fork length (fl)"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"standard length (sl)"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"total length (tl)"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"width of disc (wd)"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"macroalgae"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"width"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"wingspan"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"taxon specific body size"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"macrobiota"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"meiobiota"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"fork length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"fork"},{"IS_PUNCT":true},{"LOWER":"length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"standard length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"standard"},{"IS_PUNCT":true},{"LOWER":"length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"total length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"total"},{"IS_PUNCT":true},{"LOWER":"length"}]}
+{"label":"BODY_SIZE","pattern":[{"LOWER":"width of disc"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"midwater or pelagic trawl "}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"pelagic trawl"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"pelagic"},{"IS_PUNCT":true},{"LOWER":"trawl"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"midwater trawl"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"midwater"},{"IS_PUNCT":true},{"LOWER":"trawl"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"plankton nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"plankton"},{"IS_PUNCT":true},{"LOWER":"nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"ring net"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"ring"},{"IS_PUNCT":true},{"LOWER":"net"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"bongo nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"bongo"},{"IS_PUNCT":true},{"LOWER":"nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"mocness"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"neuston nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"neuston"},{"IS_PUNCT":true},{"LOWER":"nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"drift nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"drift"},{"IS_PUNCT":true},{"LOWER":"nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"gill nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"gill"},{"IS_PUNCT":true},{"LOWER":"nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"fyke nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"fyke"},{"IS_PUNCT":true},{"LOWER":"nets"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"bottom grabs"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"bottom"},{"IS_PUNCT":true},{"LOWER":"grabs"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"hamon grab"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"hamon"},{"IS_PUNCT":true},{"LOWER":"grab"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"van veen grab"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"bottom trawl"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"bottom"},{"IS_PUNCT":true},{"LOWER":"trawl"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"beam trawling"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"beam"},{"IS_PUNCT":true},{"LOWER":"trawling"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"otter trawling"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"otter"},{"IS_PUNCT":true},{"LOWER":"trawling"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"shrimp trawling"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"shrimp"},{"IS_PUNCT":true},{"LOWER":"trawling"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"dredge"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"newhaven scallop dredge"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"rallier-du-bathy dredge"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"corer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"the gravity corer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"multiple corer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"multiple"},{"IS_PUNCT":true},{"LOWER":"corer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"reineck boxcorer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"reineck"},{"IS_PUNCT":true},{"LOWER":"boxcorer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"multi boxcorer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"multi"},{"IS_PUNCT":true},{"LOWER":"boxcorer"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"hyperbenthos sledge"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"hyperbenthos"},{"IS_PUNCT":true},{"LOWER":"sledge"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"hyperbenthos net"}]}
+{"label":"SAMPLING_DEVICE","pattern":[{"LOWER":"hyperbenthos"},{"IS_PUNCT":true},{"LOWER":"net"}]}

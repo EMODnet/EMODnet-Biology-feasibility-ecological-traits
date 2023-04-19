@@ -1,0 +1,12065 @@
+ s1, Silvana N. R. Birchenough2, Julie Bremner2, Jasmin A. Godbold3, Ruth E. Parker2,
+Ana M. Queiro
+Alicia Romero-Ramirez4, Henning Reiss5,6, Martin Solan3, Paul J. Somerfield1, Carl Van Colen7,
+Gert Van Hoey8 & Stephen Widdicombe1
+1
+
+Plymouth Marine Laboratory, Prospect Place, The Hoe, Plymouth, PL1 3DH, U.K.
+The Centre for Environment, Fisheries and Aquaculture Science, Pakefield Road, Lowestoft, NR33 OHT, U.K.
+3
+Department of Ocean and Earth Science, National Oceanography Centre, University of Southampton, Waterfront Campus, European Way,
+Southampton SO14 3ZH, U.K.
+4
+EPOC – UMR5805, Universite Bordeaux 1- CNRS, Station Marine d’Arcachon, 2 Rue du Professeur Jolyet, Arcachon 33120, France
+5
+Faculty of Biosciences and Aquaculture, University of Nordland, Postboks 1490, Bodø 8049, Norway
+6
+Department for Marine Research, Senckenberg Gesellschaft für Naturforschung, Südstrand 40, Wilhelmshaven 26382, Germany
+7
+Marine Biology Research Group, Ghent University, Krijgslaan 281/S8, Ghent 9000, Belgium
+8
+Bio-Environmental Research Group, Institute for Agriculture and Fisheries Research (ILVO-Fisheries), Ankerstraat 1, Ostend 8400, Belgium
+2
+
+Keywords
+Biodiversity, biogeochemical, ecosystem
+function, functional group, good
+environmental status, Marine Strategy
+Framework Directive, process, trait.
+Correspondence
+s, Plymouth Marine
+Ana M. Queiro
+Laboratory, Prospect Place, The Hoe,
+Plymouth PL1 3DH, U.K. Tel: +44 1752 633
+476; Fax: +44 1752 633 101;
+E-mail: anqu@pml.ac.uk
+Funding Information
+Funding was supported by the Western
+Channel Observatory, part of the UK Natural
+Environmental Research Council’s National
+s, Somerfield and
+Capability (Queiro
+Widdicombe), the Department of the
+Environment, Food and Rural Affairs under
+Science-Level Agreement SLA31
+(Birchenough), the Conseil Regional
+d’Aquitaine and the University of Bordeaux 1
+(Romero-Ramirez), and the Flemish Fund for
+Scientific Research (Van Colen).
+
+Abstract
+Bioturbation, the biogenic modification of sediments through particle reworking and burrow ventilation, is a key mediator of many important geochemical
+processes in marine systems. In situ quantification of bioturbation can be
+achieved in a myriad of ways, requiring expert knowledge, technology, and
+resources not always available, and not feasible in some settings. Where dedicated research programmes do not exist, a practical alternative is the adoption
+of a trait-based approach to estimate community bioturbation potential (BPc).
+This index can be calculated from inventories of species, abundance and
+biomass data (routinely available for many systems), and a functional classification of organism traits associated with sediment mixing (less available). Presently, however, there is no agreed standard categorization for the reworking
+mode and mobility of benthic species. Based on information from the literature
+and expert opinion, we provide a functional classification for 1033 benthic
+invertebrate species from the northwest European continental shelf, as a tool to
+enable the standardized calculation of BPc in the region. Future uses of this
+classification table will increase the comparability and utility of large-scale
+assessments of ecosystem processes and functioning influenced by bioturbation
+(e.g., to support legislation). The key strengths, assumptions, and limitations of
+BPc as a metric are critically reviewed, offering guidelines for its calculation and
+application.
+
+Received: 1 May 2013; Revised: 6 August
+2013; Accepted: 12 August 2013
+Ecology and Evolution 2013; 3(11): 3958–
+3985
+doi: 10.1002/ece3.769
+
+Introduction
+Marine soft-sediment habitats represent some of the most
+functionally important ecosystems on Earth, being charac3958
+
+terized by a high biomass and diversity of invertebrate
+organisms that are fundamental to the mediation of a
+wealth of goods and services (Lotze et al. 2006; White et al.
+2010; Widdicombe and Somerfield 2012). Infaunal inverte-
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+A bioturbation classification of European marine infaunal
+invertebrates
+
+Marine Invertebrate Bioturbation Classification
+
+brates exhibit significant influence over benthic sedimentary geochemical environments in soft sediments through
+bioturbation, that is, the mixing of sediment and particulate materials carried out during foraging, feeding and burrow maintenance activities, and the enhancement of pore
+water and solute advection during burrow ventilation
+(Richter 1936; Rhoads 1974; Volkenborn et al. 2010). These
+processes influence oxygen, pH and redox gradients (Stahl
+et al. 2006; Pischedda et al. 2008; Queir
+os et al. 2011), metal
+cycling (Teal et al. 2009), sediment granulometry (Montserrat et al. 2009), pollutant release (Gilbert et al. 1994),
+macrofauna diversity (Volkenborn et al. 2007), bacterial
+activity and composition (Mermillod-Blondin and Rosenberg 2006; Gilbertson et al. 2012), and ultimately carbon
+(Kristensen 2001) and nitrogen cycling (Bertics et al. 2010).
+Hence, in light of anticipated changes to marine systems
+associated with human activity (Halpern et al. 2008; Hoegh-Guldberg and Bruno 2010), large-scale assessments of
+bioturbation can contribute to a better understanding of how
+of ecosystem functioning is mediated by biological activity.
+Community bioturbation potential (BPc) is a metric
+first described by Solan et al. (2004a), which combines
+abundance and biomass data with information about the
+life traits of individual species or taxonomic groups. This
+information describes modes of sediment reworking (Ri)
+and mobility (Mi) of taxa in a dataset, two traits known
+to regulate biological sediment mixing, a key component
+of bioturbation (Solan 2000; and refereces therein; Solan
+et al. 2004b). BPc is thus not a direct measure of the
+process of bioturbation. Rather, BPc provides an estimate
+of the potential of a community to bioturbate. Hence,
+where macrofauna abundance and biomass data are
+available, BPc provides a means to estimate the extent to
+which benthic communities are likely to affect important
+ecosystem properties that underpin ecosystem functioning. The consequences of environmentally driven changes
+in biodiversity to BPc, and its relation to ecosystem functioning, have been explored in this way in terrestrial (Bunker et al. 2005) and marine habitats (Solan et al. 2004a,b);
+at the local (Lohrer et al. 2010; Teal et al. 2013) and regional scales (Queir
+os et al. 2011; Birchenough et al. 2012;
+Solan et al. 2012); for different contexts (e.g., habitat
+structure and hypoxia, Queir
+os et al. 2011; Van Colen
+et al. 2012; Villn€as et al. 2012); and for a variety of ecosystem functions including productivity (Solan et al. 2012),
+nutrient cycling (Solan et al. 2004a), carbon storage (Bunker et al. 2005; Solan et al. 2012), and decomposition (Josefson et al. 2012). By calculating BPc over time, or for
+different locations or scenarios, changes in the efficiency
+of the organism-sediment couple can be monitored for
+compliance in support of management and policy objectives (Painting et al. 2012; Van Hoey et al. 2013). For
+example, the effects of simulated changes in benthic com-
+
+Bi and Ai are the biomass and abundance of species/taxon i
+in a sample. Trait scores were derived from an extensive
+review of published material and expert knowledge (consensus of 12 authors), and details of the scoring system are
+provided below. Species for which no published information was available were scored based on descriptions of species behavior and information on closely related species at
+the nearest taxonomic level. As BPc captures information
+about sediment particle reworking, pelagic species and
+those living on hard substrates were not included. Sediment reworking functional types were also defined (Fti),
+according to Francßois et al. (1997), Solan (2000), and
+Gerino et al. (2003). Taxonomic information and Aphia
+ID (a unique species database identifier) were extracted
+from the World Register of Marine Species (2012).
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3959
+
+munity structure have previously been used to explore
+possible changes in ecosystem properties like sediment
+organic carbon at the North Sea scale, based on empirically derived relationships between BPc and sediment
+organic carbon (Fig. 1). Similar uses of BPc could invaluably contribute to an increased understanding of the role
+of ecosystem structure in the sustenance of marine functioning and its resilience to human activities, an urgent
+need under current European legislation (Marine Strategy
+Framework Directive, 2008/56/EC).
+A significant obstacle in the widespread application of
+BPc, however, is the need for a standard classification
+scheme that is supported by the benthic research community. As a first step in fulfilling this research gap, we present the findings of the Study Group on Climate Related
+Benthic Processes in the North Sea, an expert group
+appointed by the International Council for the Exploration of the Sea (ICES SGCBNS). We present the conclusions of a series of dedicated workshops tasked with
+deriving a functional classification of northwest European
+marine invertebrate species to facilitate the calculation of
+BPc in different regions of the North Atlantic.
+
+Methods
+The classification of marine invertebrate infauna into bioturbation groups was carried out using 18 datasets compiled from northwest European waters (n = 1033 species).
+Following Swift (1993) and Solan et al. (2004a), each taxon
+(1) was scored on categorical scales that reflect increasing
+mobility (Mi) from 1 (living in a fixed tube) to 4 (free three
+dimensional movement via burrow system), and increasing
+sediment reworking (Ri) from 1 (epifauna that bioturbate
+at the sediment–water interface) to 5 (regenerators that excavate holes, transferring sediment at depth to the surface).
+BPc ¼
+
+n pﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+X
+Bi=Ai  Ai  Mi  Ri
+i¼1
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Results
+Table 1 provides the classifications for mobility (Mi) and
+sediment particle reworking (Ri) assigned to the 1033
+marine invertebrate species (and other taxa) from northwest European waters, and the associated sediment
+reworking functional types (Fti). Please refer to the table
+for details of the scoring criteria.
+
+Discussion
+
+Figure 1. Percentage of sediment organic carbon (circles, diameter
+scaled to %) at each of 109 sites sampled during the North sea
+benthos Survey conducted by the Benthos Ecology Working Group of
+the International Council for the Exploration of the Sea in 1986 (left
+column, “100%”), and following the implementation of simulated
+trait based extinction scenarios (right column, “50%”). By combining
+measurements of ecosystem functions with information on relevant
+species traits (abundance, biomass, functional group and behaviour),
+empirically derived relationships between specific ecosystem functions
+and BPc can be derived. In this case, the relationship between BPc and
+sediment % of organic carbon. Species extinction scenarios can be
+simulated and the consequential changes in ecosystem functioning
+recalculated based on changes in community composition and/or
+structure following implementation of each scenario. In this example,
+the predicted levels of sediment organic carbon content are presented
+for a 50% reduction in species richness (right column, “50%”)
+following sequential local expiration of species ordered by the most
+abundant species within a site (top row), those with the largest
+biomass (second row from top), or by the most abundant species
+across the region (bottom row). The consequences for ecosystem
+functioning (here, sediment organic carbon content) following these
+ordered extinction scenarios contrast to a scenario where species are
+extirpated in a random order (third row from top). Implementing
+various trait-based extinction scenarios in this way provides insights
+on possible outcomes following, for example, changes in
+management or as a result of anthropogenic forcing. Modified from
+Solan et al. (2012).
+
+As with any functional classification that on which BPc is
+calculated relies on three main assumptions. Understanding these assumptions, and the need to correct for them
+where information is available, is key steps in the
+adequate use of BPc as a metric:
+1 If body size is constant, the BPc of a species/taxon
+(BPi) is transferable across space and time. BPc
+accounts for two “fixed” traits (Ri and Mi) that are
+assumed to be directly related to life-history traits and
+activity levels of each species, that are not altered by
+context or spatiotemporal variation. Where information to the contrary is available about the alteration of
+species behavior in response to external stimuli, context-specific adjustments to reworking and mobility
+trait scores should be made accordingly: for example,
+thermal stress (Ouellette et al. 2004; Przeslawski et al.
+2009); habitat structure (Godbold et al. 2011); ocean
+acidification (Godbold and Solan 2013); or presence of
+a predator (Maire et al. 2010). For instance, sediment
+type has been observed to be influential when determining the classification of a particular species into
+one of two specific functional groups (Needham et al.
+2011), but this has not been documented for the vast
+majority of bioturbators. Incorporation of this type of
+information could be achieved using more sophisticated routines, such as fuzzy coding, to capture the
+influence of intraspecific variability in reworking and
+mobility traits (Maire et al. 2007; Bremner 2008; Godbold et al. 2011) across known sources of variation
+(habitat, season, food availability, etc.). The paucity of
+such information present for the majority of marine
+species (Tyler et al. 2012) is a source of concern and
+will be needed to project potential changes in BPc
+under future policy or environmental scenarios. Typical
+body size is a “flexible” trait in the metric, which will
+vary in response to environmental variation, seasonality, stress, and disturbance (Queir
+os et al. 2006;
+Macdonald et al. 2012). BPc captures this information
+through changes in the biomass/abundance ratio on
+which typical body size is calculated.
+2 An organism’s reworking (Ri) and mobility (Mi) modes
+remain the same across the life span of each individual.
+
+3960
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Bioturbation potential allocations for 1033 macrofaunal species. Mi and Ri are the reworking and mobility traits, and Fti is the
+corresponding sediment reworking functional types.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Grania
+Tubificoides amplivasatus
+Tubificoides insularis
+Tubificoides pseudogaster
+Oligochaeta
+Cossura longocirrata
+Chirimia biceps
+Clymenura lankesteri
+Euclymene
+Lumbriclymene
+Nicomache
+Rhodine
+Ophelia borealis
+Ophelina cylindricaudata
+Ophelina modesta
+Ophelina norvegica
+Travisia forbesii
+Orbinia norvegica
+Aricidea (Acmira) laubieri
+Aricidea (Allia) roberti
+Aricidea (Aricidea) wassi
+Aricidea simonae
+Aricidea suecica
+Cirrophorus armatus
+Paraonis fulgens
+Polygordius
+Protodriloides chaetifer
+Polyphysia crassa
+Paramphinome jeffreysii
+Pareurythoe borealis
+Euphrosine foliosa
+Capitellida
+Ophryotrocha
+Parougia caeca
+Parougia eliasoni
+Parougia nigridentata
+Protodorvillea kefersteini
+Schistomeringos
+Schistomeringos rudolphii
+Eunice
+Eunice dubitata
+Eunice pennata
+Eunicidae
+Lysidice ninetta
+Marphysa
+Marphysa bellii
+Nematonereis unicornis
+Abyssoninoe
+Abyssoninoe hibernica
+Lumbrineriopsis paradoxa
+Lumbrineris
+Lumbrineris agastos
+Lumbrineris aniara
+Lumbrineris fragilis
+Lumbrineris gracilis
+
+369702
+137570
+137578
+137582
+2036
+129984
+130277
+130284
+129347
+129350
+129357
+129363
+130491
+465714
+130507
+130508
+130512
+156278
+326587
+326598
+326605
+130570
+130572
+152339
+146932
+129472
+130837
+130977
+129837
+129838
+130083
+890
+129266
+130036
+130037
+130039
+130041
+129274
+154127
+129278
+130055
+130060
+966
+130071
+129281
+130072
+594957
+129331
+146469
+130235
+129337
+130236
+130238
+152285
+130244
+
+4
+4
+4
+4
+4
+2
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+4
+4
+4
+2
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+3
+3
+3
+3
+3
+3
+2
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+4
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+S
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC
+B
+B
+B
+B
+B
+B
+S
+S
+S
+S
+S
+S
+S
+S
+S
+B
+B
+B
+S
+UC
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Clitellata
+Clitellata
+Clitellata
+Clitellata
+Clitellata
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Enchytraeida
+Haplotaxida
+Haplotaxida
+Haplotaxida
+
+Caenogastropoda
+Tubificidae
+Tubificidae
+Tubificidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+Amphinomida
+Amphinomida
+Amphinomida
+Capitellida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+
+Cossuridae
+Maldanidae
+Maldanidae
+Maldanidae
+Maldanidae
+Maldanidae
+Maldanidae
+Opheliidae
+Opheliidae
+Opheliidae
+Opheliidae
+Opheliidae
+Orbiniidae
+Paraonidae
+Paraonidae
+Paraonidae
+Paraonidae
+Paraonidae
+Paraonidae
+Paraonidae
+Polygordiidae
+Protodriloididae
+Scalibregmatidae
+Amphinomidae
+Amphinomidae
+Euphrosinidae
+Dorvilleidae
+Dorvilleidae
+Dorvilleidae
+Dorvilleidae
+Dorvilleidae
+Dorvilleidae
+Dorvilleidae
+Eunicidae
+Eunicidae
+Eunicidae
+Eunicidae
+Eunicidae
+Eunicidae
+Eunicidae
+Eunicidae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+
+3961
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Lumbrineris latreilli
+Lumbrineris magnidentata
+Ninoe armoricana
+Scoletoma
+Scoletoma impatiens
+Arabella
+Arabella iricolor
+Drilonereis
+Drilonereis filum
+Hyalinoecia tubicola
+Nothria conchylega
+Nothria hyperborea
+Onuphis
+Paradiopatra \quadricuspis
+Eunicida
+Eupanthalis kinbergi
+Aphrodita aculeata
+Aphroditidae
+Glycera
+Glycera alba
+Glycera celtica
+Glycera fallax
+Glycera gigantea
+Glycera lapidum
+Glycera oxycephala
+Glycera rouxii
+Glycera tesselata
+Glycera tridactyla
+Glycera unicornis
+Glyceridae
+Glycinde nordmanni
+Goniada
+Goniada maculata
+Goniadella
+Goniadella gracilis
+Gyptis
+Hesionidae
+Kefersteinia cirrata
+Microphthalmus
+Microphthalmus similis
+Nereimyra punctata
+Oxydromus agilis
+Oxydromus flexuosus
+Podarkeopsis capensis
+Psamathe fusca
+Syllidia armata
+Aglaophamus agilis
+Nephtyidae
+Nephtys
+Nephtys assimilis
+Nephtys caeca
+Nephtys cirrosa
+Nephtys hombergii
+Nephtys hystricis
+Nephtys incisa
+Nephtys kersivalensis
+
+130248
+155360
+130254
+129340
+130263
+129199
+129854
+129200
+129856
+130464
+130467
+181500
+129404
+130480
+895
+129735
+129840
+938
+129296
+130116
+130119
+336908
+130122
+130123
+130126
+130127
+130128
+130130
+130131
+952
+130136
+129300
+130140
+129301
+130145
+129307
+946
+130164
+129313
+130176
+130185
+710683
+710680
+130195
+152249
+130198
+130343
+956
+129370
+130353
+130355
+130357
+130359
+130360
+130362
+130363
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+2
+2
+2
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+S
+S
+S
+S
+S
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+S
+S
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Eunicida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Lumbrineridae
+Oenonidae
+Oenonidae
+Oenonidae
+Oenonidae
+Onuphidae
+Onuphidae
+Onuphidae
+Onuphidae
+Onuphidae
+
+3962
+
+Acoetidae
+Aphroditidae
+Aphroditidae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Glyceridae
+Goniadidae
+Goniadidae
+Goniadidae
+Goniadidae
+Goniadidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Hesionidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+Nephtyidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Nephtys longosetosa
+Nephtys paradoxa
+Nereididae
+Alitta succinea
+Ceratocephale loveni
+Eunereis elittoralis
+Eunereis longissima
+Hediste diversicolor
+Micronereis variegata
+Neanthes fucata
+Neanthes irrorata
+Nereis
+Nereis pelagica
+Nereis zonata
+Websterinereis glauca
+Paralacydonia paradoxa
+Pholoe
+Pholoe assimilis
+Pholoe baltica
+Pholoe inornata
+Pholoe minuta
+Pholoe pallida
+Chaetoparia nilssoni
+Eteone
+Eteone barbata
+Eteone flava
+Eteone foliosa
+Eteone longa
+Eulalia
+Eulalia mustela
+Eulalia viridis
+Eumida
+Eumida bahusiensis
+Eumida sanguinea
+Hesionura elongata
+Hypereteone foliosa
+Mysta picta
+Nereiphylla rubiginosa
+Paranaitis kosteriensis
+Phyllodoce
+Phyllodoce (Anaitides)
+groenlandica
+Phyllodoce groenlandica
+Phyllodoce laminosa
+Phyllodoce lineata
+Phyllodoce longipes
+Phyllodoce maculata
+Phyllodoce mucosa
+Phyllodoce rosea
+Phyllodocidae
+Pirakia punctifera
+Pseudomystides limbata
+Sige fusigera
+Ancistargis hamata
+Ancistrosyllis groenlandica
+Glyphohesione klatti
+
+130364
+130365
+22496
+234850
+130367
+130374
+130375
+152302
+130380
+130387
+130389
+129379
+130404
+130407
+130426
+130545
+129439
+130598
+130599
+130601
+130603
+130604
+130610
+129443
+231870
+130613
+130614
+130616
+129445
+130631
+130639
+129446
+130641
+130644
+130649
+152250
+147026
+130659
+130662
+129455
+130668
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+2
+2
+2
+2
+2
+2
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+3
+3
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+S
+S
+S
+S
+S
+S
+S
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Nephtyidae
+Nephtyidae
+Nereidae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Nereididae
+Paralacydoniidae
+Pholoidae
+Pholoidae
+Pholoidae
+Pholoidae
+Pholoidae
+Pholoidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+
+334506
+130670
+334508
+130673
+334510
+334512
+334514
+931
+147104
+130683
+130690
+130692
+130695
+130696
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Phyllodocidae
+Pilargidae
+Pilargidae
+Pilargidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3963
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Pilargis verrucosa
+Sigambra parva
+Pisione remota
+Acholoe squamosa
+Alentia gelatinosa
+Enipo elisabethae
+Enipo kinbergi
+Enipo kinbergi
+Eunoe nodosa
+Gattyana amondseni
+Gattyana cirrhosa
+Harmothoe
+Harmothoe extenuata
+Harmothoe
+fraserthomsoni
+Harmothoe glabra
+Harmothoe impar
+Lepidonotus
+squamatus
+Malmgrenia
+Malmgrenia andreapolis
+Malmgreniella
+Malmgreniella arenicolae
+Malmgreniella
+castanea
+Malmgreniella
+darbouxi
+Malmgreniella lilianae
+Malmgreniella
+ljungmani
+Malmgreniella
+lunulata
+Malmgreniella
+mcintoshi
+Malmgreniella
+polypapillata
+Polynoidae
+Polynoinae
+Labioleanira yhleni
+Neoleanira tetragona
+Sigalion mathildae
+Sigalionidae
+Sthenelais
+Sthenelais boa
+Sthenelais limicola
+Ephesiella abyssorum
+Sphaerodorum gracilis
+Erinaceusyllis
+erinaceus
+Eurysyllis tuberculata
+Eusyllis assimilis
+Eusyllis blomstrandi
+Exogone (Exogone)
+naidina
+Exogone (Exogone)
+verugera
+
+130700
+130702
+130707
+146474
+130722
+130737
+130738
+130738
+130745
+130748
+130749
+129491
+130762
+130764
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Pilargidae
+Pilargidae
+Pisionidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+
+571832
+130770
+130801
+
+4
+4
+1
+
+3
+3
+1
+
+B
+B
+E
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Polynoidae
+Polynoidae
+Polynoidae
+
+147006
+147008
+129499
+130810
+130811
+
+4
+4
+4
+4
+4
+
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+Polynoidae
+
+130812
+
+4
+
+3
+
+B
+
+Annelida
+
+Polychaeta
+
+Phyllodocida
+
+Polynoidae
+
+130814
+130815
+
+4
+4
+
+3
+3
+
+B
+B
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+
+Polynoidae
+Polynoidae
+
+130816
+
+4
+
+3
+
+B
+
+Annelida
+
+Polychaeta
+
+Phyllodocida
+
+Polynoidae
+
+130818
+
+4
+
+3
+
+B
+
+Annelida
+
+Polychaeta
+
+Phyllodocida
+
+Polynoidae
+
+236712
+
+4
+
+3
+
+B
+
+Annelida
+
+Polychaeta
+
+Phyllodocida
+
+Polynoidae
+
+939
+155091
+131067
+131069
+131072
+943
+129595
+131074
+131077
+131081
+131100
+195953
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+2
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Polynoidae
+Polynoidae
+Sigalionidae
+Sigalionidae
+Sigalionidae
+Sigalionidae
+Sigalionidae
+Sigalionidae
+Sigalionidae
+Sphaerodoridae
+Sphaerodoridae
+Syllidae
+
+131288
+131289
+131290
+131304
+
+4
+4
+4
+4
+
+3
+3
+3
+3
+
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+
+131307
+
+4
+
+3
+
+B
+
+Annelida
+
+Polychaeta
+
+Phyllodocida
+
+Syllidae
+
+3964
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Exogone (Parexogone)
+hebes
+Myrianida
+Myrianida prolifera
+Odontosyllis
+ctenostoma
+Odontosyllis gibba
+Pionosyllis
+Proceraea
+Prosphaerosyllis
+tetralix
+Sphaerosyllis bulbosa
+Sphaerosyllis hystrix
+Sphaerosyllis taylori
+Streptodonta
+pterochaeta
+Streptosyllis websteri
+Syllidae
+Syllides benedicti
+Syllis
+Syllis armillaris
+Syllis cornuta
+Syllis gracilis
+Syllis hyalina
+Syllis prolifera
+Trypanosyllis
+(Trypanosyllis)
+coeliaca
+Trypanosyllis zebra
+Tomopteris
+(Johnstonella)
+helgolandica
+Galathowenia
+oculata
+Myriochele
+Myriochele heeri
+Owenia fusiformis
+Oweniidae
+Sabellaria spinulosa
+Sabellariidae
+Branchiomma
+bombyx
+Chone
+Chone acustica
+Chone duneri
+Euchone
+Euchone rubrocincta
+Euchone southerni
+Jasmineira candela
+Jasmineira caudata
+Jasmineira elegans
+Paradialychone
+filicaudata
+Potamethus murrayi
+Potamilla reniformis
+Pseudopotamilla reniformis
+
+131302
+
+4
+
+3
+
+B
+
+Annelida
+
+Polychaeta
+
+Phyllodocida
+
+Syllidae
+
+129659
+238200
+131325
+
+2
+2
+4
+
+2
+2
+3
+
+S
+S
+B
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Syllidae
+Syllidae
+Syllidae
+
+131328
+129669
+129671
+195980
+
+4
+4
+2
+2
+
+3
+3
+2
+3
+
+B
+B
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+
+131379
+131388
+131394
+238207
+
+2
+2
+2
+4
+
+3
+3
+3
+3
+
+S
+S
+S
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+
+131402
+948
+131405
+129680
+131415
+157583
+131435
+131436
+131452
+335151
+
+2
+2
+2
+2
+2
+4
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+B
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+Phyllodocida
+
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+Syllidae
+
+131467
+334946
+
+2
+1
+
+3
+2
+
+S
+E
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Phyllodocida
+Phyllodocida
+
+Syllidae
+Tomopteridae
+
+146950
+
+2
+
+1
+
+S
+
+Annelida
+
+Polychaeta
+
+Sabellida
+
+Oweniidae
+
+129426
+130542
+130544
+975
+130867
+979
+130878
+
+2
+2
+2
+2
+1
+1
+2
+
+1
+1
+1
+1
+1
+1
+2
+
+S
+S
+S
+S
+E
+E
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+
+Oweniidae
+Oweniidae
+Oweniidae
+Oweniidae
+Sabellariidae
+Sabellariidae
+Sabellidae
+
+129525
+130885
+130888
+129528
+130909
+130910
+130919
+130920
+130921
+558743
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+Sabellida
+
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+Sabellidae
+
+416508
+155389
+130963
+
+2
+2
+2
+
+1
+1
+1
+
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Sabellida
+Sabellida
+Sabellida
+
+Sabellidae
+Sabellidae
+Sabellidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3965
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Sabella pavonina
+Sabellidae
+Apistobranchus
+Apistobranchus tenuis
+Apistobranchus
+tullbergi
+Chaetopteridae
+Chaetopterus
+variopedatus
+Spiochaetopterus
+costarum
+Spiochaetopterus
+typicus
+Magelona
+Magelona alleni
+Magelona filiformis
+Magelona johnstoni
+Magelona minuta
+Magelona mirabilis
+Magelonidae
+Poecilochaetidae
+Poecilochaetus
+serpens
+Aonides
+Aonides oxycephala
+Aonides
+paucibranchiata
+Aurospio banyulensis
+Dipolydora caulleryi
+Dipolydora coeca
+Dipolydora socialis
+Laonice
+Laonice bahusiensis
+Laonice cirrata
+Laonice sarsi
+Malacoceros
+fuliginosus
+Microspio atlantica
+Minuspio cirrifera
+Paraprionospio
+pinnata
+Paraspio decorata
+Polydora
+Polydora ciliata
+Polydora cornuta
+Prionospio
+Prionospio caspersi
+Prionospio cirrifera
+Prionospio dubia
+Prionospio ehlersi
+Prionospio fallax
+Prionospio malmgreni
+Prionospio
+multibranchiata
+Prionospio saldanha
+Prionospio sexoculata
+
+130967
+985
+129198
+129850
+129851
+
+2
+2
+2
+2
+2
+
+1
+1
+3
+3
+3
+
+S
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Sabellida
+Sabellida
+Spionida
+Spionida
+Spionida
+
+Sabellidae
+Sabellidae
+Apistobranchidae
+Apistobranchidae
+Apistobranchidae
+
+918
+129914
+
+3
+3
+
+1
+1
+
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+
+Chaetopteridae
+Chaetopteridae
+
+129922
+
+3
+
+1
+
+UC/DC
+
+Annelida
+
+Polychaeta
+
+Spionida
+
+Chaetopteridae
+
+129924
+
+3
+
+1
+
+UC/DC
+
+Annelida
+
+Polychaeta
+
+Spionida
+
+Chaetopteridae
+
+129341
+130266
+130268
+130269
+130270
+130271
+914
+916
+130711
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+2
+1
+2
+2
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+
+Magelonidae
+Magelonidae
+Magelonidae
+Magelonidae
+Magelonidae
+Magelonidae
+Magelonidae
+Poecilochaetidae
+Poecilochaetidae
+
+129605
+131106
+131107
+
+3
+3
+3
+
+2
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+Spionidae
+
+146532
+131116
+131117
+131124
+129613
+131127
+131128
+131129
+131131
+
+3
+4
+3
+4
+3
+3
+3
+3
+3
+
+2
+3
+1
+3
+1
+1
+1
+1
+2
+
+UC/DC
+B
+UC/DC
+B
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+
+131137
+152392
+131140
+
+3
+3
+3
+
+2
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+Spionidae
+
+334397
+129619
+131141
+131143
+129620
+131152
+131153
+131155
+131156
+131157
+131159
+131160
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+2
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+
+338540
+131163
+
+3
+3
+
+2
+2
+
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+
+3966
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Prionospio steenstrupi
+Pseudopolydora
+antennata
+Pseudopolydora
+paucibranchiata
+Pseudopolydora
+pulchra
+Pygospio elegans
+Scolelepis
+Scolelepis (Scolelepis)
+foliosa
+Scolelepis (Scolelepis)
+squamata
+Scolelepis bonnieri
+Scolelepis korsuni
+Scolelepis tridentata
+Spio
+Spio armata
+Spio filicornis
+Spio goniocephala
+Spio martinensis
+Spio multioculata
+Spionidae
+Spiophanes
+Spiophanes bombyx
+Spiophanes kroyeri
+Spiophanes wigleyi
+Streblospio benedicti
+Macrochaeta
+clavicornis
+Macrochaeta
+helgolandica
+Ampharete
+Ampharete acutifrons
+Ampharete baltica
+Ampharete falcata
+Ampharete
+finmarchica
+Ampharete grubei
+Ampharetidae
+Amphicteis gunneri
+Amphicteis midas
+Amythasides macroglossus
+Anobothrus gracilis
+Melinna cristata
+Melinna elisabethae
+Melinna palmata
+Mugga wahrbergi
+Pterolysippe vanelli
+Samytha sexcirrata
+Sosane sulcata
+Aphelochaeta
+Aphelochaeta
+filiformis
+Aphelochaeta marioni
+Caulleriella
+
+131164
+131166
+
+3
+3
+
+2
+1
+
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+
+131168
+
+3
+
+1
+
+UC/DC
+
+Annelida
+
+Polychaeta
+
+Spionida
+
+Spionidae
+
+131169
+
+3
+
+1
+
+UC/DC
+
+Annelida
+
+Polychaeta
+
+Spionida
+
+Spionidae
+
+131170
+129623
+334741
+
+3
+3
+3
+
+1
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+
+Spionidae
+Spionidae
+Spionidae
+
+157566
+
+3
+
+2
+
+UC/DC
+
+Annelida
+
+Polychaeta
+
+Spionida
+
+Spionidae
+
+131171
+131174
+131178
+129625
+131180
+131183
+131184
+131185
+131186
+913
+129626
+131187
+131188
+131190
+131191
+129745
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Spionida
+Terebellida
+
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Spionidae
+Acrocirridae
+
+129746
+
+2
+
+2
+
+S
+
+Annelida
+
+Polychaeta
+
+Terebellida
+
+Acrocirridae
+
+129155
+129775
+129776
+129777
+129778
+
+3
+3
+3
+3
+3
+
+2
+2
+2
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+
+152272
+981
+129784
+129785
+129788
+129789
+129804
+129805
+129808
+129813
+334692
+129819
+129821
+129240
+129937
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+
+2
+2
+2
+2
+2
+1
+1
+1
+1
+2
+1
+2
+2
+2
+2
+
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+UC/DC
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Ampharetidae
+Cirratulidae
+Cirratulidae
+
+129938
+129241
+
+2
+2
+
+2
+2
+
+S
+S
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+
+Cirratulidae
+Cirratulidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3967
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Caulleriella alata
+Caulleriella bioculata
+Caulleriella killariensis
+Caulleriella zetlandica
+Caulleriella zetlandica
+Chaetozone
+Chaetozone christiei
+Chaetozone gibber
+Chaetozone setosa
+Cirratulidae
+Cirratulus
+Cirratulus caudatus
+Cirriformia
+tentaculata
+Monticellina
+dorsobranchialis
+Monticellina
+heterochaeta
+Tharyx
+Fauveliopsis
+Brada villosa
+Diplocirrus glaucus
+Flabelligeridae
+Pherusa monilifera
+Pherusa plumosa
+Amphictene auricoma
+Lagis koreni
+Pectinaria
+Pectinaria
+(Amphictene)
+auricoma
+Pectinariidae
+Sternaspis scutata
+Amaeana trilobata
+Axionice maculata
+Eupolymnia nesidensis
+Hauchiella tribullata
+Lanice
+Lanice conchilega
+Lysilla loveni
+Neoamphitrite affinis
+Nicolea zostericola
+Paramphitrite birulai
+Phisidia aurea
+Pista cristata
+Pista lornensis
+Pistella lornensis
+Polycirrus
+Polycirrus medusa
+Streblosoma bairdi
+Streblosoma
+intestinale
+Terebella
+Terebellidae
+Thelepus cincinnatus
+Thelepus setosus
+
+129943
+129944
+129945
+129948
+129948
+129242
+152217
+129953
+129955
+919
+129243
+129957
+129964
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+Cirratulidae
+
+129972
+
+2
+
+2
+
+S
+
+Annelida
+
+Polychaeta
+
+Terebellida
+
+Cirratulidae
+
+129973
+
+2
+
+2
+
+S
+
+Annelida
+
+Polychaeta
+
+Terebellida
+
+Cirratulidae
+
+129249
+129288
+130099
+130100
+976
+130112
+130113
+152448
+152367
+129437
+130590
+
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+
+S
+S
+UC/DC
+UC
+UC
+UC
+UC
+UC
+UC
+UC
+UC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+
+Cirratulidae
+Fauveliopsidae
+Flabelligeridae
+Flabelligeridae
+Flabelligeridae
+Flabelligeridae
+Flabelligeridae
+Pectinariidae
+Pectinariidae
+Pectinariidae
+Pectinariidae
+
+980
+131242
+131471
+131484
+131490
+152389
+129697
+131495
+131500
+131502
+131508
+152454
+131513
+131516
+154972
+131522
+129710
+131531
+131538
+131540
+
+3
+4
+3
+3
+1
+3
+3
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+
+1
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+
+UC
+B
+UC/DC
+DC
+E
+DC
+DC
+DC
+DC
+DC
+DC
+S
+DC
+DC
+DC
+DC
+DC
+DC
+DC
+DC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+
+Pectinariidae
+Sternaspidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+
+129713
+982
+131543
+131544
+
+3
+3
+3
+3
+
+1
+1
+1
+1
+
+DC
+DC
+DC
+DC
+
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+Terebellida
+
+Terebellidae
+Terebellidae
+Terebellidae
+Terebellidae
+
+3968
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Terebellides stroemii
+Trichobranchidae
+Trichobranchus
+glacialis
+Trichobranchus roseus
+Arenicolides
+Capitella
+Capitella capitata
+Capitella minima
+Capitellidae
+Heteromastus
+filiformis
+Mediomastus fragilis
+Notomastus
+Notomastus latericeus
+Peresiella clymenoides
+Pseudoleiocapitella
+Cossuridae
+Asychis biceps
+Clymenella torquata
+Clymenura
+Euclymene
+droebachiensis
+Euclymene
+lombricoides
+Euclymene oerstedi
+Heteroclymene
+robusta
+Johnstonia
+clymenoides
+Macroclymene
+santandarensis
+Maldanidae
+Notoproctus
+Praxillella affinis
+Praxillella gracilis
+Rhodine gracilior
+Euzonus flabelligerus
+Ophelia limacina
+Opheliidae
+Ophelina acuminata
+Polyophthalmus pictus
+Orbinia (Orbinia)
+sertulata
+Orbiniidae
+Scoloplos
+Scoloplos (Scoloplos)
+armiger
+Aedicira mediterranea
+Aricidea
+Aricidea (Acmira)
+catherinae
+Aricidea (Acmira)
+cerrutii
+Aricidea (Acmira)
+lopezi
+
+131573
+983
+131574
+
+3
+3
+3
+
+1
+1
+1
+
+DC
+DC
+DC
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+Terebellida
+Terebellida
+
+Trichobranchidae
+Trichobranchidae
+Trichobranchidae
+
+131575
+129207
+129211
+129876
+129879
+921
+129884
+
+3
+3
+3
+3
+3
+3
+3
+
+1
+2
+2
+2
+2
+2
+2
+
+DC
+UC
+UC
+UC
+UC
+UC
+UC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Terebellida
+
+Trichobranchidae
+Arenicolidae
+Capitellidae
+Capitellidae
+Capitellidae
+Capitellidae
+Capitellidae
+
+129892
+129220
+129898
+129906
+129226
+908
+146523
+130279
+129346
+130291
+
+3
+3
+3
+3
+3
+2
+3
+3
+3
+3
+
+2
+2
+2
+2
+2
+3
+1
+1
+1
+1
+
+UC
+UC
+UC
+UC
+UC
+S
+UC
+UC
+UC
+UC
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Capitellidae
+Capitellidae
+Capitellidae
+Capitellidae
+Capitellidae
+Cossuridae
+Maldanidae
+Maldanidae
+Maldanidae
+Maldanidae
+
+209899
+
+3
+
+1
+
+UC
+
+Annelida
+
+Polychaeta
+
+Maldanidae
+
+130294
+146978
+
+3
+3
+
+1
+1
+
+UC
+UC
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Maldanidae
+Maldanidae
+
+130298
+
+3
+
+1
+
+UC
+
+Annelida
+
+Polychaeta
+
+Maldanidae
+
+130301
+
+3
+
+1
+
+UC
+
+Annelida
+
+Polychaeta
+
+Maldanidae
+
+923
+129358
+130322
+130324
+130330
+130487
+130494
+924
+130500
+130510
+334310
+
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+4
+
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+3
+
+UC
+UC
+UC
+UC
+UC
+B
+B
+B
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Maldanidae
+Maldanidae
+Maldanidae
+Maldanidae
+Maldanidae
+Opheliidae
+Opheliidae
+Opheliidae
+Opheliidae
+Opheliidae
+Orbiniidae
+
+902
+129425
+334772
+
+4
+4
+4
+
+3
+3
+3
+
+B
+B
+B
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Orbiniidae
+Orbiniidae
+Orbiniidae
+
+130546
+129430
+333034
+
+2
+2
+2
+
+3
+3
+3
+
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Paraonidae
+Paraonidae
+Paraonidae
+
+525497
+
+2
+
+3
+
+S
+
+Annelida
+
+Polychaeta
+
+Paraonidae
+
+333036
+
+2
+
+3
+
+S
+
+Annelida
+
+Polychaeta
+
+Paraonidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3969
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Aricidea minuta
+Cirrophorus
+branchiatus
+Levinsenia gracilis
+Paradoneis lyra
+Paraonidae
+Polygordius
+appendiculatus
+Polygordius lacteus
+Protodriloides
+Asclerocheilus
+intermedius
+Scalibregma celticum
+Scalibregma inflatum
+Scalibregmatidae
+Acidostoma
+Ampelisca
+Ampelisca armoricana
+Ampelisca brevicornis
+Ampelisca diadema
+Ampelisca gibba
+Ampelisca
+macrocephala
+Ampelisca sarsi
+Ampelisca spinipes
+Ampelisca tenuicornis
+Ampelisca typica
+Ampelisca vervecei
+Byblis
+Haploops tubicola
+Amphilochoides
+boecki
+Amphilochoides
+serratipes
+Amphilochus
+manudens
+Amphilochus
+neapolitanus
+Gitana sarsi
+Paramphilochoides
+odontonyx
+Ampithoe ramondi
+Aora gracilis
+Aora typica
+Aoridae
+Autonoe longipes
+Microdeutopus
+Argissa hamatipes
+Atylus
+Atylus guttatus
+Atylus swammerdami
+Atylus vedlomensis
+Nototropis falcatus
+Apherusa
+Apherusa bispinosa
+Apherusa clevei
+
+130564
+130576
+
+2
+2
+
+3
+3
+
+S
+S
+
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+
+Paraonidae
+Paraonidae
+
+130578
+130585
+903
+130712
+
+2
+2
+2
+2
+
+3
+3
+3
+2
+
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+Polychaeta
+
+Paraonidae
+Paraonidae
+Paraonidae
+Polygordiidae
+
+130714
+129513
+130974
+
+2
+2
+4
+
+2
+2
+4
+
+S
+S
+B
+
+Annelida
+Annelida
+Annelida
+
+Polychaeta
+Polychaeta
+Polychaeta
+
+Polygordiidae
+Protodriloididae
+Scalibregmatidae
+
+130979
+130980
+925
+101586
+101445
+101888
+101891
+101896
+101898
+101908
+
+4
+4
+4
+2
+2
+2
+2
+2
+2
+2
+
+4
+4
+4
+3
+1
+1
+1
+1
+1
+1
+
+B
+B
+B
+S
+S
+S
+S
+S
+S
+S
+
+Annelida
+Annelida
+Annelida
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Polychaeta
+Polychaeta
+Polychaeta
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Scalibregmatidae
+Scalibregmatidae
+Scalibregmatidae
+Acidostomatidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+
+101923
+101928
+101930
+101933
+101937
+101446
+101958
+101960
+
+2
+2
+2
+2
+2
+2
+2
+2
+
+1
+1
+1
+1
+1
+4
+1
+3
+
+S
+S
+S
+S
+S
+S
+S
+B
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Ampeliscidae
+Amphilochidae
+
+101963
+
+2
+
+3
+
+B
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Amphilochidae
+
+101967
+
+2
+
+3
+
+B
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Amphilochidae
+
+101968
+
+2
+
+3
+
+B
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Amphilochidae
+
+101977
+101982
+
+2
+2
+
+3
+3
+
+B
+B
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Amphilochidae
+Amphilochidae
+
+102000
+102012
+146895
+101368
+102021
+101471
+102064
+101497
+102127
+102131
+102132
+102139
+101509
+102160
+102164
+
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+E
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Ampithoidae
+Aoridae
+Aoridae
+Aoridae
+Aoridae
+Aoridae
+Argissidae
+Atylidae
+Atylidae
+Atylidae
+Atylidae
+Atylidae
+Calliopiidae
+Calliopiidae
+Calliopiidae
+
+3970
+
+Order
+
+Family
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Apherusa jurinei
+Apherusa ovalipes
+Caprella acanthifera
+Caprella linearis
+Pariambus typicus
+Parvipalpus
+capillaceus
+Phtisica marina
+Pseudoprotella
+phasma
+Cheirocratus
+Cheirocratus
+intermedius
+Cheirocratus
+sundevalli
+Apocorophium
+lacustre
+Corophium
+Crassicorophium
+bonellii
+Leptocheirus
+Leptocheirus
+hirsutimanus
+Leptocheirus mariae
+Leptocheirus
+pectinatus
+Leptocheirus
+tricristatus
+Medicorophium affine
+Monocorophium
+acherusicum
+Monocorophium
+insidiosum
+Monocorophium
+sextonae
+Protomedeia
+Peltocoxa brevirostris
+Dexamine
+Dexamine spinosa
+Guernea (Guernea)
+coalita
+Tritaeta gibbosa
+Dyopedos
+Dyopedos
+monacantha
+Eusirus longipes
+Haustorius arenarius
+Hyperia galba
+Iphimedia
+Iphimedia minuta
+Iphimedia obesa
+Ericthonius punctatus
+Jassa falcata
+Siphonoecetes
+(Centraloecetes)
+kroyeranus
+
+102168
+102172
+101822
+101839
+101857
+101858
+
+2
+2
+2
+2
+2
+2
+
+3
+3
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Calliopiidae
+Calliopiidae
+Caprellidae
+Caprellidae
+Caprellidae
+Caprellidae
+
+101864
+101871
+
+2
+2
+
+2
+2
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Caprellidae
+Caprellidae
+
+101669
+102795
+
+2
+2
+
+3
+3
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Cheirocratidae
+Cheirocratidae
+
+102798
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Cheirocratidae
+
+148594
+
+2
+
+4
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Corophiidae
+
+101489
+237004
+
+2
+2
+
+4
+4
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Corophiidae
+Corophiidae
+
+101470
+102036
+
+2
+2
+
+4
+4
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Corophiidae
+Corophiidae
+
+102038
+102039
+
+2
+2
+
+4
+4
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Corophiidae
+Corophiidae
+
+102041
+
+2
+
+4
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Corophiidae
+
+423507
+225814
+
+2
+2
+
+4
+4
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Corophiidae
+Corophiidae
+
+148592
+
+2
+
+4
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Corophiidae
+
+148603
+
+2
+
+4
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Corophiidae
+
+101574
+101983
+101498
+102135
+102137
+
+2
+2
+2
+2
+2
+
+4
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Corophiidae
+Cyproideidae
+Dexaminidae
+Dexaminidae
+Dexaminidae
+
+102141
+101736
+103042
+
+2
+2
+2
+
+3
+3
+3
+
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+
+Dexaminidae
+Dulichiidae
+Dulichiidae
+
+102202
+102317
+103251
+101554
+102345
+102347
+102408
+102431
+102111
+
+2
+2
+2
+2
+2
+2
+2
+1
+2
+
+3
+3
+3
+3
+3
+3
+1
+1
+1
+
+S
+S
+S
+S
+S
+S
+S
+E
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Eusiridae
+Haustoriidae
+Hyperiidae
+Iphimediidae
+Iphimediidae
+Iphimediidae
+Ischyroceridae
+Ischyroceridae
+Ischyroceridae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3971
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Siphonoecetes
+(Centraloecetes)
+neapolitanus
+Siphonoecetes
+(Centraloecetes)
+striatus
+Leucothoe incisa
+Leucothoe lilljeborgi
+Leucothoe richiardii
+Leucothoe spinicarpa
+Liljeborgia
+Liljeborgia kinahani
+Liljeborgia pallida
+Liljeborgia psaltrica
+Listriella mollis
+Hippomedon
+bidentatus
+Hippomedon
+denticulatus
+Hippomedon
+massiliensis
+Lepidepecreum
+longicornis
+Lysianassidae
+Orchomene humilis
+Orchomenella nana
+Tryphosella sarsi
+Tryphosella simillima
+Tryphosites longipes
+Acidostoma
+nodiferum
+Acidostoma obesum
+Animoceradocus
+semiserratus
+Maera
+Maera grossimana
+Maera loveni
+Maera schmidti
+Othomaera othonis
+Megaluropus agilis
+Abludomelita
+obtusata
+Eriopisa elongata
+Maerella tenuimana
+Microprotopus
+Microprotopus
+maculatus
+Odius carinatus
+Deflexilodes acutipes
+Deflexilodes gibbosus
+Monoculodes
+carinatus
+Perioculodes
+longimanus
+Pontocrates
+altamarinus
+
+102112
+
+2
+
+1
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Ischyroceridae
+
+102115
+
+1
+
+1
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Ischyroceridae
+
+102460
+102462
+212784
+102470
+101582
+102483
+102485
+102486
+102488
+102569
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Leucothoidae
+Leucothoidae
+Leucothoidae
+Leucothoidae
+Liljeborgiidae
+Liljeborgiidae
+Liljeborgiidae
+Liljeborgiidae
+Liljeborgiidae
+Lysianassidae
+
+102570
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Lysianassidae
+
+102576
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Lysianassidae
+
+102599
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Lysianassidae
+
+101395
+102665
+102691
+102771
+102773
+102779
+102496
+
+2
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Lysianassidae
+Lysianassidae
+Lysianassidae
+Lysianassidae
+Lysianassidae
+Lysianassidae
+Lysianassidae s.l.
+
+102497
+531364
+
+2
+2
+
+3
+3
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Lysianassidae s.l.
+Maeridae
+
+101675
+102815
+102820
+102826
+534781
+102783
+102788
+
+2
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+2
+
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Maeridae
+Maeridae
+Maeridae
+Maeridae
+Maeridae
+Megaluropidae
+Melitidae
+
+102807
+102831
+101561
+102380
+
+2
+2
+2
+2
+
+2
+2
+3
+3
+
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Melitidae
+Melitidae
+Microprotopidae
+Microprotopidae
+
+102861
+236538
+236539
+102882
+
+1
+2
+2
+2
+
+3
+3
+3
+3
+
+E
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Odiidae
+Oedicerotidae
+Oedicerotidae
+Oedicerotidae
+
+102915
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Oedicerotidae
+
+102916
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Oedicerotidae
+
+3972
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Pontocrates arenarius
+Synchelidium
+haplocheles
+Synchelidium
+maculatum
+Westwoodilla caecula
+Westwoodilla
+rectirostris
+Gammaropsis cornuta
+Gammaropsis
+maculata
+Gammaropsis nitida
+Gammaropsis palmata
+Gammaropsis sophiae
+Megamphopus
+cornutus
+Photis longicaudata
+Photis reinhardi
+Harpinia
+Harpinia agna
+Harpinia ala
+Harpinia antennaria
+Harpinia crenulata
+Harpinia dellavallei
+Harpinia pectinata
+Harpinia plumosa
+Metaphoxus
+Metaphoxus
+pectinatus
+Parametaphoxus
+tulearensis
+Phoxocephalus
+holbolli
+Pleustidae
+Bathyporeia
+Bathyporeia elegans
+Bathyporeia
+guilliamsoniana
+Bathyporeia nana
+Bathyporeia pelagica
+Bathyporeia pilosa
+Bathyporeia sarsi
+Bathyporeia tenuipes
+Scopelocheirus hopei
+Stegocephaloides
+christianiensis
+Metopa
+Metopa alderi
+Metopa latimana
+Stenothoe marina
+Austrosyrrhoe
+fimbriatus
+Unciola crenatipalma
+Unciola planipes
+Tmetonyx cicada
+Urothoe
+
+102918
+102924
+
+2
+2
+
+3
+2
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Oedicerotidae
+Oedicerotidae
+
+102928
+
+2
+
+2
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Oedicerotidae
+
+102932
+102937
+
+2
+2
+
+3
+3
+
+B
+B
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Oedicerotidae
+Oedicerotidae
+
+148545
+102364
+
+2
+2
+
+2
+2
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+
+Photidae
+Photidae
+
+102367
+102369
+102371
+102377
+
+1
+2
+2
+2
+
+2
+2
+2
+3
+
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Photidae
+Photidae
+Photidae
+Photidae
+
+102383
+102387
+101716
+102957
+102958
+102960
+102963
+102966
+102972
+102973
+101720
+102983
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Photidae
+Photidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+Phoxocephalidae
+
+549079
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Phoxocephalidae
+
+102989
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Amphipoda
+
+Phoxocephalidae
+
+101404
+101742
+103058
+103060
+
+2
+2
+2
+2
+
+3
+3
+3
+3
+
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Pleustidae
+Pontoporeiidae
+Pontoporeiidae
+Pontoporeiidae
+
+103064
+103066
+103068
+103073
+103076
+102720
+103102
+
+2
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Pontoporeiidae
+Pontoporeiidae
+Pontoporeiidae
+Pontoporeiidae
+Pontoporeiidae
+Scopelocheiridae
+Stegocephalidae
+
+101764
+103116
+103125
+103166
+103179
+
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Stenothoidae
+Stenothoidae
+Stenothoidae
+Stenothoidae
+Synopiidae
+
+102057
+102061
+102736
+101789
+
+2
+2
+2
+2
+
+3
+3
+1
+3
+
+B
+B
+B
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+
+Unciolidae
+Unciolidae
+Uristidae
+Urothoidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3973
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Urothoe brevicornis
+Urothoe elegans
+Urothoe marina
+Urothoe poseidonis
+Bodotria scorpioides
+Iphinoe
+Iphinoe serrata
+Iphinoe tenella
+Iphinoe trispinosa
+Diastylidae
+Diastylis
+Diastylis bradyi
+Diastylis cornuta
+Diastylis laevis
+Diastylis lucifera
+Diastylis neapolitana
+Diastylis rathkei
+Diastylis rugosa
+Diastyloides biplicatus
+Hemilamprops roseus
+Lamprops fasciatus
+Eudorella emarginata
+Eudorella truncatula
+Eudorellopsis deformis
+Leucon (Leucon)
+nasica
+Cumella (Cumella)
+pygmaea
+Nannastacus
+unguiculatus
+Monopseudocuma
+gilsoni
+Pseudocuma
+Pseudocuma
+(Pseudocuma)
+longicorne
+Pseudocuma
+(Pseudocuma) simile
+Alpheus glaber
+Athanas nitescens
+Aristaeomorpha
+foliacea
+Atelecyclus
+rotundatus
+Calocaris macandreae
+Callianassa
+Callianassa
+subterranea
+Callianassidae
+Pestarella tyrrhena
+Corystes cassivelaunus
+Crangon
+Crangon allmanni
+Crangon crangon
+Crangonidae
+Philocheras bispinosus bispinosus
+
+103226
+103228
+103233
+103235
+110445
+110391
+110460
+110461
+110462
+110380
+110398
+110472
+110474
+110481
+110483
+110484
+110487
+110488
+110494
+110514
+110516
+110524
+110535
+110536
+110618
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Amphipoda
+Amphipoda
+Amphipoda
+Amphipoda
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+Cumacea
+
+Urothoidae
+Urothoidae
+Urothoidae
+Urothoidae
+Bodotriidae
+Bodotriidae
+Bodotriidae
+Bodotriidae
+Bodotriidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Diastylidae
+Lampropidae
+Lampropidae
+Leuconidae
+Leuconidae
+Leuconidae
+Leuconidae
+
+110567
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Cumacea
+
+Nannastacidae
+
+110574
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Cumacea
+
+Nannastacidae
+
+422916
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Cumacea
+
+Pseudocumatidae
+
+110427
+110627
+
+2
+2
+
+3
+3
+
+S
+S
+
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+
+Cumacea
+Cumacea
+
+Pseudocumatidae
+Pseudocumatidae
+
+110628
+
+2
+
+3
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Cumacea
+
+Pseudocumatidae
+
+107477
+107486
+158326
+
+4
+2
+1
+
+4
+2
+4
+
+B
+S
+E
+
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+
+Decapoda
+Decapoda
+Decapoda
+
+Alpheidae
+Alpheidae
+Aristeidae
+
+107273
+
+5
+
+4
+
+R
+
+Arthropoda
+
+Malacostraca
+
+Decapoda
+
+Atelecyclidae
+
+107726
+107072
+107729
+
+4
+4
+4
+
+4
+4
+4
+
+B
+B
+B
+
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+
+Decapoda
+Decapoda
+Decapoda
+
+Axiidae
+Callianassidae
+Callianassidae
+
+106800
+238027
+107277
+107007
+107551
+107552
+106782
+108207
+
+4
+4
+5
+2
+2
+2
+2
+2
+
+4
+4
+4
+4
+4
+4
+4
+4
+
+B
+B
+R
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+
+Callianassidae
+Callianassidae
+Corystidae
+Crangonidae
+Crangonidae
+Crangonidae
+Crangonidae
+Crangonidae
+
+3974
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Philocheras trispinosus
+Diogenes pugilator
+Galathea
+Galathea dispersa
+Galathea intermedia
+Eualus cranchii
+Inachus
+Inachus dorsettensis
+Macropodia
+Macropodia deflexa
+Macropodia rostrata
+Jaxea nocturna
+Ebalia
+Ebalia cranchii
+Ebalia granulosa
+Ebalia tuberosa
+Nephrops norvegicus
+Anapagurus
+Anapagurus
+bicorniger
+Anapagurus laevis
+Paguridae
+Pagurus
+Pagurus bernhardus
+Pagurus cuanensis
+Palaemon elegans
+Pandalus montagui
+Pilumnus hirtellus
+Liocarcinus
+Liocarcinus depurator
+Liocarcinus holsatus
+Liocarcinus marmoreus
+Liocarcinus navigator
+Liocarcinus pusillus
+Pisidia longicornis
+Carcinus maenas
+Processa
+Processa acutirostris
+Processa canaliculata
+Processa elegantula
+Processa modica modica
+Processa nouveli holthuisi
+Solenocera
+membranacea
+Thia scutellata
+Upogebia deltaura
+Upogebia pusilla
+Upogebia stellata
+Upogebiidae
+Anthura gracilis
+Astacilla longicornis
+Cirolana cranchi
+Conilera cylindracea
+Eurydice pulchra
+Eurydice spinigera
+Natatolana borealis
+
+107562
+107199
+106834
+107148
+107150
+156083
+106905
+107327
+205077
+107338
+107345
+107737
+106889
+107294
+107298
+107301
+107254
+106849
+107213
+
+2
+1
+4
+4
+4
+2
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+4
+1
+1
+
+4
+4
+3
+3
+3
+4
+3
+3
+3
+3
+3
+4
+3
+3
+3
+3
+4
+4
+4
+
+S
+E
+B
+B
+B
+S
+E
+E
+E
+E
+E
+B
+E
+E
+E
+E
+B
+E
+E
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+
+Crangonidae
+Diogenidae
+Galatheidae
+Galatheidae
+Galatheidae
+Hippolytidae
+Inachidae
+Inachidae
+Inachidae
+Inachidae
+Inachidae
+Laomediidae
+Leucosiidae
+Leucosiidae
+Leucosiidae
+Leucosiidae
+Nephropidae
+Paguridae
+Paguridae
+
+107218
+106738
+106854
+107232
+107235
+107614
+107651
+107418
+106925
+107387
+107388
+107390
+107392
+107393
+107188
+107381
+107054
+107681
+107682
+107684
+108343
+108344
+107120
+
+1
+1
+1
+1
+1
+1
+1
+2
+5
+5
+5
+5
+5
+5
+1
+5
+1
+1
+1
+1
+1
+1
+1
+
+4
+4
+4
+4
+4
+4
+4
+3
+4
+4
+4
+4
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4
+4
+
+E
+E
+E
+E
+E
+E
+E
+S
+R
+R
+R
+R
+R
+R
+E
+R
+E
+E
+E
+E
+E
+E
+E
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+
+Paguridae
+Paguridae
+Paguridae
+Paguridae
+Paguridae
+Palaemonidae
+Pandalidae
+Pilumnidae
+Polybiidae
+Polybiidae
+Polybiidae
+Polybiidae
+Polybiidae
+Polybiidae
+Porcellanidae
+Portunidae
+Processidae
+Processidae
+Processidae
+Processidae
+Processidae
+Processidae
+Solenoceridae
+
+107281
+107739
+107741
+107742
+106803
+118467
+119024
+118839
+118842
+118852
+148637
+118859
+
+2
+3
+3
+3
+3
+2
+4
+2
+1
+2
+2
+2
+
+4
+4
+4
+4
+4
+2
+3
+3
+2
+3
+3
+3
+
+S
+DC
+DC
+DC
+DC
+S
+B
+S
+E
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Decapoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+
+Thiidae
+Upogebiidae
+Upogebiidae
+Upogebiidae
+Upogebiidae
+Anthuridae
+Arcturidae
+Cirolanidae
+Cirolanidae
+Cirolanidae
+Cirolanidae
+Cirolanidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3975
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Gnathia maxillaris
+Gnathia oxyuraea
+Gnathiidae
+Paragnathia formica
+Idotea
+Janira maculosa
+Sphaeroma serratum
+Gastrosaccus spinifer
+Haplostylus normani
+Nebalia bipes
+Apseudes spinosus
+Apseudes talpa
+Apseudopsis latreillii
+Akanthophoreus gracilis
+Pseudoparatanais batei
+
+118994
+118995
+118278
+119001
+118454
+118732
+118973
+120020
+148698
+147032
+136284
+136285
+247077
+136340
+136457
+
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+3
+1
+3
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+S
+S
+E
+E
+S
+S
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+Malacostraca
+
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Isopoda
+Mysida
+Mysida
+Nebaliacea
+Tanaidacea
+Tanaidacea
+Tanaidacea
+Tanaidacea
+Tanaidacea
+
+Tanaopsis graciloides
+
+136458
+
+2
+
+2
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Tanaidacea
+
+Pseudosphyrapus
+anomalus
+Tanaissus lilljeborgi
+Stomatopoda
+Longipedia coronata
+Cylindroleberis mariae
+Philomedes
+(Philomedes)
+lilljeborgi
+Philomedes brenda
+Myodocopida
+Achelia echinata
+Callipallene brevirostris
+Nymphon brevirostre
+Anoplodactylus
+Anoplodactylus
+petiolatus
+Anoplodactylus
+virescens
+Pycnogonida
+Priapulus caudatus
+Ascidiella aspersa
+Eugyra arenosa
+Styelidae
+Branchiostoma
+lanceolatum
+Actinia equina
+Urticina felina
+Edwardsia
+Edwardsia claparedii
+Edwardsiidae
+Scolanthus
+callimorphus
+Halcampa
+chrysanthellum
+Calliactis parasitica
+Sagartia troglodytes
+Actiniaria
+
+136319
+
+2
+
+2
+
+S
+
+Arthropoda
+
+Malacostraca
+
+Tanaidacea
+
+Gnathiidae
+Gnathiidae
+Gnathiidae
+Gnathiidae
+Idoteidae
+Janiridae
+Sphaeromatidae
+Mysidae
+Mysidae
+Nebaliidae
+Apseudidae
+Apseudidae
+Apseudidae
+Leptognathiidae
+Paratanaoidea
+incertae sedis
+Paratanaoidea
+incertae sedis
+Sphyrapidae
+
+136486
+14355
+116368
+238708
+128460
+
+2
+4
+2
+2
+2
+
+2
+4
+3
+3
+4
+
+S
+B
+S
+S
+S
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Malacostraca
+Malacostraca
+Maxillopoda
+Ostracoda
+Ostracoda
+
+Tanaidacea
+
+Tanaissuidae
+
+Harpacticoida
+Myodocopida
+Myodocopida
+
+Longipediidae
+Cylindroleberididae
+Philomedidae
+
+127718
+2104
+134599
+134643
+150520
+134592
+134723
+
+2
+2
+2
+1
+1
+1
+1
+
+3
+3
+2
+1
+1
+4
+4
+
+S
+S
+S
+E
+S
+E
+E
+
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+Arthropoda
+
+Ostracoda
+Ostracoda
+Pycnogonida
+Pycnogonida
+Pycnogonida
+Pycnogonida
+Pycnogonida
+
+Myodocopida
+Myodocopida
+Pantopoda
+Pantopoda
+Pantopoda
+Pantopoda
+Pantopoda
+
+Philomedidae
+
+134730
+
+1
+
+4
+
+E
+
+Arthropoda
+
+Pycnogonida
+
+Pantopoda
+
+Phoxichilidiidae
+
+1302
+101160
+103718
+103764
+103450
+104906
+
+1
+4
+1
+2
+1
+4
+
+4
+2
+1
+3
+1
+3
+
+E
+B
+E
+S
+E
+B
+
+Arthropoda
+Cephalorhyncha
+Chordata
+Chordata
+Chordata
+Chordata
+
+Pycnogonida
+Priapulida
+Ascidiacea
+Ascidiacea
+Ascidiacea
+Leptocardii
+
+Phlebobranchia
+Stolidobranchia
+Stolidobranchia
+
+Priapulidae
+Ascidiidae
+Molgulidae
+Styelidae
+Branchiostomidae
+
+100803
+100834
+100730
+100880
+100665
+100910
+
+1
+1
+2
+2
+2
+2
+
+1
+1
+2
+2
+2
+2
+
+E
+E
+S
+S
+S
+S
+
+Cnidaria
+Cnidaria
+Cnidaria
+Cnidaria
+Cnidaria
+Cnidaria
+
+Anthozoa
+Anthozoa
+Anthozoa
+Anthozoa
+Anthozoa
+Anthozoa
+
+Actiniaria
+Actiniaria
+Actiniaria
+Actiniaria
+Actiniaria
+Actiniaria
+
+Actiniidae
+Actiniidae
+Edwardsiidae
+Edwardsiidae
+Edwardsiidae
+Edwardsiidae
+
+100916
+
+2
+
+2
+
+S
+
+Cnidaria
+
+Anthozoa
+
+Actiniaria
+
+Halcampidae
+
+100946
+100994
+1360
+
+2
+1
+2
+
+2
+1
+2
+
+S
+E
+S
+
+Cnidaria
+Cnidaria
+Cnidaria
+
+Anthozoa
+Anthozoa
+Anthozoa
+
+Actiniaria
+Actiniaria
+Actiniaria
+
+Hormathiidae
+Sagartiidae
+
+3976
+
+Ammotheidae
+Callipallenidae
+Nymphonidae
+Phoxichilidiidae
+Phoxichilidiidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Cerianthus
+Cerianthus lloydii
+Pteroeides griseum
+Virgularia mirabilis
+Asterias rubens
+Astropecten irregularis
+Psammechinus miliaris
+Echinocyamus pusillus
+Echinidea
+Brissopsis lyrifera
+Echinocardium
+Echinocardium cordatum
+Echinocardium
+flavescens
+Spatangus purpureus
+Spatangoida
+Labidoplax buskii
+Leptosynapta
+Leptosynapta
+bergensis
+Leptosynapta
+inhaerens
+Oestergrenia digitata
+Synaptidae
+Leptopentacta
+Leptopentacta elongata
+Leptopentacta elongata
+Leptopentacta
+tergestina
+Thyone fusus
+Amphilepis norvegica
+Acrocnida brachiata
+Amphipholis squamata
+Amphiura
+Amphiura
+(Ophiopeltis)
+securigera
+Amphiura chiajei
+Amphiura filiformis
+Ophiocomina nigra
+Ophiothrix fragilis
+Ophiocten affinis
+Ophiura
+Ophiura albida
+Ophiura ophiura
+Ophiuridae
+Maxmuelleria gigas
+Echiurus echiurus
+Thalassema
+thalassemum
+Echiurida
+Echiura
+Glandiceps talaboti
+Enteroptneusta
+Ensis magnus
+
+100782
+283798
+181504
+128539
+123776
+123867
+124319
+124273
+510534
+124373
+123426
+124392
+124394
+
+2
+2
+2
+2
+1
+2
+1
+2
+4
+4
+4
+4
+4
+
+1
+1
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+E
+S
+E
+S
+B
+B
+B
+B
+B
+
+Cnidaria
+Cnidaria
+Cnidaria
+Cnidaria
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+
+Anthozoa
+Anthozoa
+Anthozoa
+Anthozoa
+Asteroidea
+Asteroidea
+Echinoidea
+Echinoidea
+Echinoidea
+Echinoidea
+Echinoidea
+Echinoidea
+Echinoidea
+
+Ceriantharia
+Ceriantharia
+Pennatulacea
+Pennatulacea
+Forcipulatida
+Paxillosida
+Camarodonta
+Clypeasteroida
+Echinoida
+Spatangoida
+Spatangoida
+Spatangoida
+Spatangoida
+
+Cerianthidae
+Cerianthidae
+Pennatulidae
+Virgulariidae
+Asteriidae
+Astropectinidae
+Parechinidae
+Echinocyamidae
+
+124418
+123106
+124455
+123449
+124462
+
+4
+4
+2
+2
+2
+
+3
+3
+3
+3
+3
+
+B
+B
+S
+S
+S
+
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+
+Echinoidea
+Echinoidea
+Holothuroidea
+Holothuroidea
+Holothuroidea
+
+Spatangoida
+Spatangoida
+Apodida
+Apodida
+Apodida
+
+Synaptidae
+Synaptidae
+Synaptidae
+
+124465
+
+2
+
+3
+
+S
+
+Echinodermata
+
+Holothuroidea
+
+Apodida
+
+Synaptidae
+
+152547
+123182
+123481
+124635
+124635
+124636
+
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+
+S
+S
+S
+S
+S
+S
+
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+
+Holothuroidea
+Holothuroidea
+Holothuroidea
+Holothuroidea
+Holothuroidea
+Holothuroidea
+
+Apodida
+Apodida
+Dendrochirotida
+Dendrochirotida
+Dendrochirotida
+Dendrochirotida
+
+Synaptidae
+Synaptidae
+Cucumariidae
+Cucumariidae
+Cucumariidae
+Cucumariidae
+
+124670
+125057
+236130
+125064
+123613
+125195
+
+2
+4
+4
+4
+4
+4
+
+3
+3
+3
+3
+3
+3
+
+S
+B
+B
+B
+B
+B
+
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+
+Holothuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+
+Dendrochirotida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+
+Cucumariidae
+Amphilepididae
+Amphiuridae
+Amphiuridae
+Amphiuridae
+Amphiuridae
+
+125073
+125080
+125027
+125131
+124850
+123574
+124913
+124929
+123200
+110367
+110377
+110375
+
+4
+4
+2
+2
+2
+2
+2
+2
+2
+5
+3
+3
+
+3
+3
+2
+2
+2
+2
+2
+2
+2
+4
+2
+2
+
+B
+B
+S
+S
+S
+S
+S
+S
+S
+R
+DC
+DC
+
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echinodermata
+Echiura
+Echiura
+Echiura
+
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Ophiuroidea
+Echiuroidea
+Echiuroidea
+Echiuroidea
+
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Ophiurida
+Bonelliida
+Echiurida
+Echiurida
+
+Amphiuridae
+Amphiuridae
+Ophiocomidae
+Ophiotrichidae
+Ophiuridae
+Ophiuridae
+Ophiuridae
+Ophiuridae
+Ophiuridae
+Bonelliidae
+Echiuridae
+Echiuridae
+
+110345
+1269
+137612
+178738
+160539
+
+3
+3
+5
+5
+2
+
+2
+2
+4
+4
+2
+
+DC
+DC
+R
+R
+S
+
+Echiura
+Echiura
+HemiChordata
+HemiChordata
+Mollusca
+
+Echiuroidea
+
+Echiurida
+
+Enteropneusta
+Enteropneusta
+Bivalvia
+
+Enteropneusta
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+Brissidae
+Loveniidae
+Loveniidae
+Loveniidae
+Spatangidae
+
+Spengelidae
+Pharidae
+
+3977
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+140103
+
+1
+
+2
+
+E
+
+Mollusca
+
+Bivalvia
+
+140108
+
+1
+
+2
+
+E
+
+Mollusca
+
+Bivalvia
+
+138333
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Ensis directus
+
+140732
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Ensis ensis
+
+140733
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Pharus legumen
+
+140736
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Phaxas adriaticus
+
+156343
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Phaxas pellucidus
+
+140737
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+139450
+140291
+181373
+
+3
+2
+3
+
+2
+2
+2
+
+UC/DC
+S
+DC
+
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+[unassigned]
+Euheterodonta
+Anomalodesmata
+Anomalodesmata
+Anomalodesmata
+
+138549
+141644
+152378
+141651
+140025
+140253
+138818
+138823
+138831
+492197
+140237
+140242
+140282
+140283
+140287
+234161
+234162
+152905
+152424
+138552
+141655
+141659
+141662
+141668
+141672
+141676
+139410
+138211
+140430
+140431
+140432
+140440
+140461
+140467
+
+3
+3
+3
+3
+2
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+
+DC
+DC
+DC
+DC
+S
+E
+S
+S
+S
+S
+E
+E
+S
+S
+S
+DC
+UC/DC
+S
+S
+DC
+DC
+DC
+DC
+DC
+DC
+DC
+S
+S
+S
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Anomalodesmata
+Anomalodesmata
+Anomalodesmata
+Anomalodesmata
+Arcoida
+Arcoida
+Carditoida
+Carditoida
+Carditoida
+Carditoida
+Limoida
+Limoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Lucinoida
+Myoida
+Myoida
+Myoida
+Myoida
+Myoida
+Mytiloida
+Mytiloida
+Mytiloida
+
+Hiatella arctica
+Saxicavella
+jeffreysi
+Ensis
+
+Cuspidaria obesa
+Lyonsia norwegica
+Cochlodesma
+praetenue
+Thracia
+Thracia convexa
+Thracia phaseolina
+Thracia villosiuscula
+Glycymeris glycymeris
+Limopsis cristata
+Astarte borealis
+Astarte montagui
+Goodallia triangularis
+Arcturellina
+Limatula gwyni
+Limatula subauriculata
+Lucinella divaricata
+Lucinoma borealis
+Myrtea spinifera
+Axinulus croulinensis
+Axinulus eumyarius
+Mendicula ferruginosa
+Mendicula pygmaea
+Thyasira
+Thyasira biplicata
+Thyasira equalis
+Thyasira flexuosa
+Thyasira obsoleta
+Thyasira sarsi
+Thyasira succisa
+Corbula gibba
+Mya
+Mya arenaria
+Mya truncata
+Sphenia binghami
+Crenella decussata
+Modiolula phaseolina
+Modiolus modiolus
+
+3978
+
+Family
+
+Hiatellidae
+Hiatellidae
+Pharidae
+Pharidae
+Pharidae
+Pharidae
+Pharidae
+Pharidae
+Cuspidariidae
+Lyonsiidae
+Periplomatidae
+Thraciidae
+Thraciidae
+Thraciidae
+Thraciidae
+Glycymerididae
+Limopsidae
+Astartidae
+Astartidae
+Astartidae
+Carditidae
+Limidae
+Limidae
+Lucinidae
+Lucinidae
+Lucinidae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Thyasiridae
+Corbulidae
+Myidae
+Myidae
+Myidae
+Myidae
+Mytilidae
+Mytilidae
+Mytilidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Mytilus
+Mytilus edulis
+Nuculana minuta
+Yoldiella lucida
+Ennucula tenuis
+Nucula
+Nucula hanleyi
+Nucula nitidosa
+Nucula nucleus
+Nucula sulcata
+Nucula turgida
+Nuculidae
+Anomiidae
+Monia patelliformis
+Aequipecten
+opercularis
+Palliolum striatum
+Palliolum tigerinum
+Pectinidae
+Arctica islandica
+Acanthocardia
+Acanthocardia
+aculeata
+Acanthocardia
+echinata
+Acanthocardia
+paucicostata
+Cardiidae
+Cerastoderma edule
+Laevicardium crassum
+Parvicardium exiguum
+Parvicardium
+minimum
+Parvicardium scabrum
+Donax vittatus
+Kelliella miliaris
+Vesicomya abyssicola
+Hemilepton nitidum
+Lepton squamosum
+Lutraria lutraria
+Mactra
+Mactra stultorum
+Spisula
+Spisula elliptica
+Spisula solida
+Spisula subtruncata
+Devonia perrieri
+Epilepton clarkiae
+Kurtiella bidentata
+Montacuta
+phascolionis
+Montacuta substriata
+Tellimya ferruginosa
+Tellimya tenella
+Gari
+Gari costulata
+
+138228
+140480
+140577
+142002
+140584
+138262
+140588
+140589
+140590
+140592
+152274
+204
+214
+153027
+140687
+
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+3
+
+E
+E
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+E
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Mytiloida
+Mytiloida
+Nuculanoida
+Nuculanoida
+Nuculida
+Nuculida
+Nuculida
+Nuculida
+Nuculida
+Nuculida
+Nuculida
+Nuculida
+Pectinoida
+Pectinoida
+Pectinoida
+
+Mytilidae
+Mytilidae
+Nuculanidae
+Yoldiidae
+Nuculidae
+Nuculidae
+Nuculidae
+Nuculidae
+Nuculidae
+Nuculidae
+Nuculidae
+Nuculidae
+Anomiidae
+Anomiidae
+Pectinidae
+
+140709
+140710
+213
+138802
+137732
+138990
+
+2
+2
+2
+2
+2
+2
+
+3
+3
+3
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Pectinoida
+Pectinoida
+Pectinoida
+Veneroida
+Veneroida
+Veneroida
+
+Pectinidae
+Pectinidae
+Pectinidae
+Arcticidae
+Cardiidae
+Cardiidae
+
+138992
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Veneroida
+
+Cardiidae
+
+138993
+
+2
+
+2
+
+S
+
+Mollusca
+
+Bivalvia
+
+Veneroida
+
+Cardiidae
+
+229
+138998
+139004
+139008
+139010
+
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+
+Cardiidae
+Cardiidae
+Cardiidae
+Cardiidae
+Cardiidae
+
+139012
+139604
+152396
+464333
+246148
+140218
+140295
+138158
+140299
+138159
+140300
+140301
+140302
+140365
+140366
+345281
+140374
+
+2
+2
+4
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+S
+S
+B
+B
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+
+Cardiidae
+Donacidae
+Kelliellidae
+Kelliellidae
+Lasaeidae
+Lasaeidae
+Mactridae
+Mactridae
+Mactridae
+Mactridae
+Mactridae
+Mactridae
+Mactridae
+Montacutidae
+Montacutidae
+Montacutidae
+Montacutidae
+
+140377
+146952
+152397
+138388
+140868
+
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+
+Montacutidae
+Montacutidae
+Montacutidae
+Psammobiidae
+Psammobiidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3979
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Gari depressa
+Gari fervensis
+Gari tellinella
+Abra
+Abra alba
+Abra nitida
+Abra prismatica
+Azorinus chamasolen
+Solecurtus scopula
+Angulus
+Angulus fabula
+Angulus incarnatus
+Angulus pygmaeus
+Angulus tenuis
+Arcopagia crassa
+Macoma balthica
+Moerella donacina
+Peronaea planata
+Tellina distorta
+Tellina nitida
+Turtonia minuta
+Chamelea gallina
+Chamelea striatula
+Clausinella fasciata
+Dosinia
+Dosinia exoleta
+Dosinia lupinus
+Gouldia minima
+Mysia undata
+Petricolaria
+pholadiformis
+Polititapes virgineus
+Timoclea ovata
+Venerupis corrugata
+Venerupis corrugata
+Venus casina
+Chaetoderma
+nitidulum
+Caudofoveata
+Odostomia scalaris
+Gibbula cineraria
+Bittium reticulatum
+
+140869
+140870
+140873
+138474
+141433
+141435
+141436
+141541
+141543
+146491
+152829
+594114
+152828
+146492
+141577
+141579
+147021
+605934
+141585
+141589
+141875
+141907
+141908
+141909
+138636
+141911
+141912
+141916
+140728
+156961
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+
+Psammobiidae
+Psammobiidae
+Psammobiidae
+Semelidae
+Semelidae
+Semelidae
+Semelidae
+Solecurtidae
+Solecurtidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Tellinidae
+Turtoniidae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+
+507877
+141929
+181364
+181364
+141934
+139106
+
+2
+2
+2
+2
+2
+2
+
+2
+2
+2
+2
+2
+2
+
+S
+S
+S
+S
+S
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Bivalvia
+Caudofoveata
+
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Veneroida
+Chaetodermatida
+
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Veneridae
+Chaetodermatidae
+
+151365
+141014
+141782
+139054
+
+2
+4
+1
+2
+
+2
+3
+3
+4
+
+S
+B
+E
+S
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Caudofoveata
+Gastropoda
+Gastropoda
+Gastropoda
+
+Epitonium turtonis
+
+139738
+
+2
+
+2
+
+S
+
+Mollusca
+
+Gastropoda
+
+Eulima bilineata
+
+566940
+
+4
+
+3
+
+B
+
+Mollusca
+
+Gastropoda
+
+Eulima glabra
+
+139805
+
+4
+
+3
+
+B
+
+Mollusca
+
+Gastropoda
+
+135
+
+4
+
+3
+
+B
+
+Mollusca
+
+Gastropoda
+
+Vitreolina philippi
+
+139903
+
+4
+
+3
+
+B
+
+Mollusca
+
+Gastropoda
+
+Turritella communis
+
+141872
+
+4
+
+3
+
+B
+
+Mollusca
+
+Gastropoda
+
+Hedylopsis spiculifera
+
+140085
+
+4
+
+3
+
+B
+
+Mollusca
+
+Gastropoda
+
+Eulimidae
+
+3980
+
+[unassigned]
+Caenogastropoda
+[unassigned]
+Caenogastropoda
+[unassigned]
+Caenogastropoda
+[unassigned]
+Caenogastropoda
+[unassigned]
+Caenogastropoda
+[unassigned]
+Caenogastropoda
+[unassigned]
+Caenogastropoda
+Acochlidiacea
+
+Pyramidellidae
+Trochidae
+Cerithiidae
+Epitoniidae
+Eulimidae
+Eulimidae
+Eulimidae
+Eulimidae
+Turritellidae
+Hedylopsidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Akera bullata
+Cylichna alba
+Cylichna cylindracea
+Philine
+Philine aperta
+Philine scabra
+Retusa
+Retusa truncatula
+Roxania utriculus
+Scaphander lignarius
+Aporrhais pespelecani
+Caecum glabrum
+Crepidula fornicata
+Galeodea
+echinophora
+Hydrobiidae
+Ceratia
+Ceratia proxima
+Hyala vitrea
+Euspira pulchella
+Lunatia catena
+Lunatia montagui
+Naticidae
+Alvania
+Alvania cancellata
+Alvania cimicoides
+Alvania subsoluta
+Alvania testae
+Rissoa
+Rissoa parva
+Lamellaria latens
+Buccinum undatum
+Neptunea antiqua
+Mangelia attenuata
+Raphitoma linearis
+Nassarius incrassatus
+Nassarius reticulatus
+Onchidoris
+Cuthona
+Acteon tornatilis
+Turbonilla
+Turbonilla acuta
+Turbonilla crenata
+Rissoella
+Rissoella diaphana
+Rissoella opalina
+Lepidochitona
+(Lepidochitona)
+cinerea
+Leptochiton asellus
+Antalis entalis
+Antalis vulgaris
+Entalina tetragona
+Nematoda
+Cerebratulus
+Lineidae
+
+138734
+139474
+139476
+138339
+140744
+140761
+138432
+141138
+139486
+139488
+138760
+138952
+138963
+139023
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+1
+4
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+E
+E
+E
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+
+Anaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Cephalaspidea
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+
+Akeridae
+Cylichnidae
+Cylichnidae
+Philinidae
+Philinidae
+Philinidae
+Retusidae
+Retusidae
+Scaphandridae
+Scaphandridae
+Aporrhaidae
+Caecidae
+Calyptraeidae
+Cassidae
+
+120
+138082
+140128
+140129
+140539
+150590
+150639
+145
+138439
+141165
+141168
+141247
+141251
+138456
+141365
+140172
+138878
+138920
+139265
+139371
+140503
+140513
+138288
+138543
+138691
+138421
+141052
+141057
+144173
+141147
+141149
+140143
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+2
+1
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+3
+3
+1
+2
+3
+2
+2
+2
+3
+3
+3
+2
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+E
+S
+S
+S
+S
+S
+S
+S
+E
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Gastropoda
+Polyplacophora
+
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Littorinimorpha
+Neogastropoda
+Neogastropoda
+Neogastropoda
+Neogastropoda
+Neogastropoda
+Neogastropoda
+Nudibranchia
+Nudibranchia
+
+Chitonida
+
+Hydrobiidae
+Iravadiidae
+Iravadiidae
+Iravadiidae
+Naticidae
+Naticidae
+Naticidae
+Naticidae
+Rissoidae
+Rissoidae
+Rissoidae
+Rissoidae
+Rissoidae
+Rissoidae
+Rissoidae
+Velutinidae
+Buccinidae
+Buccinidae
+Conidae
+Conidae
+Nassariidae
+Nassariidae
+Onchidorididae
+Tergipedidae
+Acteonidae
+Pyramidellidae
+Pyramidellidae
+Pyramidellidae
+Rissoellidae
+Rissoellidae
+Rissoellidae
+Tonicellidae
+
+140199
+150534
+196380
+139691
+799
+122348
+122314
+
+1
+3
+3
+2
+2
+4
+4
+
+2
+2
+2
+2
+2
+3
+3
+
+E
+UC
+UC/DC
+S
+S
+B
+B
+
+Mollusca
+Mollusca
+Mollusca
+Mollusca
+Nematoda
+Nemertea
+Nemertea
+
+Polyplacophora
+Scaphopoda
+Scaphopoda
+Scaphopoda
+
+Lepidopleurida
+Dentaliida
+Dentaliida
+Gadilida
+
+Leptochitonidae
+Dentaliidae
+Dentaliidae
+Entalinidae
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+Anopla
+Anopla
+
+Cerebratulidae
+Cerebratulidae
+
+3981
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Table 1. Continued.
+Scientific Name
+
+Aphia ID
+
+Ri
+
+Mi
+
+Fti
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Nemertea
+Tubularia
+Phoronida
+Phoronis
+Phoronis muelleri
+Phoronis pallida
+Turbellaria
+Platyhelminthes
+Pachymatisma
+johnstonia
+Golfingia
+Golfingia
+(Golfingia)
+elongata
+Golfingia (Golfingia)
+iniqua
+Golfingia (Golfingia)
+vulgaris vulgaris
+Nephasoma
+(Nephasoma)
+minutum
+Thysanocardia
+procera
+Onchnesoma
+Onchnesoma
+magnibathum
+Onchnesoma
+steenstrupii
+steenstrupii
+Phascolion
+(Phascolion)
+strombus
+strombus
+Sipunculidea
+Sipuncula
+Aspidosiphon
+(Aspidosiphon)
+muelleri muelleri
+Ericthonius
+Goneplax
+rhomboides
+Isaeidae
+Melitidae
+
+152391
+600947
+1789
+128545
+128549
+128551
+794
+793
+134057
+
+4
+1
+2
+2
+2
+2
+2
+2
+1
+
+3
+1
+1
+1
+1
+1
+2
+2
+1
+
+B
+E
+S
+S
+S
+S
+S
+S
+E
+
+Nemertea
+Ochrophyta
+Phoronida
+Phoronida
+Phoronida
+Phoronida
+Platyhelminthes
+Platyhelminthes
+Porifera
+
+Demospongiae
+
+Astrophorida
+
+Geodiidae
+
+136021
+175026
+
+4
+4
+
+3
+3
+
+B
+B
+
+Sipuncula
+Sipuncula
+
+Sipunculidea
+Sipunculidea
+
+Golfingiida
+Golfingiida
+
+Golfingiidae
+Golfingiidae
+
+136042
+
+4
+
+3
+
+B
+
+Sipuncula
+
+Sipunculidea
+
+Golfingiida
+
+Golfingiidae
+
+410724
+
+4
+
+3
+
+B
+
+Sipuncula
+
+Sipunculidea
+
+Golfingiida
+
+Golfingiidae
+
+136060
+
+4
+
+3
+
+B
+
+Sipuncula
+
+Sipunculidea
+
+Golfingiida
+
+Golfingiidae
+
+136063
+
+4
+
+3
+
+B
+
+Sipuncula
+
+Sipunculidea
+
+Golfingiida
+
+Golfingiidae
+
+136024
+136064
+
+4
+4
+
+3
+3
+
+B
+B
+
+Sipuncula
+Sipuncula
+
+Sipunculidea
+Sipunculidea
+
+Golfingiida
+Golfingiida
+
+Phascolionidae
+Phascolionidae
+
+410742
+
+2
+
+2
+
+S
+
+Sipuncula
+
+Sipunculidea
+
+Golfingiida
+
+Phascolionidae
+
+410749
+
+2
+
+2
+
+S
+
+Sipuncula
+
+Sipunculidea
+
+Golfingiida
+
+Phascolionidae
+
+1296
+1268
+410717
+
+4
+4
+4
+
+3
+3
+3
+
+B
+B
+B
+
+Sipuncula
+Sipunculida
+
+Sipunculidea
+
+101567
+107292
+
+2
+4
+
+1
+4
+
+S
+B
+
+101388
+101397
+
+2
+2
+
+3
+2
+
+S
+S
+
+Bacillariophyceae
+Phoronidae
+
+Turbellaria
+
+Mi scores: 1 for organisms that live in fixed tubes; 2 indicates limited movement; 3 indicates slow, free movement through the sediment matrix;
+4 indicates free movement, that is, via burrow system. Ri scores: 1 for epifauna; 2 for surficial modifiers; 3 for upward and downward conveyors;
+4 for biodiffusors; and 5 for regenerators. Reworking types (Fti): “S” for surficial modifiers; “B” for biodiffusors; “UC” and “DC” for upward and
+downward conveyors; “R” for regenerators; and “E” for epifauna.
+
+Thus far, variation in burrowing behavior across life
+stages has been poorly documented in the literature.
+However, in some species, juveniles and adults are
+known to exhibit different burial behavior, which can
+also be modified during reproductive stages (Aguzzi and
+Sarda 2007; Schwalb and Pusch 2009). If such changes in
+
+3982
+
+behavior are known to occur, different trait scores
+should be attributed as appropriate to different genders
+or life stages.
+3 Where no species level information exists, taxa are
+assumed to have a similar bioturbation mode to others,
+which are closely related taxonomically. The paucity of
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+Marine Invertebrate Bioturbation Classification
+
+information on many bioturbators (Teal et al. 2008)
+necessitates matching some species with the closest
+possible species or taxonomic group (e.g., genus or
+family). Regardless of whether taxonomic relatedness is
+a good indicator of the ecological characteristics of a
+species (Bevilacqua et al. 2012), the table presented
+here does not account for changes in taxonomic classification over time. Such changes in taxonomy could
+alter an organism’s taxonomic relatedness to other taxa
+and therefore its assumed bioturbation classification.
+For example, Alitta virens (Sars 1835) and Hediste
+diversicolor (M€
+uller 1776) may have been classified as
+being functionally similar, as both these species were
+formerly classified under the genus Nereis (Linnaeus
+1758). Recent changes to their taxonomic classification
+now better reflect fundamental differences in bioturbation modes (i.e., gallery diffusor and conveyor, respectively, Francßois et al. 2002). Nevertheless, in the
+absence of specific information, we consider it likely
+that genetically and physically similar taxa are likely to
+be functionally similar. As BPc is a biomass-weighted
+sum of traits from many species, we consider it unlikely that small changes to trait assignments of individual species would greatly influence large-scale
+assessments. The current structure of the table reflects
+the taxonomic classification of the species at the time
+of analysis and will need updating as taxonomic inventories are refined.
+Accepting the limitations imposed by the assumptions
+underpinning BPc, the classification list we have assembled will facilitate the calculation of BPc across most
+temperate coast and shelf benthic environments in the
+North Atlantic. This aspects makes a strong case for a
+wider implementation of BPc as a standardized indicator: the ability to build on existing data (abundance
+and biomass) to fill gaps about bioturbation patterns
+where direct assessments are not, or cannot, been routinely carried out. Further efforts will need to take
+place for other regions of the world or particular circumstances. There is also tremendous potential for
+application to historical datasets, to estimate bioturbation rates in the past, providing insight into how this
+process has helped to shape sedimentary ecosystems
+over time (Solan et al. 2008). Finally, the Marine Strategy Framework Directive (2008/56/EC) now requires an
+integrated understanding and management of regional
+scale patterns of marine ecosystem functioning, based
+on the use of inexpensive, rapid indicators. Few functional indicators currently exist for European waters,
+and initial tests of the suitability and applicability of
+BPc suggest that it holds promise as a tool for informing management and policy (Van Hoey et al. 2010; Birchenough et al. 2012).
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+Marine Invertebrate Bioturbation Classification
+
+Acknowledgments
+This publication was initiated and facilitated by the Study
+Group Climate Related Benthic Processes in the North
+Sea (SGCBNS), which is an expert group of the International Council for the Exploration of the Sea (ICES).
+Funding was supported by the Western Channel Observatory, part of the UK Natural Environmental Research
+Council’s National Capability (Queir
+os, Somerfield and
+Widdicombe), the Department of the Environment, Food
+and Rural Affairs under Science-Level Agreement SLA31
+(Birchenough), the Conseil Regional d’Aquitaine and the
+University of Bordeaux 1 (Romero-Ramirez), and the
+Flemish Fund for Scientific Research (Van Colen). Caroline Louise McNeill and Sarah Dashfield are thanked for
+their contributions towards one of the datasets analyzed.
+Celine Labrune and Jean-Michel Amouroux are thanked
+for contributions towards another.
+
+Conflict of Interest
+None declared.
+References
+Aguzzi, J., and F. Sarda. 2007. The activity rhythm of berried
+and unberried females of Nephrops norvegicus (Decapoda,
+Nephropidae). Crustaceana 80:1121–1134.
+Appeltans, W., P. Bouchet, G. A. Boxshall, C. De Broyer, N. J.
+de Voogd, D. P. Gordon, et al. eds. 2012. World register of
+marine species. Available at http://www.marinespecies.org on
+2012-12-30.
+Bertics, V. J., J. A. Sohm, T. Treude, C.-E. T. Chow, D. G.
+Capone, J. A. Fuhrman, et al. 2010. Burrowing deeper into
+benthic nitrogen cycling: the impact of bioturbation on
+nitrogen fixation coupled to sulfate reduction. Mar. Ecol.
+Prog. Ser. 409:1–15.
+Bevilacqua, S., A. Terlizzi, J. Claudet, S. Fraschetti, and F.
+Boero. 2012. Taxonomic relatedness does not matter for
+species surrogacy in the assessment of community
+responses to environmental drivers. J. Appl. Ecol. 49:357–
+366.
+Birchenough, S., R. Parker, E. McManus, and J. Barry. 2012.
+Combining bioturbation and redox metrics: potential tools
+for assessing seabed function. Ecol. Ind. 12:8–16.
+Bremner, J. 2008. Species’ traits and ecological functioning in
+marine conservation and management. J. Exp. Mar. Biol.
+Ecol. 366:37–47.
+Bunker, D., F. Declerck, J. Bradford, R. Colwell, I. Perfecto, O.
+Phillips, et al. 2005. Species loss and aboveground carbon
+storage in a tropical forest. Science 310:1029–1031.
+Francßois, F., J.-C. Poggiale, J.-P. Durbec, and G. Stora. 1997. A
+new approach for the modelling of sediment reworking
+
+3983
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+s et al.
+A.M. Queiro
+
+induced by a macrobenthic community. Acta. Biotheor.
+45:295–319.
+Francßois, F., M. Gerino, G. Stora, J.-P. Durbec, and J.-C.
+Poggiale. 2002. Functional approach to sediment reworking
+by gallery-forming macrobenthic organisms: modeling and
+application with the polychaete Nereis diversicolor. Mar.
+Ecol. Prog. Ser. 229:127–136.
+Gerino, M., G. Stora, F. Francßois-Carcaillet, F. Gilbert, J.-C.
+Poggiale, F. Mermillod-Blondin, et al. 2003.
+Macro-invertebrate functional groups in freshwater and
+marine sediments: a common mechanistic classification. Vie
+et Milieu 53:221–231.
+Gilbert, F., L. Rivet, and J. Bertrand. 1994. The in vitro
+influence of the burrowing polychaete Nereis diversicolor on
+the fate of petroleum hydrocarbons in marine sediments.
+Chemosphere 29:1–12.
+Gilbertson, W. W., M. Solan, and J. I. Prosser. 2012.
+Differential effects of microorganism–invertebrate
+interactions on benthic nitrogen cycling. FEMS Microbiol.
+Ecol. 82:11–22.
+Godbold, J. A. and M. Solan. 2013. Long-term effects of
+warming and ocean acidification are modified by seasonal
+variation in species responses and environmental conditions.
+Philos. Trans. R. Soc. B Biol. Sci. 368.
+Godbold, J. A., M. T. Bulling, and M. Solan. 2011. Habitat
+structure mediates biodiversity effects on ecosystem
+properties. Proc. Biol. Sci. 278:2510–2518.
+Halpern, B. S., S. Walbridge, K. A. Selkoe, C. V. Kappel,
+F. Micheli, C. D’Agrosa, et al. 2008. A global map of human
+impact on marine ecosystems. Science 319:948–952.
+Hoegh-Guldberg, O., and J. F. Bruno. 2010. The impact of
+climate change on the world’s marine ecosystems. Science
+328:1523–1528.
+Josefson, A. B., J. Norkko, and A. Norkko. 2012. Burial and
+decomposition of plant pigments in surface sediments of the
+Baltic Sea: role of oxygen and benthic fauna. Mar. Ecol.
+Prog. Ser. 455:33–49.
+Kristensen, E. 2001. Impact of polychaetes (Nereis spp. and
+Arenicola marina) on carbon biogeochemistry in coastal
+marine sediments. Geochem. Trans. 12:1–28.
+Lohrer, A., N. Halliday, S. Thrush, J. Hewitt, and I. Rodil.
+2010. Ecosystem functioning in a disturbance-recovery
+context: contribution of macrofauna to primary production
+and nutrient release on intertidal sandflats. J. Exp. Mar.
+Biol. Ecol. 390:6–13.
+Lotze, H., H. Lenihan, B. Bourque, R. Bradbury, R. Cooke,
+M. Kay, et al. 2006. Depletion, degradation, and recovery
+potential of estuaries and coastal seas. Science 312:1806–
+1809.
+Macdonald, T. A., B. J. Burd, and A. van Roodselaar. 2012.
+Size structure of marine soft-bottom macrobenthic
+communities across natural habitat gradients: implications
+for productivity and ecosystem function. PLoS One 7:
+e40071.
+
+Maire, O., J. C. Duch^ene, A. Gremare, V. S. Malyuga, and
+F. J. R. Meysman. 2007. A comparison of sediment
+reworking rates by the surface deposit-feeding bivalve Abra
+ovata during summertime and wintertime, with a
+comparison between two models of sediment reworking. J.
+Exp. Mar. Biol. Ecol. 343:21–36.
+Maire, O., J. Merchant, M. Bulling, L. Teal, A. Gremare,
+J. Duch^ene, et al. 2010. Indirect effects of non-lethal
+predation on bivalve activity and sediment reworking.
+J. Exp. Mar. Biol. Ecol. 395:30–36.
+Mermillod-Blondin, F., and R. Rosenberg. 2006. Ecosystem
+engineering: the impact of bioturbation on biogeochemical
+processes in marine and freshwater benthic habitats. Aquat.
+Sci. 68:434–442.
+Montserrat, F., C. Van Colen, P. Provoost, M. Milla, M.
+Ponti, K. Van den Meersche, et al. 2009. Sediment
+segregation by biodiffusing bivalves. Estuar. Coast. Shelf
+Sci. 83:379–391.
+Needham, H. R., C. A. Pilditch, A. M. Lohrer, and S. F.
+Thrush. 2011. Context-specific bioturbation mediates
+changes to ecosystem functioning. Ecosystems 14:1096–1109.
+Ouellette, D., G. Desrosiers, J. P. Gagne, F. Gilbert, J. C.
+Poggiale, P. U. Blier, et al. 2004. Effects of temperature on
+in vitro sediment reworking processes by a gallery
+biodiffusor, the polychaete Neanthes virens. Mar. Ecol. Prog.
+Ser. 266:185–193.
+Painting, S. J., J. Van der Molen, E. Parker, C. Coughlan,
+S. Birchenough, S. Bolam, et al. 2012. Development of
+indicators of ecosystem functioning in a temperate shelf sea:
+a combined fieldwork and modelling approach.
+Biogeochemistry 113:1–21.
+Pischedda, L., J. C. Poggiale, P. Cuny, and F. Gilbert. 2008.
+Imaging oxygen distribution in marine sediments. The
+importance of bioturbation and sediment heterogeneity.
+Acta. Biotheor. 56:123–135.
+Przeslawski, R., Q. Zhu, and R. Aller. 2009. Effects of abiotic
+stressors on infaunal burrowing and associated sediment
+characteristics. Mar. Ecol. Prog. Ser. 392:33–42.
+Queir
+os, A. M., J. G. Hiddink, M. J. Kaiser, and H. Hinz.
+2006. Effects of chronic bottom trawling disturbance on
+benthic biomass, production and size spectra in different
+habitats. J. Exp. Mar. Biol. Ecol. 335:91–103.
+Queir
+os, A. M., J. G. Hiddink, G. Johnson, H. N. Cabral, and
+M. J. Kaiser. 2011. Context dependence of marine ecosystem
+engineer invasion impacts on benthic ecosystem functioning.
+Biol. Invasions 13:1059–1075.
+Rhoads, D. 1974. Organism-sediment relationships on the
+muddy sea floor. Oceanogr. Mar. Biol., Annu. Rev. 12:263–
+300.
+Richter, R. 1936. Marken und Spruren im Hunsriick-Schiefer. II.
+Schichtung und Grund-Leben. Senckenbergiana 18:215–244.
+Schwalb, A. N., and M. T. Pusch. 2009. Horizontal and
+vertical movements of unionid mussels in a lowland river. J.
+North Am. Benthol. Soc. 26:261–272.
+
+3984
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marine Invertebrate Bioturbation Classification
+
+Marine Invertebrate Bioturbation Classification
+
+Solan, M. 2000. The concerted use of ‘traditional’ and
+Sediment Profile Imagery (SPI) methodologies in marine
+benthic characterisation and monitoring. Unpublished PhD
+thesis, Department of Zoology, National University of
+Ireland, Galway.
+Solan, M., B. J. Cardinale, A. L. Downing, K. A. M.
+Engelhardt, J. L. Ruesink, and D. S. Srivastava. 2004a.
+Extinction and ecosystem function in the marine benthos.
+Science 306:1177–1180.
+Solan, M., B. D. Wigham, I. R. Hudson, R. Kennedy, C. H.
+Coulon, K. Norling, et al. 2004b. In situ quantification of
+bioturbation using time-lapse fluorescent sediment profile
+imaging (f-SPI), luminophore tracers and model simulation.
+Mar. Ecol. Prog. Ser. 271:1–12.
+Solan, M., P. Batty, M. T. Bulling, and J. A. Godbold. 2008.
+How biodiversity affects ecosystem processes: implications
+for ecological revolutions and benthic ecosystem function.
+Aquat. Biol. 2:289–301.
+Solan, M., F. Scott, N. K. Dulvy, J. A. Godbold, and R.
+Parker. 2012. Incorporating extinction risk and realistic
+biodiversity futures: implementation of trait-based
+extinction scenarios. Pp. 127–148. in M. Solan, R. J. Aspden
+and D. M. Paterson, eds. Marine biodiversity and ecosystem
+functioning: frameworks, methodologies, and integration.
+Oxford University Press, Oxford, U.K.
+Stahl, H., A. Glud, C. R. Schroder, I. Klimant, A. Tengberg,
+and R. N. Glud. 2006. Time-resolved pH imaging in marine
+sediments with a luminescent planar optode. Limnol.
+Oceanogr. Methods 4:336–345.
+Swift, D. 1993. The macrobenthic infauna off Sellafield
+(north-eastern Irish Sea) with special reference to
+bioturbation. J. Mar. Biol. Assoc. U.K. 73:143–162.
+Teal, L., M. Bulling, E. Parker, and M. Solan. 2008. Global
+patterns of bioturbation intensity and mixed depth of
+marine soft sediment. Aquat. Biol. 2:207–218.
+Teal, L. R., R. Parker, G. Fones, and M. Solan. 2009.
+Simultaneous determination of in situ vertical transitions of
+color, pore-water metals, and visualization of infaunal activity
+in marine sediments. Limnol. Oceanogr. 54:1801–1810.
+Teal, L., E. Parker, and M. Solan. 2013. Coupling bioturbation
+activity to metal (Fe and Mn) profiles in situ.
+Biogeosciences 10:2365–2378.
+Tyler, E. H., P. J. Somerfield, E. V. Berghe, J. Bremner, E.
+Jackson, O. Langmead, et al. 2012. Extensive gaps and biases
+
+in our knowledge of a well-known fauna: implications for
+integrating biological traits into macroecology. Glob. Ecol.
+Biogeogr. 21:922–934.
+Van Colen, C., F. Rossi, F. Montserrat, M. G. I. Andersson, B.
+Gribsholt, P. M. J. Herman, et al. 2012. Organism-sediment
+interactions govern post-hypoxia recovery of ecosystem
+functioning. PLoS One 7:e49795.
+Van Hoey, G., A. Borja, S. Birchenough, L. Buhl-Mortensen,
+S. Degraer, D. Fleischer, et al. 2010. The use of benthic
+indicators in Europe: from the Water Framework Directive
+to the Marine Strategy Framework Directive. Mar. Pollut.
+Bull. 60:2187–2196.
+Van Hoey, G., D. C. Permuy, S. Vandendriessche, M. Vincx,
+and K. Hostens. 2013. An ecological quality status
+assessment procedure for soft-sediment benthic
+habitats: weighing alternative approaches. Ecol. Ind.
+25:266–278.
+Villn€as, A., J. Norkko, K. Lukkari, J. Hewitt, and A. Norkko.
+2012. Consequences of increasing hypoxic disturbance on
+benthic communities and ecosystem functioning. PLoS One
+7:e44920.
+Volkenborn, N., L. Polerecky, S. I. C. Hedtkamp, J. E. E. van
+Beusekom, and D. de Beer. 2007. Bioturbation and
+bioirrigation extend the open exchange regions in permeable
+sediments. Limnol. Oceanogr. 52:1898–1909.
+Volkenborn, N., L. Polerecky, D. Wethey, and S. Woodin.
+2010. Oscillatory porewater bioadvection in marine
+sediments induced by hydraulic activities of Arenicola
+marina. Limnol. Oceanogr. 55:1231.
+White, P. C. L., J. A. Godbold, M. Solan, J. A. Wiegand and
+A. R. Holt. 2010. Ecosystem services and policy: a review of
+coastal wetland ecosystem services and an efficiency-based
+framework for implementing the ecosystem approach.
+Pp. 29–51 in R. E. Hester, R. M. Harrison, eds. Ecosystem
+services. Royal Society of Chemistry, Cambridge.
+Widdicombe, S., and P. J. Somerfield. 2012. Marine
+biodiversity: its past development, present status, and future
+threats. Pp. 1–15 in M. Solan, R. J. Aspden and D. M.
+Paterson, eds. Marine biodiversity and ecosystem
+functioning: frameworks, methodologies, and integration.
+Oxford University Press, Oxford, U.K.
+
+ª 2013 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+3985
+
+20457758, 2013, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.769 by Hellenic Center for Marine Research, Wiley Online Library on [29/11/2022]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+s et al.
+A.M. Queiro
+
+
